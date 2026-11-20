@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 233668
+revid: 235177
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -203,7 +203,7 @@ These recipes are exclusive to [The Lost Forge](Lost_Forge_of_Leiuna.md)
     -   1 [Ring of Pestilence](Ring_of_Pestilence.md) + 1 [Trickster Dust](Trickster_Dust.md) + 1 [Necrotic Membrane](Necrotic_Membrane.md)
 -   **[Ember Scorch Earrings](Ember_Scorch_Earrings.md)**
     -   1 [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md) + 5 [Dying Embers](Dying_Embers.md) + 1 [Blazing Enchant Stone](Blazing.md)
--   **[Shiva's Pendant Earrings](<Raudra's_Pendant_Earrings.md>)**
+-   **[Raudra's Pendant Earrings](<Raudra's_Pendant_Earrings.md>)**
     -   1 [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Etherbound Codex](Etherbound_Codex.md)
 -   **[Frost Crystal Earrings](Frost_Crystal_Earrings.md)**
     -   1 [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) + 1 [Chilling Enchant Stone](Chilling.md) + 1 [Frost Essence](Frost_Essence.md)

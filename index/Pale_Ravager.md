@@ -1,16 +1,14 @@
 ---
-title: Jungle Jim
-revid: 229130
-source: https://deepwoken.fandom.com/wiki/Jungle_Jim
+title: Pale Ravager
+revid: 235174
+source: https://deepwoken.fandom.com/wiki/Pale_Ravager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Individuals with unspecified pronouns]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Vow of Iron Exclusive, Individuals with unspecified pronouns]
 ---
 
-# Jungle Jim
+# Pale Ravager
 
-| Jungle Jim | |
+| Pale Ravager | |
 |---|---|
 | health | 1500 |
 | drops | Withered Gale Pale |
@@ -24,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Jungle Jim**, known as **Pale Ravager** in its death message, is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md) or on completion of any [job](Job_Boards.md).
+The **Pale Ravager**, known as **"Jungle Jim"** in its combat tag, is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md) or on completion of any [job](Job_Boards.md).
 
 Jungle Jim is a [Vesperian](Vesperian.md), and wears a [Prophet's Cloak](<Prophet's_Cloak.md>), [Moonseye Gauntlets](Moonseye_Gauntlets.md), a black [Fleet Warden Cape](Fleet_Warden_Cape.md), and a pair of black [Tracker's Boots](<Tracker's_Boots.md>). Additionally, they have a custom animated halo.
 

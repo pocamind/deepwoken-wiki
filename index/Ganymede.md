@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 228590
+revid: 235137
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -180,7 +180,7 @@ Ganymede has an alternate variant of the [Starkindred Wings](Oath%253A_Starkindr
 ## Trivia
 
 -   Despite having no apparent mouth on their faces, this has seemingly no impact on them other than visual difference. They still talk, breathe and eat. It may also be possible that their mouth is simply the exact same darkness as the rest of their face.
--   Their appearance bears a resemblance to the black mages from the _[Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)_ series and the [Snail Shaman](https://hollowknight.wiki.fextralife.com/Snail+Shaman) from _[Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight)_. As the Ganymede are meant to represent snails, it is possible the latter is a direct inspiration, especially due to Vesperians also being inspired by Hollow Knight series.
+-   Their appearance bears a resemblance to the black mages from the _[Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)_ series and the [Snail Shaman](https://hollowknight.wiki.fextralife.com/Snail+Shaman) from _[Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight)_. As the Ganymede are meant to represent snails, it is possible the latter is a direct inspiration, especially due to Vesperians also being inspired by Hollow Knight series. However the fact they wear wizard hats also rather directly links them to Black Mages.
 -   Ganymedes and Vesperians are very connected within the lore and even visually ingame. Vesperians and Ganymedes share: the same [Starkindred](Oath%253A_Starkindred.md) Oath cosmetic, the same eyes and markings (they are underneath the Vesperian Mask though), very similar surnames, and they can even be [related](Family.md) to each other.
 -   The Ganymede smelt on the equipment tooltip is noted as "Smelt: GANYMEDE\_HAT", this is likely the internal name for the item.
     -   Additionally, when holding a smelted Ganymede hat, it will always take the appearance of the ["Ganymede Hat#2"](#hats) hat, having a slight curl at the end. This will happen regardless of which hat variant it actually is.

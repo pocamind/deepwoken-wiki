@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 233700
+revid: 235178
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -3554,7 +3554,7 @@ Variants/Set
 +1 Rare Pip
 
  | Variants:  
-[Amethyst](#amethyst-pendant-earrings) & [Shiva's](#shivas-pendant-earrings) |
+[Amethyst](#amethyst-pendant-earrings) & [Raudra's](#raudras-pendant-earrings) |
 |  | [Crescent Earrings](Crescent_Earrings.md) | _+10 Ether_
 
 +1 Rare Pip
@@ -3667,13 +3667,13 @@ Ears: [Regenerative Earrings](Regenerative_Earrings.md)
 
  | Variants:  
 [Ruby Pendant](#ruby-pendant-earrings) & [Ember Scorch](#ember-scorch-earrings) |
-|  | [Shiva's Pendant Earrings](<Raudra's_Pendant_Earrings.md>) | +1 Common Pip
+|  | [Raudra's Pendant Earrings](<Raudra's_Pendant_Earrings.md>) | +1 Common Pip
 
 +1 Rare Pip  
 _+Talent: [**Skillful Recovery**](Talents.md#skillful-recovery)_
 
  | Variants:  
-[Amethyst](#amethyst-earrings) & [Shiva's](#shivas-pendant-earrings) |
+[Amethyst](#amethyst-earrings) & [Raudra's](#raudras-pendant-earrings) |
 |  | [Vaporfrost Earrings](Vaporfrost_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip  

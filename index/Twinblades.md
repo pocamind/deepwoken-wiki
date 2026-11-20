@@ -73,7 +73,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></small></div></td>
+  <a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></div></td>
   <td>40 MED</td>
   <td>17.5</td>
   <td>MED: 5</td>
@@ -107,7 +107,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#scalesplitter">Scalesplitter</a></small></div></td>
+  <a href="#scalesplitter">Scalesplitter</a></div></td>
   <td>65 MED</td>
   <td>20</td>
   <td>MED: 6</td>

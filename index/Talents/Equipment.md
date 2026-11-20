@@ -1016,7 +1016,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Grants a 7.5% damage buff to M1s (15% in Vow of Iron).
 
--   Skillful Recovery: [Shiva's Pendant Earrings](<../Raudra's_Pendant_Earrings.md>) & [Warrior's Pendant Earrings](<../Warrior's_Pendant_Earrings.md>) - Increases your passive Posture regeneration by 20% (or 35% in [Vow of Iron](../Vow_of_Iron.md)). Recover 20% more posture when parrying attacks.
+-   Skillful Recovery: [Raudra's Pendant Earrings](<../Raudra's_Pendant_Earrings.md>) & [Warrior's Pendant Earrings](<../Warrior's_Pendant_Earrings.md>) - Increases your passive Posture regeneration by 20% (or 35% in [Vow of Iron](../Vow_of_Iron.md)). Recover 20% more posture when parrying attacks.
 
 -   Sloped Plate: [Ossified Black Helm](../Ossified_Black_Helm.md) & [Blackalloy Helm](../Blackalloy_Helm.md) - Reduces the amount of damage you take when guardbroken by 10.
 

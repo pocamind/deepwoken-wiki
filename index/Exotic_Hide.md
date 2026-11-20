@@ -1,9 +1,9 @@
 ---
 title: Exotic Hide
-revid: 229298
+revid: 235148
 source: https://deepwoken.fandom.com/wiki/Exotic_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Drops, Ingredients]
+categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 ---
 
 # Exotic Hide
@@ -19,6 +19,10 @@ categories: [Items, Drops, Ingredients]
 | pass down | No |
 | desc | The tough yet flexible skin of a Megalodaunt. Despite their appearance, they are relatively poor swimmers, opting instead to climb out of undersea crevasses that bore through the surface world into the Depths. Their nests litter the less populated shores of the world. |
 | obtainment | Exotic Megalodaunt (guaranteed direct drop), Weird Trader, Jeremiah |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

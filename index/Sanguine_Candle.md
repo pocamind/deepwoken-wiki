@@ -24,6 +24,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Sanguine Candle is a red candle used for rituals that is obtainable from [Vow of Iron](Vow_of_Iron.md) chests. It's used to spawn [Jungle Jim](Jungle_Jim.md), [Phantom Hunter](Phantom_Hunter.md), and [Bloodstarved Hunter](Bloodstarved_Hunter.md) with their specific weapons tied to them. These enemies drop the weapon they are wielding upon killing them.
+The Sanguine Candle is a red candle used for rituals that is obtainable from [Vow of Iron](Vow_of_Iron.md) chests. It's used to spawn [Jungle Jim](Pale_Ravager.md), [Phantom Hunter](Phantom_Hunter.md), and [Bloodstarved Hunter](Bloodstarved_Hunter.md) with their specific weapons tied to them. These enemies drop the weapon they are wielding upon killing them.
 
 Specific ones can be spawned via interacting with Strange Sigils around the entire map, or alternatively they can be placed down and lit to spawn a random one.

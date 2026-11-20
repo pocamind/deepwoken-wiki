@@ -1,6 +1,6 @@
 ---
 title: Darksteel Cleaver
-revid: 235076
+revid: 235132
 source: https://deepwoken.fandom.com/wiki/Darksteel_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -43,7 +43,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Darksteel Cleaver is a greatsword in the [Vow of Iron](Vow_of_Iron.md) gamemode. Although being one of the best weapons for bosses in the endgame, it is obtainable from any power.
+The Darksteel Cleaver is a greatsword in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 Located where the Chariot's Spire would be in [Pathfinder](Pathfinder.md), near a [Deep Owl](Deep_Owl.md) and a [Prime Owl](Parliament.md). Be aware that the sword spawns very rarely so you might have to server hop several times to find it.
 

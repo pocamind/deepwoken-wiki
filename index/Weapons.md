@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 234437
+revid: 235152
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -89,7 +89,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
   <div><br>
-  <small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <a href="#rangescraper">Rangescraper</a></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -119,7 +119,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
   <div><br>
-  <small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
+  <a href="#gilded-knife">Gilded Knife</a></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -163,7 +163,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
+  <a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></div></td>
   <td>40 LHT</td>
   <td>15.5</td>
   <td>LHT: 5</td>
@@ -208,7 +208,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
   <div><br>
-  <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
+  <small><a href="#alloyed-tanto">Alloyed Tanto</a></small></div></td>
   <td>50 LHT</td>
   <td>17</td>
   <td>LHT: 5</td>
@@ -363,7 +363,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
+  <a href="#whaling-knife">Whaling Knife</a></div></td>
   <td>75 LHT</td>
   <td>16</td>
   <td>LHT: 8</td>
@@ -379,7 +379,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
   <div><br>
-  <small><a href="#tanto">Tanto</a></small></div></td>
+  <a href="#tanto">Tanto</a></div></td>
   <td>80 LHT</td>
   <td>17.5</td>
   <td>LHT: 7</td>
@@ -666,7 +666,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
   <div><br>
-  <small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td>
+  <a href="#broodalloy-cestus">Broodalloy Cestus</a></div></td>
   <td>50 LHT</td>
   <td>14</td>
   <td>LHT: 9.5</td>
@@ -822,7 +822,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
   <div><br>
-  <small><a href="#coral-cestus">Coral Cestus</a></small></div></td>
+  <a href="#coral-cestus">Coral Cestus</a></div></td>
   <td>85 LHT</td>
   <td>15.5</td>
   <td>LHT: 9</td>
@@ -1062,7 +1062,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td>15</td>
   <td>LHT: 8</td>
@@ -1136,7 +1136,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td>16.5</td>
   <td>LHT: 9</td>
@@ -1211,7 +1211,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-messer">Alloyed Messer</a></small></div></td>
+  <a href="#alloyed-messer">Alloyed Messer</a></div></td>
   <td>10 MED</td>
   <td>20</td>
   <td>MED: 5</td>
@@ -1227,7 +1227,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
-  <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
+  <a href="#alloyed-falchion">Alloyed Falchion</a></div></td>
   <td>20 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
@@ -1258,7 +1258,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
   <div><br>
-  <small><a href="#alloyed-katana">Alloyed Katana</a></small></div></td>
+  <a href="#alloyed-katana">Alloyed Katana</a></div></td>
   <td>25 MED</td>
   <td>18</td>
   <td>MED: 6</td>
@@ -1288,7 +1288,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-officer-saber">Alloyed Officer Saber</a></small></div></td>
+  <a href="#alloyed-officer-saber">Alloyed Officer Saber</a></div></td>
   <td>30 MED</td>
   <td>22</td>
   <td>MED: 4.5</td>
@@ -1304,7 +1304,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></small></div></td>
+  <a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></div></td>
   <td>40 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -1334,7 +1334,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></small></div></td>
+  <a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></div></td>
   <td>40 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>21</td>
@@ -1408,7 +1408,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
   <div><br>
-  <small><a href="#alloyed-shotel">Alloyed Shotel</a></small></div></td>
+  <a href="#alloyed-shotel">Alloyed Shotel</a></div></td>
   <td>45 MED</td>
   <td>22</td>
   <td>MED: 5</td>
@@ -1577,7 +1577,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
   <div><br>
-  <small><a href="#messer">Messer</a></small></div></td>
+  <a href="#messer">Messer</a></div></td>
   <td>75 MED</td>
   <td>21</td>
   <td>MED: 6</td>
@@ -1593,7 +1593,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#cavalry-saber">Cavalry Saber</a></small></div></td>
+  <a href="#cavalry-saber">Cavalry Saber</a></div></td>
   <td>75 MED</td>
   <td>22.5</td>
   <td>MED: 5.5</td>
@@ -1609,7 +1609,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#officer-saber">Officer Saber</a></small></div></td>
+  <a href="#officer-saber">Officer Saber</a></div></td>
   <td>75 MED</td>
   <td>23</td>
   <td>MED: 4.8</td>
@@ -1625,7 +1625,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
-  <small><a href="#falchion">Falchion</a></small></div></td>
+  <a href="#falchion">Falchion</a></div></td>
   <td>75 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
@@ -1642,7 +1642,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#vigil-longsword">Vigil Longsword</a></small></div></td>
+  <a href="#vigil-longsword">Vigil Longsword</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7.5</td>
@@ -1658,7 +1658,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
   <div><br>
-  <small><a href="#shotel">Shotel</a></small></div></td>
+  <a href="#shotel">Shotel</a></div></td>
   <td>75 MED</td>
   <td>22</td>
   <td>MED: 6</td>
@@ -1674,7 +1674,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
   <div><br>
-  <small><a href="#katana">Katana</a></small></div></td>
+  <a href="#katana">Katana</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7</td>
@@ -2149,7 +2149,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
   <div><br>
-  <small><a href="#ritual-sacrifice">Ritual Sacrifice</a></small></div></td>
+  <a href="#ritual-sacrifice">Ritual Sacrifice</a></div></td>
   <td>35 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -2165,7 +2165,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
   <div><br>
-  <small><a href="#ritual-spear">Ritual Spear</a></small></div></td>
+  <a href="#ritual-spear">Ritual Spear</a></div></td>
   <td>35 MED</td>
   <td>25</td>
   <td>MED: 7</td>
@@ -2238,7 +2238,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
+  <a href="#alloyed-trident-spear">Alloyed Trident Spear</a></div></td>
   <td>50 MED</td>
   <td>19</td>
   <td>MED: 6</td>
@@ -2317,7 +2317,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
   <div><br>
-  <small><a href="#gremorian-longspear">Gremorian Longspear</a></small></div></td>
+  <a href="#gremorian-longspear">Gremorian Longspear</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 6.5</td>
@@ -2396,7 +2396,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#trident-spear">Trident Spear</a></small></div></td>
+  <a href="#trident-spear">Trident Spear</a></div></td>
   <td>85 MED</td>
   <td>19</td>
   <td>MED: 7</td>
@@ -2665,7 +2665,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></small></div></td>
+  <a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></div></td>
   <td>40 MED</td>
   <td>17.5</td>
   <td>MED: 5</td>
@@ -2699,7 +2699,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#scalesplitter">Scalesplitter</a></small></div></td>
+  <a href="#scalesplitter">Scalesplitter</a></div></td>
   <td>65 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -2852,7 +2852,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
   <div><br>
-  <small><a href="#alloyed-halberd">Alloyed Halberd</a></small></div></td>
+  <a href="#alloyed-halberd">Alloyed Halberd</a></div></td>
   <td>25 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>22</td>
@@ -2869,7 +2869,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></small></div></td>
+  <a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></div></td>
   <td>35 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -2886,7 +2886,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></small></div></td>
+  <a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></div></td>
   <td>35 HVY</td>
   <td>24</td>
   <td>HVY: 7</td>
@@ -3018,7 +3018,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#canorian-axe">Canorian Axe</a></small></div></td>
+  <a href="#canorian-axe">Canorian Axe</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 9</td>
@@ -3034,7 +3034,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
   <div><br>
-  <small><a href="#halberd">Halberd</a></small></div></td>
+  <a href="#halberd">Halberd</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 8</td>
@@ -3050,7 +3050,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#adretian-axe">Adretian Axe</a></small></div></td>
+  <a href="#adretian-axe">Adretian Axe</a></div></td>
   <td>75 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -3190,8 +3190,8 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
   <div><br>
-  <small><a href="#bloodbane">Bloodbane</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#bloodbane">Bloodbane</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -3225,7 +3225,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
   <div><br>
-  <small><a href="#alloyed-inheritor">Alloyed Inheritor</a></small></div></td>
+  <a href="#alloyed-inheritor">Alloyed Inheritor</a></div></td>
   <td>30 HVY<br>
   10 STR<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
@@ -3243,7 +3243,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darkalloy-greatsword">Darkalloy Greatsword</a></small></div></td>
+  <a href="#darkalloy-greatsword">Darkalloy Greatsword</a></div></td>
   <td>40 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -3309,7 +3309,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></small></div></td>
+  <a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></div></td>
   <td>45 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -3361,8 +3361,8 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>23</td>
@@ -3442,8 +3442,8 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#bloodbane">Bloodbane</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#bloodbane">Bloodbane</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>23</td>
@@ -3460,7 +3460,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#crescent-cleaver">Crescent Cleaver</a></small></div></td>
+  <a href="#crescent-cleaver">Crescent Cleaver</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>22.4</td>
@@ -3478,7 +3478,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darksteel-greatsword">Darksteel Greatsword</a></small></div></td>
+  <a href="#darksteel-greatsword">Darksteel Greatsword</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -3495,7 +3495,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
   <div><br>
-  <small><a href="#markors-inheritor">Markor's Inheritor</a></small></div></td>
+  <a href="#markors-inheritor">Markor's Inheritor</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -3669,8 +3669,8 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#warmonger">Warmonger</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#warmonger">Warmonger</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -3687,7 +3687,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></small></div></td>
+  <a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></div></td>
   <td>55 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -3736,8 +3736,8 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>27</td>
@@ -3783,8 +3783,8 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#warmonger">Warmonger</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#warmonger">Warmonger</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -3801,7 +3801,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#forge-greathammer">Forge Greathammer</a></small></div></td>
+  <a href="#forge-greathammer">Forge Greathammer</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>25.5</td>
@@ -4992,7 +4992,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
   <div><br>
-  <small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <a href="#rangescraper">Rangescraper</a></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -5022,7 +5022,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
   <div><br>
-  <small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
+  <a href="#gilded-knife">Gilded Knife</a></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -5066,7 +5066,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
+  <a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></div></td>
   <td>40 LHT</td>
   <td>15.5</td>
   <td>LHT: 5</td>
@@ -5111,7 +5111,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
   <div><br>
-  <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
+  <small><a href="#alloyed-tanto">Alloyed Tanto</a></small></div></td>
   <td>50 LHT</td>
   <td>17</td>
   <td>LHT: 5</td>
@@ -5266,7 +5266,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
+  <a href="#whaling-knife">Whaling Knife</a></div></td>
   <td>75 LHT</td>
   <td>16</td>
   <td>LHT: 8</td>
@@ -5282,7 +5282,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
   <div><br>
-  <small><a href="#tanto">Tanto</a></small></div></td>
+  <a href="#tanto">Tanto</a></div></td>
   <td>80 LHT</td>
   <td>17.5</td>
   <td>LHT: 7</td>
@@ -5569,7 +5569,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
   <div><br>
-  <small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td>
+  <a href="#broodalloy-cestus">Broodalloy Cestus</a></div></td>
   <td>50 LHT</td>
   <td>14</td>
   <td>LHT: 9.5</td>
@@ -5725,7 +5725,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
   <div><br>
-  <small><a href="#coral-cestus">Coral Cestus</a></small></div></td>
+  <a href="#coral-cestus">Coral Cestus</a></div></td>
   <td>85 LHT</td>
   <td>15.5</td>
   <td>LHT: 9</td>
@@ -5965,7 +5965,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td>15</td>
   <td>LHT: 8</td>
@@ -6039,7 +6039,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td>16.5</td>
   <td>LHT: 9</td>
@@ -6132,7 +6132,7 @@ Daggers
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
   <div><br>
-  <small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <a href="#rangescraper">Rangescraper</a></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -6162,7 +6162,7 @@ Daggers
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
   <div><br>
-  <small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
+  <a href="#gilded-knife">Gilded Knife</a></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -6206,7 +6206,7 @@ Daggers
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
+  <a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></div></td>
   <td>40 LHT</td>
   <td>15.5</td>
   <td>LHT: 5</td>
@@ -6251,7 +6251,7 @@ Daggers
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
   <div><br>
-  <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
+  <small><a href="#alloyed-tanto">Alloyed Tanto</a></small></div></td>
   <td>50 LHT</td>
   <td>17</td>
   <td>LHT: 5</td>
@@ -6406,7 +6406,7 @@ Daggers
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
+  <a href="#whaling-knife">Whaling Knife</a></div></td>
   <td>75 LHT</td>
   <td>16</td>
   <td>LHT: 8</td>
@@ -6422,7 +6422,7 @@ Daggers
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
   <div><br>
-  <small><a href="#tanto">Tanto</a></small></div></td>
+  <a href="#tanto">Tanto</a></div></td>
   <td>80 LHT</td>
   <td>17.5</td>
   <td>LHT: 7</td>
@@ -6727,7 +6727,7 @@ Cestus
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
   <div><br>
-  <small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td>
+  <a href="#broodalloy-cestus">Broodalloy Cestus</a></div></td>
   <td>50 LHT</td>
   <td>14</td>
   <td>LHT: 9.5</td>
@@ -6883,7 +6883,7 @@ Cestus
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
   <div><br>
-  <small><a href="#coral-cestus">Coral Cestus</a></small></div></td>
+  <a href="#coral-cestus">Coral Cestus</a></div></td>
   <td>85 LHT</td>
   <td>15.5</td>
   <td>LHT: 9</td>
@@ -7159,7 +7159,7 @@ Pistols
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td>15</td>
   <td>LHT: 8</td>
@@ -7233,7 +7233,7 @@ Pistols
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td>16.5</td>
   <td>LHT: 9</td>
@@ -7329,7 +7329,7 @@ Pistols
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-messer">Alloyed Messer</a></small></div></td>
+  <a href="#alloyed-messer">Alloyed Messer</a></div></td>
   <td>10 MED</td>
   <td>20</td>
   <td>MED: 5</td>
@@ -7345,7 +7345,7 @@ Pistols
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
-  <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
+  <a href="#alloyed-falchion">Alloyed Falchion</a></div></td>
   <td>20 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
@@ -7376,7 +7376,7 @@ Pistols
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
   <div><br>
-  <small><a href="#alloyed-katana">Alloyed Katana</a></small></div></td>
+  <a href="#alloyed-katana">Alloyed Katana</a></div></td>
   <td>25 MED</td>
   <td>18</td>
   <td>MED: 6</td>
@@ -7406,7 +7406,7 @@ Pistols
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-officer-saber">Alloyed Officer Saber</a></small></div></td>
+  <a href="#alloyed-officer-saber">Alloyed Officer Saber</a></div></td>
   <td>30 MED</td>
   <td>22</td>
   <td>MED: 4.5</td>
@@ -7422,7 +7422,7 @@ Pistols
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></small></div></td>
+  <a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></div></td>
   <td>40 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -7452,7 +7452,7 @@ Pistols
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></small></div></td>
+  <a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></div></td>
   <td>40 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>21</td>
@@ -7526,7 +7526,7 @@ Pistols
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
   <div><br>
-  <small><a href="#alloyed-shotel">Alloyed Shotel</a></small></div></td>
+  <a href="#alloyed-shotel">Alloyed Shotel</a></div></td>
   <td>45 MED</td>
   <td>22</td>
   <td>MED: 5</td>
@@ -7695,7 +7695,7 @@ Pistols
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
   <div><br>
-  <small><a href="#messer">Messer</a></small></div></td>
+  <a href="#messer">Messer</a></div></td>
   <td>75 MED</td>
   <td>21</td>
   <td>MED: 6</td>
@@ -7711,7 +7711,7 @@ Pistols
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#cavalry-saber">Cavalry Saber</a></small></div></td>
+  <a href="#cavalry-saber">Cavalry Saber</a></div></td>
   <td>75 MED</td>
   <td>22.5</td>
   <td>MED: 5.5</td>
@@ -7727,7 +7727,7 @@ Pistols
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#officer-saber">Officer Saber</a></small></div></td>
+  <a href="#officer-saber">Officer Saber</a></div></td>
   <td>75 MED</td>
   <td>23</td>
   <td>MED: 4.8</td>
@@ -7743,7 +7743,7 @@ Pistols
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
-  <small><a href="#falchion">Falchion</a></small></div></td>
+  <a href="#falchion">Falchion</a></div></td>
   <td>75 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
@@ -7760,7 +7760,7 @@ Pistols
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#vigil-longsword">Vigil Longsword</a></small></div></td>
+  <a href="#vigil-longsword">Vigil Longsword</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7.5</td>
@@ -7776,7 +7776,7 @@ Pistols
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
   <div><br>
-  <small><a href="#shotel">Shotel</a></small></div></td>
+  <a href="#shotel">Shotel</a></div></td>
   <td>75 MED</td>
   <td>22</td>
   <td>MED: 6</td>
@@ -7792,7 +7792,7 @@ Pistols
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
   <div><br>
-  <small><a href="#katana">Katana</a></small></div></td>
+  <a href="#katana">Katana</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7</td>
@@ -8267,7 +8267,7 @@ Pistols
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
   <div><br>
-  <small><a href="#ritual-sacrifice">Ritual Sacrifice</a></small></div></td>
+  <a href="#ritual-sacrifice">Ritual Sacrifice</a></div></td>
   <td>35 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -8283,7 +8283,7 @@ Pistols
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
   <div><br>
-  <small><a href="#ritual-spear">Ritual Spear</a></small></div></td>
+  <a href="#ritual-spear">Ritual Spear</a></div></td>
   <td>35 MED</td>
   <td>25</td>
   <td>MED: 7</td>
@@ -8356,7 +8356,7 @@ Pistols
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
+  <a href="#alloyed-trident-spear">Alloyed Trident Spear</a></div></td>
   <td>50 MED</td>
   <td>19</td>
   <td>MED: 6</td>
@@ -8435,7 +8435,7 @@ Pistols
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
   <div><br>
-  <small><a href="#gremorian-longspear">Gremorian Longspear</a></small></div></td>
+  <a href="#gremorian-longspear">Gremorian Longspear</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 6.5</td>
@@ -8514,7 +8514,7 @@ Pistols
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#trident-spear">Trident Spear</a></small></div></td>
+  <a href="#trident-spear">Trident Spear</a></div></td>
   <td>85 MED</td>
   <td>19</td>
   <td>MED: 7</td>
@@ -8783,7 +8783,7 @@ Pistols
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></small></div></td>
+  <a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></div></td>
   <td>40 MED</td>
   <td>17.5</td>
   <td>MED: 5</td>
@@ -8817,7 +8817,7 @@ Pistols
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#scalesplitter">Scalesplitter</a></small></div></td>
+  <a href="#scalesplitter">Scalesplitter</a></div></td>
   <td>65 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -9002,7 +9002,7 @@ Swords
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-messer">Alloyed Messer</a></small></div></td>
+  <a href="#alloyed-messer">Alloyed Messer</a></div></td>
   <td>10 MED</td>
   <td>20</td>
   <td>MED: 5</td>
@@ -9018,7 +9018,7 @@ Swords
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
-  <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
+  <a href="#alloyed-falchion">Alloyed Falchion</a></div></td>
   <td>20 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
@@ -9049,7 +9049,7 @@ Swords
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
   <div><br>
-  <small><a href="#alloyed-katana">Alloyed Katana</a></small></div></td>
+  <a href="#alloyed-katana">Alloyed Katana</a></div></td>
   <td>25 MED</td>
   <td>18</td>
   <td>MED: 6</td>
@@ -9079,7 +9079,7 @@ Swords
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-officer-saber">Alloyed Officer Saber</a></small></div></td>
+  <a href="#alloyed-officer-saber">Alloyed Officer Saber</a></div></td>
   <td>30 MED</td>
   <td>22</td>
   <td>MED: 4.5</td>
@@ -9095,7 +9095,7 @@ Swords
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></small></div></td>
+  <a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></div></td>
   <td>40 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -9125,7 +9125,7 @@ Swords
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></small></div></td>
+  <a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></div></td>
   <td>40 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>21</td>
@@ -9199,7 +9199,7 @@ Swords
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
   <div><br>
-  <small><a href="#alloyed-shotel">Alloyed Shotel</a></small></div></td>
+  <a href="#alloyed-shotel">Alloyed Shotel</a></div></td>
   <td>45 MED</td>
   <td>22</td>
   <td>MED: 5</td>
@@ -9368,7 +9368,7 @@ Swords
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
   <div><br>
-  <small><a href="#messer">Messer</a></small></div></td>
+  <a href="#messer">Messer</a></div></td>
   <td>75 MED</td>
   <td>21</td>
   <td>MED: 6</td>
@@ -9384,7 +9384,7 @@ Swords
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#cavalry-saber">Cavalry Saber</a></small></div></td>
+  <a href="#cavalry-saber">Cavalry Saber</a></div></td>
   <td>75 MED</td>
   <td>22.5</td>
   <td>MED: 5.5</td>
@@ -9400,7 +9400,7 @@ Swords
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#officer-saber">Officer Saber</a></small></div></td>
+  <a href="#officer-saber">Officer Saber</a></div></td>
   <td>75 MED</td>
   <td>23</td>
   <td>MED: 4.8</td>
@@ -9416,7 +9416,7 @@ Swords
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
-  <small><a href="#falchion">Falchion</a></small></div></td>
+  <a href="#falchion">Falchion</a></div></td>
   <td>75 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
@@ -9433,7 +9433,7 @@ Swords
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#vigil-longsword">Vigil Longsword</a></small></div></td>
+  <a href="#vigil-longsword">Vigil Longsword</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7.5</td>
@@ -9449,7 +9449,7 @@ Swords
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
   <div><br>
-  <small><a href="#shotel">Shotel</a></small></div></td>
+  <a href="#shotel">Shotel</a></div></td>
   <td>75 MED</td>
   <td>22</td>
   <td>MED: 6</td>
@@ -9465,7 +9465,7 @@ Swords
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
   <div><br>
-  <small><a href="#katana">Katana</a></small></div></td>
+  <a href="#katana">Katana</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7</td>
@@ -9976,7 +9976,7 @@ Spears
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
   <div><br>
-  <small><a href="#ritual-sacrifice">Ritual Sacrifice</a></small></div></td>
+  <a href="#ritual-sacrifice">Ritual Sacrifice</a></div></td>
   <td>35 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -9992,7 +9992,7 @@ Spears
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
   <div><br>
-  <small><a href="#ritual-spear">Ritual Spear</a></small></div></td>
+  <a href="#ritual-spear">Ritual Spear</a></div></td>
   <td>35 MED</td>
   <td>25</td>
   <td>MED: 7</td>
@@ -10065,7 +10065,7 @@ Spears
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
+  <a href="#alloyed-trident-spear">Alloyed Trident Spear</a></div></td>
   <td>50 MED</td>
   <td>19</td>
   <td>MED: 6</td>
@@ -10144,7 +10144,7 @@ Spears
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
   <div><br>
-  <small><a href="#gremorian-longspear">Gremorian Longspear</a></small></div></td>
+  <a href="#gremorian-longspear">Gremorian Longspear</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 6.5</td>
@@ -10223,7 +10223,7 @@ Spears
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#trident-spear">Trident Spear</a></small></div></td>
+  <a href="#trident-spear">Trident Spear</a></div></td>
   <td>85 MED</td>
   <td>19</td>
   <td>MED: 7</td>
@@ -10546,7 +10546,7 @@ Twinblades
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></small></div></td>
+  <a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></div></td>
   <td>40 MED</td>
   <td>17.5</td>
   <td>MED: 5</td>
@@ -10580,7 +10580,7 @@ Twinblades
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#scalesplitter">Scalesplitter</a></small></div></td>
+  <a href="#scalesplitter">Scalesplitter</a></div></td>
   <td>65 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -10772,7 +10772,7 @@ Bows
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
   <div><br>
-  <small><a href="#alloyed-halberd">Alloyed Halberd</a></small></div></td>
+  <a href="#alloyed-halberd">Alloyed Halberd</a></div></td>
   <td>25 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>22</td>
@@ -10789,7 +10789,7 @@ Bows
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></small></div></td>
+  <a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></div></td>
   <td>35 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -10806,7 +10806,7 @@ Bows
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></small></div></td>
+  <a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></div></td>
   <td>35 HVY</td>
   <td>24</td>
   <td>HVY: 7</td>
@@ -10938,7 +10938,7 @@ Bows
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#canorian-axe">Canorian Axe</a></small></div></td>
+  <a href="#canorian-axe">Canorian Axe</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 9</td>
@@ -10954,7 +10954,7 @@ Bows
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
   <div><br>
-  <small><a href="#halberd">Halberd</a></small></div></td>
+  <a href="#halberd">Halberd</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 8</td>
@@ -10970,7 +10970,7 @@ Bows
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#adretian-axe">Adretian Axe</a></small></div></td>
+  <a href="#adretian-axe">Adretian Axe</a></div></td>
   <td>75 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -11110,8 +11110,8 @@ Bows
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
   <div><br>
-  <small><a href="#bloodbane">Bloodbane</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#bloodbane">Bloodbane</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -11145,7 +11145,7 @@ Bows
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
   <div><br>
-  <small><a href="#alloyed-inheritor">Alloyed Inheritor</a></small></div></td>
+  <a href="#alloyed-inheritor">Alloyed Inheritor</a></div></td>
   <td>30 HVY<br>
   10 STR<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
@@ -11163,7 +11163,7 @@ Bows
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darkalloy-greatsword">Darkalloy Greatsword</a></small></div></td>
+  <a href="#darkalloy-greatsword">Darkalloy Greatsword</a></div></td>
   <td>40 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -11229,7 +11229,7 @@ Bows
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></small></div></td>
+  <a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></div></td>
   <td>45 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -11281,8 +11281,8 @@ Bows
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>23</td>
@@ -11362,8 +11362,8 @@ Bows
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#bloodbane">Bloodbane</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#bloodbane">Bloodbane</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>23</td>
@@ -11380,7 +11380,7 @@ Bows
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#crescent-cleaver">Crescent Cleaver</a></small></div></td>
+  <a href="#crescent-cleaver">Crescent Cleaver</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>22.4</td>
@@ -11398,7 +11398,7 @@ Bows
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darksteel-greatsword">Darksteel Greatsword</a></small></div></td>
+  <a href="#darksteel-greatsword">Darksteel Greatsword</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -11415,7 +11415,7 @@ Bows
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
   <div><br>
-  <small><a href="#markors-inheritor">Markor's Inheritor</a></small></div></td>
+  <a href="#markors-inheritor">Markor's Inheritor</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -11589,8 +11589,8 @@ Bows
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#warmonger">Warmonger</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#warmonger">Warmonger</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -11607,7 +11607,7 @@ Bows
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></small></div></td>
+  <a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></div></td>
   <td>55 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -11656,8 +11656,8 @@ Bows
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>27</td>
@@ -11703,8 +11703,8 @@ Bows
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#warmonger">Warmonger</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#warmonger">Warmonger</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -11721,7 +11721,7 @@ Bows
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#forge-greathammer">Forge Greathammer</a></small></div></td>
+  <a href="#forge-greathammer">Forge Greathammer</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>25.5</td>
@@ -11990,7 +11990,7 @@ Greataxes
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
   <div><br>
-  <small><a href="#alloyed-halberd">Alloyed Halberd</a></small></div></td>
+  <a href="#alloyed-halberd">Alloyed Halberd</a></div></td>
   <td>25 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>22</td>
@@ -12007,7 +12007,7 @@ Greataxes
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></small></div></td>
+  <a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></div></td>
   <td>35 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -12024,7 +12024,7 @@ Greataxes
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></small></div></td>
+  <a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></div></td>
   <td>35 HVY</td>
   <td>24</td>
   <td>HVY: 7</td>
@@ -12156,7 +12156,7 @@ Greataxes
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#canorian-axe">Canorian Axe</a></small></div></td>
+  <a href="#canorian-axe">Canorian Axe</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 9</td>
@@ -12172,7 +12172,7 @@ Greataxes
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
   <div><br>
-  <small><a href="#halberd">Halberd</a></small></div></td>
+  <a href="#halberd">Halberd</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 8</td>
@@ -12188,7 +12188,7 @@ Greataxes
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#adretian-axe">Adretian Axe</a></small></div></td>
+  <a href="#adretian-axe">Adretian Axe</a></div></td>
   <td>75 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -12346,8 +12346,8 @@ Greatswords
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
   <div><br>
-  <small><a href="#bloodbane">Bloodbane</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#bloodbane">Bloodbane</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -12381,7 +12381,7 @@ Greatswords
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
   <div><br>
-  <small><a href="#alloyed-inheritor">Alloyed Inheritor</a></small></div></td>
+  <a href="#alloyed-inheritor">Alloyed Inheritor</a></div></td>
   <td>30 HVY<br>
   10 STR<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
@@ -12399,7 +12399,7 @@ Greatswords
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darkalloy-greatsword">Darkalloy Greatsword</a></small></div></td>
+  <a href="#darkalloy-greatsword">Darkalloy Greatsword</a></div></td>
   <td>40 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -12465,7 +12465,7 @@ Greatswords
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></small></div></td>
+  <a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></div></td>
   <td>45 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -12517,8 +12517,8 @@ Greatswords
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>23</td>
@@ -12598,8 +12598,8 @@ Greatswords
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#bloodbane">Bloodbane</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#bloodbane">Bloodbane</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>23</td>
@@ -12616,7 +12616,7 @@ Greatswords
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#crescent-cleaver">Crescent Cleaver</a></small></div></td>
+  <a href="#crescent-cleaver">Crescent Cleaver</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>22.4</td>
@@ -12634,7 +12634,7 @@ Greatswords
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darksteel-greatsword">Darksteel Greatsword</a></small></div></td>
+  <a href="#darksteel-greatsword">Darksteel Greatsword</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -12651,7 +12651,7 @@ Greatswords
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
   <div><br>
-  <small><a href="#markors-inheritor">Markor's Inheritor</a></small></div></td>
+  <a href="#markors-inheritor">Markor's Inheritor</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -12843,8 +12843,8 @@ Greathammers
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#warmonger">Warmonger</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#warmonger">Warmonger</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -12861,7 +12861,7 @@ Greathammers
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></small></div></td>
+  <a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></div></td>
   <td>55 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -12910,8 +12910,8 @@ Greathammers
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>27</td>
@@ -12957,8 +12957,8 @@ Greathammers
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#warmonger">Warmonger</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#warmonger">Warmonger</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -12975,7 +12975,7 @@ Greathammers
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#forge-greathammer">Forge Greathammer</a></small></div></td>
+  <a href="#forge-greathammer">Forge Greathammer</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>25.5</td>
@@ -14361,7 +14361,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
 <tr>
   <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
   <div><br>
-  <small><a href="Tenacity.md">Tenacity</a></small></div></td>
+  <a href="Tenacity.md">Tenacity</a></div></td>
   <td>30 FTD</td>
   <td>5</td>
   <td><b>✗</b></td>
@@ -14369,7 +14369,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
 <tr>
   <td><b><a href="Tenacity.md">Tenacity</a></b><br>
   <div><br>
-  <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
+  <a href="Old_World_Greatshield.md">Old World Greatshield</a></div></td>
   <td>30 FTD</td>
   <td>5</td>
   <td><b>✓</b></td>
@@ -14483,7 +14483,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td><abbr>15<br>
   (12)</abbr></td>
@@ -14533,7 +14533,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td><abbr>16.5<br>
   (13.2)</abbr></td>
@@ -14610,7 +14610,7 @@ Shields
 <tr>
   <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
   <div><br>
-  <small><a href="Tenacity.md">Tenacity</a></small></div></td>
+  <a href="Tenacity.md">Tenacity</a></div></td>
   <td>30 FTD</td>
   <td>5</td>
   <td><b>✗</b></td>
@@ -14618,7 +14618,7 @@ Shields
 <tr>
   <td><b><a href="Tenacity.md">Tenacity</a></b><br>
   <div><br>
-  <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
+  <a href="Old_World_Greatshield.md">Old World Greatshield</a></div></td>
   <td>30 FTD</td>
   <td>5</td>
   <td><b>✓</b></td>
@@ -14736,7 +14736,7 @@ Offhand Pistols
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td><abbr>15<br>
   (12)</abbr></td>
@@ -14786,7 +14786,7 @@ Offhand Pistols
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td><abbr>16.5<br>
   (13.2)</abbr></td>
@@ -14894,7 +14894,6 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   Specific weapon terminology: These terms only apply to specific weapons
     -   **FULL** and **BRKN/Shattered**: A term used specifically for the [Fractine](Fractine.md) weapon's two states of being, the full greatsword form and the broken/shattered dagger form that it becomes after the critical attack is used, changing its stats. This is exclusive to the [Fractine](Fractine.md) weapon.
     -   **1H** and **2H**: A term used specifically for the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon's two states being the Club (2H) and Sword (1H) that it becomes when stance swapping. These forms differ in stats. This is (currently) exclusive to the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon.
-    -   **GS**, **Dagger**, and **Both**: Terms used for [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), as the dagger M1s have light scaling instead of heavy. Both have Flamecharm scaling however. This is (currently) exclusive to the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) weapon.
 -   [**Bleed:**](Status_Effects.md#bleed) 5% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 15% more damage in 0.9 seconds. Bleed causes extra blood loss as well.
 -   Legendary: Special weapons which cannot be enchanted and are automatically soulbounded upon being equipped. This is not to be confused with the 'Legendary' item rarity.
     -   Relic: [Relic](Relics.md) rarity weapons that are functionally identical to Legendary Weapons, though they often have more unique obtainment methods. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
@@ -14967,7 +14966,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
   <div><br>
-  <small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <a href="#rangescraper">Rangescraper</a></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -14997,7 +14996,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
   <div><br>
-  <small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
+  <a href="#gilded-knife">Gilded Knife</a></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -15041,7 +15040,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
+  <a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></div></td>
   <td>40 LHT</td>
   <td>15.5</td>
   <td>LHT: 5</td>
@@ -15086,7 +15085,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
   <div><br>
-  <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
+  <small><a href="#alloyed-tanto">Alloyed Tanto</a></small></div></td>
   <td>50 LHT</td>
   <td>17</td>
   <td>LHT: 5</td>
@@ -15241,7 +15240,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
+  <a href="#whaling-knife">Whaling Knife</a></div></td>
   <td>75 LHT</td>
   <td>16</td>
   <td>LHT: 8</td>
@@ -15257,7 +15256,7 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
   <div><br>
-  <small><a href="#tanto">Tanto</a></small></div></td>
+  <a href="#tanto">Tanto</a></div></td>
   <td>80 LHT</td>
   <td>17.5</td>
   <td>LHT: 7</td>
@@ -15566,7 +15565,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
   <div><br>
-  <small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td>
+  <a href="#broodalloy-cestus">Broodalloy Cestus</a></div></td>
   <td>50 LHT</td>
   <td>14</td>
   <td>LHT: 9.5</td>
@@ -15722,7 +15721,7 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
   <div><br>
-  <small><a href="#coral-cestus">Coral Cestus</a></small></div></td>
+  <a href="#coral-cestus">Coral Cestus</a></div></td>
   <td>85 LHT</td>
   <td>15.5</td>
   <td>LHT: 9</td>
@@ -15820,7 +15819,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td>15</td>
   <td>LHT: 8</td>
@@ -15894,7 +15893,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td>16.5</td>
   <td>LHT: 9</td>
@@ -16176,7 +16175,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
   <div><br>
-  <small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <a href="#rangescraper">Rangescraper</a></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -16206,7 +16205,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
   <div><br>
-  <small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
+  <a href="#gilded-knife">Gilded Knife</a></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -16250,7 +16249,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
+  <a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></div></td>
   <td>40 LHT</td>
   <td>15.5</td>
   <td>LHT: 5</td>
@@ -16295,7 +16294,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
   <div><br>
-  <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
+  <small><a href="#alloyed-tanto">Alloyed Tanto</a></small></div></td>
   <td>50 LHT</td>
   <td>17</td>
   <td>LHT: 5</td>
@@ -16450,7 +16449,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
+  <a href="#whaling-knife">Whaling Knife</a></div></td>
   <td>75 LHT</td>
   <td>16</td>
   <td>LHT: 8</td>
@@ -16466,7 +16465,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
   <div><br>
-  <small><a href="#tanto">Tanto</a></small></div></td>
+  <a href="#tanto">Tanto</a></div></td>
   <td>80 LHT</td>
   <td>17.5</td>
   <td>LHT: 7</td>
@@ -16753,7 +16752,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
   <div><br>
-  <small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td>
+  <a href="#broodalloy-cestus">Broodalloy Cestus</a></div></td>
   <td>50 LHT</td>
   <td>14</td>
   <td>LHT: 9.5</td>
@@ -16909,7 +16908,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
   <div><br>
-  <small><a href="#coral-cestus">Coral Cestus</a></small></div></td>
+  <a href="#coral-cestus">Coral Cestus</a></div></td>
   <td>85 LHT</td>
   <td>15.5</td>
   <td>LHT: 9</td>
@@ -17149,7 +17148,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td>15</td>
   <td>LHT: 8</td>
@@ -17223,7 +17222,7 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td>16.5</td>
   <td>LHT: 9</td>
@@ -17324,7 +17323,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-messer">Alloyed Messer</a></small></div></td>
+  <a href="#alloyed-messer">Alloyed Messer</a></div></td>
   <td>10 MED</td>
   <td>20</td>
   <td>MED: 5</td>
@@ -17340,7 +17339,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
-  <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
+  <a href="#alloyed-falchion">Alloyed Falchion</a></div></td>
   <td>20 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
@@ -17371,7 +17370,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
   <div><br>
-  <small><a href="#alloyed-katana">Alloyed Katana</a></small></div></td>
+  <a href="#alloyed-katana">Alloyed Katana</a></div></td>
   <td>25 MED</td>
   <td>18</td>
   <td>MED: 6</td>
@@ -17401,7 +17400,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-officer-saber">Alloyed Officer Saber</a></small></div></td>
+  <a href="#alloyed-officer-saber">Alloyed Officer Saber</a></div></td>
   <td>30 MED</td>
   <td>22</td>
   <td>MED: 4.5</td>
@@ -17417,7 +17416,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></small></div></td>
+  <a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></div></td>
   <td>40 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -17447,7 +17446,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></small></div></td>
+  <a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></div></td>
   <td>40 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>21</td>
@@ -17521,7 +17520,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
   <div><br>
-  <small><a href="#alloyed-shotel">Alloyed Shotel</a></small></div></td>
+  <a href="#alloyed-shotel">Alloyed Shotel</a></div></td>
   <td>45 MED</td>
   <td>22</td>
   <td>MED: 5</td>
@@ -17690,7 +17689,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
   <div><br>
-  <small><a href="#messer">Messer</a></small></div></td>
+  <a href="#messer">Messer</a></div></td>
   <td>75 MED</td>
   <td>21</td>
   <td>MED: 6</td>
@@ -17706,7 +17705,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#cavalry-saber">Cavalry Saber</a></small></div></td>
+  <a href="#cavalry-saber">Cavalry Saber</a></div></td>
   <td>75 MED</td>
   <td>22.5</td>
   <td>MED: 5.5</td>
@@ -17722,7 +17721,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#officer-saber">Officer Saber</a></small></div></td>
+  <a href="#officer-saber">Officer Saber</a></div></td>
   <td>75 MED</td>
   <td>23</td>
   <td>MED: 4.8</td>
@@ -17738,7 +17737,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
-  <small><a href="#falchion">Falchion</a></small></div></td>
+  <a href="#falchion">Falchion</a></div></td>
   <td>75 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
@@ -17755,7 +17754,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#vigil-longsword">Vigil Longsword</a></small></div></td>
+  <a href="#vigil-longsword">Vigil Longsword</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7.5</td>
@@ -17771,7 +17770,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
   <div><br>
-  <small><a href="#shotel">Shotel</a></small></div></td>
+  <a href="#shotel">Shotel</a></div></td>
   <td>75 MED</td>
   <td>22</td>
   <td>MED: 6</td>
@@ -17787,7 +17786,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
   <div><br>
-  <small><a href="#katana">Katana</a></small></div></td>
+  <a href="#katana">Katana</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7</td>
@@ -18140,7 +18139,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
   <div><br>
-  <small><a href="#ritual-sacrifice">Ritual Sacrifice</a></small></div></td>
+  <a href="#ritual-sacrifice">Ritual Sacrifice</a></div></td>
   <td>35 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -18156,7 +18155,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
   <div><br>
-  <small><a href="#ritual-spear">Ritual Spear</a></small></div></td>
+  <a href="#ritual-spear">Ritual Spear</a></div></td>
   <td>35 MED</td>
   <td>25</td>
   <td>MED: 7</td>
@@ -18229,7 +18228,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
+  <a href="#alloyed-trident-spear">Alloyed Trident Spear</a></div></td>
   <td>50 MED</td>
   <td>19</td>
   <td>MED: 6</td>
@@ -18308,7 +18307,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
   <div><br>
-  <small><a href="#gremorian-longspear">Gremorian Longspear</a></small></div></td>
+  <a href="#gremorian-longspear">Gremorian Longspear</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 6.5</td>
@@ -18387,7 +18386,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#trident-spear">Trident Spear</a></small></div></td>
+  <a href="#trident-spear">Trident Spear</a></div></td>
   <td>85 MED</td>
   <td>19</td>
   <td>MED: 7</td>
@@ -18884,7 +18883,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></small></div></td>
+  <a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></div></td>
   <td>40 MED</td>
   <td>17.5</td>
   <td>MED: 5</td>
@@ -18918,7 +18917,7 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#scalesplitter">Scalesplitter</a></small></div></td>
+  <a href="#scalesplitter">Scalesplitter</a></div></td>
   <td>65 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -19132,7 +19131,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-messer">Alloyed Messer</a></small></div></td>
+  <a href="#alloyed-messer">Alloyed Messer</a></div></td>
   <td>10 MED</td>
   <td>20</td>
   <td>MED: 5</td>
@@ -19148,7 +19147,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
-  <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
+  <a href="#alloyed-falchion">Alloyed Falchion</a></div></td>
   <td>20 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
@@ -19179,7 +19178,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
   <div><br>
-  <small><a href="#alloyed-katana">Alloyed Katana</a></small></div></td>
+  <a href="#alloyed-katana">Alloyed Katana</a></div></td>
   <td>25 MED</td>
   <td>18</td>
   <td>MED: 6</td>
@@ -19209,7 +19208,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-officer-saber">Alloyed Officer Saber</a></small></div></td>
+  <a href="#alloyed-officer-saber">Alloyed Officer Saber</a></div></td>
   <td>30 MED</td>
   <td>22</td>
   <td>MED: 4.5</td>
@@ -19225,7 +19224,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></small></div></td>
+  <a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></div></td>
   <td>40 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -19255,7 +19254,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></small></div></td>
+  <a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></div></td>
   <td>40 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>21</td>
@@ -19329,7 +19328,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
   <div><br>
-  <small><a href="#alloyed-shotel">Alloyed Shotel</a></small></div></td>
+  <a href="#alloyed-shotel">Alloyed Shotel</a></div></td>
   <td>45 MED</td>
   <td>22</td>
   <td>MED: 5</td>
@@ -19498,7 +19497,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
   <div><br>
-  <small><a href="#messer">Messer</a></small></div></td>
+  <a href="#messer">Messer</a></div></td>
   <td>75 MED</td>
   <td>21</td>
   <td>MED: 6</td>
@@ -19514,7 +19513,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#cavalry-saber">Cavalry Saber</a></small></div></td>
+  <a href="#cavalry-saber">Cavalry Saber</a></div></td>
   <td>75 MED</td>
   <td>22.5</td>
   <td>MED: 5.5</td>
@@ -19530,7 +19529,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#officer-saber">Officer Saber</a></small></div></td>
+  <a href="#officer-saber">Officer Saber</a></div></td>
   <td>75 MED</td>
   <td>23</td>
   <td>MED: 4.8</td>
@@ -19546,7 +19545,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
-  <small><a href="#falchion">Falchion</a></small></div></td>
+  <a href="#falchion">Falchion</a></div></td>
   <td>75 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
@@ -19563,7 +19562,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#vigil-longsword">Vigil Longsword</a></small></div></td>
+  <a href="#vigil-longsword">Vigil Longsword</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7.5</td>
@@ -19579,7 +19578,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
   <div><br>
-  <small><a href="#shotel">Shotel</a></small></div></td>
+  <a href="#shotel">Shotel</a></div></td>
   <td>75 MED</td>
   <td>22</td>
   <td>MED: 6</td>
@@ -19595,7 +19594,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
   <div><br>
-  <small><a href="#katana">Katana</a></small></div></td>
+  <a href="#katana">Katana</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7</td>
@@ -20070,7 +20069,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
   <div><br>
-  <small><a href="#ritual-sacrifice">Ritual Sacrifice</a></small></div></td>
+  <a href="#ritual-sacrifice">Ritual Sacrifice</a></div></td>
   <td>35 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -20086,7 +20085,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
   <div><br>
-  <small><a href="#ritual-spear">Ritual Spear</a></small></div></td>
+  <a href="#ritual-spear">Ritual Spear</a></div></td>
   <td>35 MED</td>
   <td>25</td>
   <td>MED: 7</td>
@@ -20159,7 +20158,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
+  <a href="#alloyed-trident-spear">Alloyed Trident Spear</a></div></td>
   <td>50 MED</td>
   <td>19</td>
   <td>MED: 6</td>
@@ -20238,7 +20237,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
   <div><br>
-  <small><a href="#gremorian-longspear">Gremorian Longspear</a></small></div></td>
+  <a href="#gremorian-longspear">Gremorian Longspear</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 6.5</td>
@@ -20317,7 +20316,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#trident-spear">Trident Spear</a></small></div></td>
+  <a href="#trident-spear">Trident Spear</a></div></td>
   <td>85 MED</td>
   <td>19</td>
   <td>MED: 7</td>
@@ -20586,7 +20585,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></small></div></td>
+  <a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></div></td>
   <td>40 MED</td>
   <td>17.5</td>
   <td>MED: 5</td>
@@ -20620,7 +20619,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#scalesplitter">Scalesplitter</a></small></div></td>
+  <a href="#scalesplitter">Scalesplitter</a></div></td>
   <td>65 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -20799,7 +20798,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
   <div><br>
-  <small><a href="#alloyed-halberd">Alloyed Halberd</a></small></div></td>
+  <a href="#alloyed-halberd">Alloyed Halberd</a></div></td>
   <td>25 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>22</td>
@@ -20816,7 +20815,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></small></div></td>
+  <a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></div></td>
   <td>35 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -20833,7 +20832,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></small></div></td>
+  <a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></div></td>
   <td>35 HVY</td>
   <td>24</td>
   <td>HVY: 7</td>
@@ -20965,7 +20964,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#canorian-axe">Canorian Axe</a></small></div></td>
+  <a href="#canorian-axe">Canorian Axe</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 9</td>
@@ -20981,7 +20980,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
   <div><br>
-  <small><a href="#halberd">Halberd</a></small></div></td>
+  <a href="#halberd">Halberd</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 8</td>
@@ -20997,7 +20996,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#adretian-axe">Adretian Axe</a></small></div></td>
+  <a href="#adretian-axe">Adretian Axe</a></div></td>
   <td>75 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -21157,8 +21156,8 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
   <div><br>
-  <small><a href="#bloodbane">Bloodbane</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#bloodbane">Bloodbane</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -21192,7 +21191,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
   <div><br>
-  <small><a href="#alloyed-inheritor">Alloyed Inheritor</a></small></div></td>
+  <a href="#alloyed-inheritor">Alloyed Inheritor</a></div></td>
   <td>30 HVY<br>
   10 STR<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
@@ -21210,7 +21209,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darkalloy-greatsword">Darkalloy Greatsword</a></small></div></td>
+  <a href="#darkalloy-greatsword">Darkalloy Greatsword</a></div></td>
   <td>40 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -21276,7 +21275,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></small></div></td>
+  <a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></div></td>
   <td>45 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -21328,8 +21327,8 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>23</td>
@@ -21409,8 +21408,8 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#bloodbane">Bloodbane</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#bloodbane">Bloodbane</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>23</td>
@@ -21427,7 +21426,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#crescent-cleaver">Crescent Cleaver</a></small></div></td>
+  <a href="#crescent-cleaver">Crescent Cleaver</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>22.4</td>
@@ -21445,7 +21444,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darksteel-greatsword">Darksteel Greatsword</a></small></div></td>
+  <a href="#darksteel-greatsword">Darksteel Greatsword</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -21462,7 +21461,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
   <div><br>
-  <small><a href="#markors-inheritor">Markor's Inheritor</a></small></div></td>
+  <a href="#markors-inheritor">Markor's Inheritor</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -21656,8 +21655,8 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#warmonger">Warmonger</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#warmonger">Warmonger</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -21674,7 +21673,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></small></div></td>
+  <a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></div></td>
   <td>55 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -21723,8 +21722,8 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>27</td>
@@ -21770,8 +21769,8 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#warmonger">Warmonger</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#warmonger">Warmonger</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -21788,7 +21787,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#forge-greathammer">Forge Greathammer</a></small></div></td>
+  <a href="#forge-greathammer">Forge Greathammer</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>25.5</td>
@@ -22080,7 +22079,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
   <div><br>
-  <small><a href="#alloyed-halberd">Alloyed Halberd</a></small></div></td>
+  <a href="#alloyed-halberd">Alloyed Halberd</a></div></td>
   <td>25 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>22</td>
@@ -22097,7 +22096,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></small></div></td>
+  <a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></div></td>
   <td>35 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -22114,7 +22113,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></small></div></td>
+  <a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></div></td>
   <td>35 HVY</td>
   <td>24</td>
   <td>HVY: 7</td>
@@ -22246,7 +22245,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#canorian-axe">Canorian Axe</a></small></div></td>
+  <a href="#canorian-axe">Canorian Axe</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 9</td>
@@ -22262,7 +22261,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
   <div><br>
-  <small><a href="#halberd">Halberd</a></small></div></td>
+  <a href="#halberd">Halberd</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 8</td>
@@ -22278,7 +22277,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#adretian-axe">Adretian Axe</a></small></div></td>
+  <a href="#adretian-axe">Adretian Axe</a></div></td>
   <td>75 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -22418,8 +22417,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
   <div><br>
-  <small><a href="#bloodbane">Bloodbane</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#bloodbane">Bloodbane</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -22453,7 +22452,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
   <div><br>
-  <small><a href="#alloyed-inheritor">Alloyed Inheritor</a></small></div></td>
+  <a href="#alloyed-inheritor">Alloyed Inheritor</a></div></td>
   <td>30 HVY<br>
   10 STR<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
@@ -22471,7 +22470,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darkalloy-greatsword">Darkalloy Greatsword</a></small></div></td>
+  <a href="#darkalloy-greatsword">Darkalloy Greatsword</a></div></td>
   <td>40 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -22537,7 +22536,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></small></div></td>
+  <a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></div></td>
   <td>45 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -22589,8 +22588,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>23</td>
@@ -22670,8 +22669,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#bloodbane">Bloodbane</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#bloodbane">Bloodbane</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>23</td>
@@ -22688,7 +22687,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#crescent-cleaver">Crescent Cleaver</a></small></div></td>
+  <a href="#crescent-cleaver">Crescent Cleaver</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>22.4</td>
@@ -22706,7 +22705,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darksteel-greatsword">Darksteel Greatsword</a></small></div></td>
+  <a href="#darksteel-greatsword">Darksteel Greatsword</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -22723,7 +22722,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
   <div><br>
-  <small><a href="#markors-inheritor">Markor's Inheritor</a></small></div></td>
+  <a href="#markors-inheritor">Markor's Inheritor</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -22897,8 +22896,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#warmonger">Warmonger</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#warmonger">Warmonger</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -22915,7 +22914,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></small></div></td>
+  <a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></div></td>
   <td>55 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -22964,8 +22963,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>27</td>
@@ -23011,8 +23010,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#warmonger">Warmonger</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#warmonger">Warmonger</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -23029,7 +23028,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#forge-greathammer">Forge Greathammer</a></small></div></td>
+  <a href="#forge-greathammer">Forge Greathammer</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>25.5</td>
@@ -24307,7 +24306,7 @@ Shields are defensive tools that when wielded in your offhand, apply their postu
 <tr>
   <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
   <div><br>
-  <small><a href="Tenacity.md">Tenacity</a></small></div></td>
+  <a href="Tenacity.md">Tenacity</a></div></td>
   <td>30 FTD</td>
   <td>5</td>
   <td><b>✗</b></td>
@@ -24315,7 +24314,7 @@ Shields are defensive tools that when wielded in your offhand, apply their postu
 <tr>
   <td><b><a href="Tenacity.md">Tenacity</a></b><br>
   <div><br>
-  <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
+  <a href="Old_World_Greatshield.md">Old World Greatshield</a></div></td>
   <td>30 FTD</td>
   <td>5</td>
   <td><b>✓</b></td>
@@ -24441,7 +24440,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td><abbr>15<br>
   (12)</abbr></td>
@@ -24491,7 +24490,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td><abbr>16.5<br>
   (13.2)</abbr></td>
@@ -24568,7 +24567,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
 <tr>
   <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
   <div><br>
-  <small><a href="Tenacity.md">Tenacity</a></small></div></td>
+  <a href="Tenacity.md">Tenacity</a></div></td>
   <td>30 FTD</td>
   <td>5</td>
   <td><b>✗</b></td>
@@ -24576,7 +24575,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
 <tr>
   <td><b><a href="Tenacity.md">Tenacity</a></b><br>
   <div><br>
-  <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
+  <a href="Old_World_Greatshield.md">Old World Greatshield</a></div></td>
   <td>30 FTD</td>
   <td>5</td>
   <td><b>✓</b></td>
@@ -24690,7 +24689,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td><abbr>15<br>
   (12)</abbr></td>
@@ -24740,7 +24739,7 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td><abbr>16.5<br>
   (13.2)</abbr></td>
@@ -24862,7 +24861,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Gilded_Knife.md">Gilded Knife</a></b><br>
   <div><br>
-  <small><a href="#rangescraper">Rangescraper</a></small></div></td>
+  <a href="#rangescraper">Rangescraper</a></div></td>
   <td>25 LHT</td>
   <td>14.5</td>
   <td>LHT: 8</td>
@@ -24892,7 +24891,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Rangescraper.md">Rangescraper</a></b><br>
   <div><br>
-  <small><a href="#gilded-knife">Gilded Knife</a></small></div></td>
+  <a href="#gilded-knife">Gilded Knife</a></div></td>
   <td>35 LHT</td>
   <td>18</td>
   <td>LHT: 7.5</td>
@@ -24936,7 +24935,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Whaling_Knife.md">Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></small></div></td>
+  <a href="#alloyed-whaling-knife">Alloyed Whaling Knife</a></div></td>
   <td>40 LHT</td>
   <td>15.5</td>
   <td>LHT: 5</td>
@@ -24981,7 +24980,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Tanto.md">Tanto</a></b><br>
   <div><br>
-  <small><small><a href="#alloyed-tanto">Alloyed Tanto</a></small></small></div></td>
+  <small><a href="#alloyed-tanto">Alloyed Tanto</a></small></div></td>
   <td>50 LHT</td>
   <td>17</td>
   <td>LHT: 5</td>
@@ -25136,7 +25135,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Whaling_Knife.md">Alloyed Whaling Knife</a></b><br>
   <div><br>
-  <small><a href="#whaling-knife">Whaling Knife</a></small></div></td>
+  <a href="#whaling-knife">Whaling Knife</a></div></td>
   <td>75 LHT</td>
   <td>16</td>
   <td>LHT: 8</td>
@@ -25152,7 +25151,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Tanto.md">Alloyed Tanto</a></b><br>
   <div><br>
-  <small><a href="#tanto">Tanto</a></small></div></td>
+  <a href="#tanto">Tanto</a></div></td>
   <td>80 LHT</td>
   <td>17.5</td>
   <td>LHT: 7</td>
@@ -25439,7 +25438,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
   <div><br>
-  <small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td>
+  <a href="#broodalloy-cestus">Broodalloy Cestus</a></div></td>
   <td>50 LHT</td>
   <td>14</td>
   <td>LHT: 9.5</td>
@@ -25595,7 +25594,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
   <div><br>
-  <small><a href="#coral-cestus">Coral Cestus</a></small></div></td>
+  <a href="#coral-cestus">Coral Cestus</a></div></td>
   <td>85 LHT</td>
   <td>15.5</td>
   <td>LHT: 9</td>
@@ -25835,7 +25834,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td>15</td>
   <td>LHT: 8</td>
@@ -25909,7 +25908,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td>16.5</td>
   <td>LHT: 9</td>
@@ -25984,7 +25983,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Messer.md">Messer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-messer">Alloyed Messer</a></small></div></td>
+  <a href="#alloyed-messer">Alloyed Messer</a></div></td>
   <td>10 MED</td>
   <td>20</td>
   <td>MED: 5</td>
@@ -26000,7 +25999,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Falchion.md">Falchion</a></b><br>
   <div><br>
-  <small><a href="#alloyed-falchion">Alloyed Falchion</a></small></div></td>
+  <a href="#alloyed-falchion">Alloyed Falchion</a></div></td>
   <td>20 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>16</td>
@@ -26031,7 +26030,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Katana.md">Katana</a></b><br>
   <div><br>
-  <small><a href="#alloyed-katana">Alloyed Katana</a></small></div></td>
+  <a href="#alloyed-katana">Alloyed Katana</a></div></td>
   <td>25 MED</td>
   <td>18</td>
   <td>MED: 6</td>
@@ -26061,7 +26060,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Officer_Saber.md">Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-officer-saber">Alloyed Officer Saber</a></small></div></td>
+  <a href="#alloyed-officer-saber">Alloyed Officer Saber</a></div></td>
   <td>30 MED</td>
   <td>22</td>
   <td>MED: 4.5</td>
@@ -26077,7 +26076,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Vigil_Longsword.md">Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></small></div></td>
+  <a href="#alloyed-vigil-longsword">Alloyed Vigil Longsword</a></div></td>
   <td>40 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -26107,7 +26106,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Cavalry_Saber.md">Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></small></div></td>
+  <a href="#alloyed-cavalry-saber">Alloyed Cavalry Saber</a></div></td>
   <td>40 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>21</td>
@@ -26181,7 +26180,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Shotel.md">Shotel</a></b><br>
   <div><br>
-  <small><a href="#alloyed-shotel">Alloyed Shotel</a></small></div></td>
+  <a href="#alloyed-shotel">Alloyed Shotel</a></div></td>
   <td>45 MED</td>
   <td>22</td>
   <td>MED: 5</td>
@@ -26350,7 +26349,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Messer.md">Alloyed Messer</a></b><br>
   <div><br>
-  <small><a href="#messer">Messer</a></small></div></td>
+  <a href="#messer">Messer</a></div></td>
   <td>75 MED</td>
   <td>21</td>
   <td>MED: 6</td>
@@ -26366,7 +26365,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a></b><br>
   <div><br>
-  <small><a href="#cavalry-saber">Cavalry Saber</a></small></div></td>
+  <a href="#cavalry-saber">Cavalry Saber</a></div></td>
   <td>75 MED</td>
   <td>22.5</td>
   <td>MED: 5.5</td>
@@ -26382,7 +26381,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Officer_Saber.md">Alloyed Officer Saber</a></b><br>
   <div><br>
-  <small><a href="#officer-saber">Officer Saber</a></small></div></td>
+  <a href="#officer-saber">Officer Saber</a></div></td>
   <td>75 MED</td>
   <td>23</td>
   <td>MED: 4.8</td>
@@ -26398,7 +26397,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Falchion.md">Alloyed Falchion</a></b><br>
   <div><br>
-  <small><a href="#falchion">Falchion</a></small></div></td>
+  <a href="#falchion">Falchion</a></div></td>
   <td>75 MED<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>18</td>
@@ -26415,7 +26414,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Vigil_Longsword.md">Alloyed Vigil Longsword</a></b><br>
   <div><br>
-  <small><a href="#vigil-longsword">Vigil Longsword</a></small></div></td>
+  <a href="#vigil-longsword">Vigil Longsword</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7.5</td>
@@ -26431,7 +26430,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Shotel.md">Alloyed Shotel</a></b><br>
   <div><br>
-  <small><a href="#shotel">Shotel</a></small></div></td>
+  <a href="#shotel">Shotel</a></div></td>
   <td>75 MED</td>
   <td>22</td>
   <td>MED: 6</td>
@@ -26447,7 +26446,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Katana.md">Alloyed Katana</a></b><br>
   <div><br>
-  <small><a href="#katana">Katana</a></small></div></td>
+  <a href="#katana">Katana</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 7</td>
@@ -26922,7 +26921,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Ritual_Spear.md">Ritual Spear</a></b><br>
   <div><br>
-  <small><a href="#ritual-sacrifice">Ritual Sacrifice</a></small></div></td>
+  <a href="#ritual-sacrifice">Ritual Sacrifice</a></div></td>
   <td>35 MED</td>
   <td>19</td>
   <td>MED: 5</td>
@@ -26938,7 +26937,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Ritual_Sacrifice.md">Ritual Sacrifice</a></b><br>
   <div><br>
-  <small><a href="#ritual-spear">Ritual Spear</a></small></div></td>
+  <a href="#ritual-spear">Ritual Spear</a></div></td>
   <td>35 MED</td>
   <td>25</td>
   <td>MED: 7</td>
@@ -27011,7 +27010,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Trident_Spear.md">Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#alloyed-trident-spear">Alloyed Trident Spear</a></small></div></td>
+  <a href="#alloyed-trident-spear">Alloyed Trident Spear</a></div></td>
   <td>50 MED</td>
   <td>19</td>
   <td>MED: 6</td>
@@ -27090,7 +27089,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Gremorian_Longspear.md">Alloyed Longspear</a></b><br>
   <div><br>
-  <small><a href="#gremorian-longspear">Gremorian Longspear</a></small></div></td>
+  <a href="#gremorian-longspear">Gremorian Longspear</a></div></td>
   <td>75 MED</td>
   <td>20</td>
   <td>MED: 6.5</td>
@@ -27169,7 +27168,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Trident_Spear.md">Alloyed Trident Spear</a></b><br>
   <div><br>
-  <small><a href="#trident-spear">Trident Spear</a></small></div></td>
+  <a href="#trident-spear">Trident Spear</a></div></td>
   <td>85 MED</td>
   <td>19</td>
   <td>MED: 7</td>
@@ -27438,7 +27437,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Scalesplitter.md">Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></small></div></td>
+  <a href="#alloyed-scalesplitter">Alloyed Scalesplitter</a></div></td>
   <td>40 MED</td>
   <td>17.5</td>
   <td>MED: 5</td>
@@ -27472,7 +27471,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Scalesplitter.md">Alloyed Scalesplitter</a></b><br>
   <div><br>
-  <small><a href="#scalesplitter">Scalesplitter</a></small></div></td>
+  <a href="#scalesplitter">Scalesplitter</a></div></td>
   <td>65 MED</td>
   <td>20</td>
   <td>MED: 6</td>
@@ -27625,7 +27624,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Halberd.md">Halberd</a></b><br>
   <div><br>
-  <small><a href="#alloyed-halberd">Alloyed Halberd</a></small></div></td>
+  <a href="#alloyed-halberd">Alloyed Halberd</a></div></td>
   <td>25 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>22</td>
@@ -27642,7 +27641,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Adretian_Axe.md">Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></small></div></td>
+  <a href="#alloyed-adretian-axe">Alloyed Adretian Axe</a></div></td>
   <td>35 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -27659,7 +27658,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Canorian_Axe.md">Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></small></div></td>
+  <a href="#alloyed-canorian-axe">Alloyed Canorian Axe</a></div></td>
   <td>35 HVY</td>
   <td>24</td>
   <td>HVY: 7</td>
@@ -27791,7 +27790,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Canorian_Axe.md">Alloyed Canorian Axe</a></b><br>
   <div><br>
-  <small><a href="#canorian-axe">Canorian Axe</a></small></div></td>
+  <a href="#canorian-axe">Canorian Axe</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 9</td>
@@ -27807,7 +27806,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Halberd.md">Alloyed Halberd</a></b><br>
   <div><br>
-  <small><a href="#halberd">Halberd</a></small></div></td>
+  <a href="#halberd">Halberd</a></div></td>
   <td>75 HVY</td>
   <td>24</td>
   <td>HVY: 8</td>
@@ -27823,7 +27822,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Adretian_Axe.md">Alloyed Adretian Axe</a></b><br>
   <div><br>
-  <small><a href="#adretian-axe">Adretian Axe</a></small></div></td>
+  <a href="#adretian-axe">Adretian Axe</a></div></td>
   <td>75 HVY<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
   <td>24</td>
@@ -27963,8 +27962,8 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
   <div><br>
-  <small><a href="#bloodbane">Bloodbane</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#bloodbane">Bloodbane</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -27998,7 +27997,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
   <div><br>
-  <small><a href="#alloyed-inheritor">Alloyed Inheritor</a></small></div></td>
+  <a href="#alloyed-inheritor">Alloyed Inheritor</a></div></td>
   <td>30 HVY<br>
   10 STR<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
@@ -28016,7 +28015,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darkalloy-greatsword">Darkalloy Greatsword</a></small></div></td>
+  <a href="#darkalloy-greatsword">Darkalloy Greatsword</a></div></td>
   <td>40 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -28082,7 +28081,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></small></div></td>
+  <a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></div></td>
   <td>45 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -28134,8 +28133,8 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>23</td>
@@ -28215,8 +28214,8 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#bloodbane">Bloodbane</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#bloodbane">Bloodbane</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>23</td>
@@ -28233,7 +28232,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#crescent-cleaver">Crescent Cleaver</a></small></div></td>
+  <a href="#crescent-cleaver">Crescent Cleaver</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>22.4</td>
@@ -28251,7 +28250,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darksteel-greatsword">Darksteel Greatsword</a></small></div></td>
+  <a href="#darksteel-greatsword">Darksteel Greatsword</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -28268,7 +28267,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
   <div><br>
-  <small><a href="#markors-inheritor">Markor's Inheritor</a></small></div></td>
+  <a href="#markors-inheritor">Markor's Inheritor</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -28442,8 +28441,8 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#warmonger">Warmonger</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#warmonger">Warmonger</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -28460,7 +28459,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></small></div></td>
+  <a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></div></td>
   <td>55 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -28509,8 +28508,8 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>27</td>
@@ -28556,8 +28555,8 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#warmonger">Warmonger</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#warmonger">Warmonger</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -28574,7 +28573,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#forge-greathammer">Forge Greathammer</a></small></div></td>
+  <a href="#forge-greathammer">Forge Greathammer</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>25.5</td>

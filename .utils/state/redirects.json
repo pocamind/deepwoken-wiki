@@ -2708,6 +2708,9 @@
   "Jungle Hashi": {
     "to": "Summer Company Gunslinger"
   },
+  "Jungle Jim": {
+    "to": "Pale Ravager"
+  },
   "Jungle Mertet": {
     "to": "Etrean Apostle"
   },
@@ -3566,9 +3569,6 @@
   },
   "Palace Guard": {
     "to": "Etrean Royal Guard (Enemy)"
-  },
-  "Pale Ravager": {
-    "to": "Jungle Jim"
   },
   "Palm Strike": {
     "to": "Oath: Bladeharper",

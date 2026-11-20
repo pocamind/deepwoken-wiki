@@ -99,7 +99,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
 <tr>
   <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <a href="#alloyed-dawnshot">Alloyed Dawnshot</a></div></td>
   <td>40 LHT</td>
   <td>15</td>
   <td>LHT: 8</td>
@@ -173,7 +173,7 @@ Despite having the highest range of all the weapons, utilizing the range can oft
 <tr>
   <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
   <div><br>
-  <small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <a href="#dawnshot">Dawnshot</a></div></td>
   <td>75 LHT</td>
   <td>16.5</td>
   <td>LHT: 9</td>

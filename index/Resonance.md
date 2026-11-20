@@ -104,7 +104,7 @@ These Resonances are exclusive to NPCs, bosses, or developers and cannot be acqu
 -   Unnamed Resonance - [Chud Steel](Chud_Steel.md)
 -   Unnamed Resonance - [High Inquisitor Merey](High_Inquisitor_Merey.md)
 -   Unnamed Resonance - [Sentinel Augustus](Sentinel_Augustus.md)
--   Unnamed Resonance - [Jungle Jim](Jungle_Jim.md)
+-   Unnamed Resonance - [Jungle Jim](Pale_Ravager.md)
 -   Unnamed Resonance - [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 -   Unnamed Resonance - [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md)
 -   Unnamed Resonance - [High Monk Junsui](High_Monk_Junsui.md)

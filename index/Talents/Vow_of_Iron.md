@@ -1,6 +1,6 @@
 ---
 title: Talents/Vow of Iron
-revid: 231998
+revid: 235181
 source: https://deepwoken.fandom.com/wiki/Talents/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -1615,7 +1615,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Grants a 7.5% damage buff to M1s (15% in Vow of Iron).
 
--   Skillful Recovery: [Shiva's Pendant Earrings](<../Raudra's_Pendant_Earrings.md>) & [Warrior's Pendant Earrings](<../Warrior's_Pendant_Earrings.md>) - Increases your passive Posture regeneration by 20% (or 35% in [Vow of Iron](../Vow_of_Iron.md)). Recover 20% more posture when parrying attacks.
+-   Skillful Recovery: [Raudra's Pendant Earrings](<../Raudra's_Pendant_Earrings.md>) & [Warrior's Pendant Earrings](<../Warrior's_Pendant_Earrings.md>) - Increases your passive Posture regeneration by 20% (or 35% in [Vow of Iron](../Vow_of_Iron.md)). Recover 20% more posture when parrying attacks.
 
 -   Sky Aid: [Sky Warrior Helm](../Sky_Warrior_Helm.md) - Take 80% less damage while in the air.
 

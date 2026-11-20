@@ -498,7 +498,7 @@ This attack has a **5 second cooldown**.
 <tr>
   <td><b><a href="Coral_Cestus.md">Coral Cestus</a></b><br>
   <div><br>
-  <small><a href="#broodalloy-cestus">Broodalloy Cestus</a></small></div></td>
+  <a href="#broodalloy-cestus">Broodalloy Cestus</a></div></td>
   <td>50 LHT</td>
   <td>14</td>
   <td>LHT: 9.5</td>
@@ -654,7 +654,7 @@ This attack has a **5 second cooldown**.
 <tr>
   <td><b><a href="Coral_Cestus.md">Broodalloy Cestus</a></b><br>
   <div><br>
-  <small><a href="#coral-cestus">Coral Cestus</a></small></div></td>
+  <a href="#coral-cestus">Coral Cestus</a></div></td>
   <td>85 LHT</td>
   <td>15.5</td>
   <td>LHT: 9</td>

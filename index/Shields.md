@@ -87,7 +87,7 @@ Please view the [related page](Attunement-less.md) for more info.
 <tr>
   <td><b><a href="Old_World_Greatshield.md">Old World Greatshield</a></b><br>
   <div><br>
-  <small><a href="Tenacity.md">Tenacity</a></small></div></td>
+  <a href="Tenacity.md">Tenacity</a></div></td>
   <td>30 FTD</td>
   <td>5</td>
   <td><b>✗</b></td>
@@ -95,7 +95,7 @@ Please view the [related page](Attunement-less.md) for more info.
 <tr>
   <td><b><a href="Tenacity.md">Tenacity</a></b><br>
   <div><br>
-  <small><a href="Old_World_Greatshield.md">Old World Greatshield</a></small></div></td>
+  <a href="Old_World_Greatshield.md">Old World Greatshield</a></div></td>
   <td>30 FTD</td>
   <td>5</td>
   <td><b>✓</b></td>

@@ -80,8 +80,8 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 <tr>
   <td><b><a href="Zweihander.md">Zweihander</a></b><br>
   <div><br>
-  <small><a href="#bloodbane">Bloodbane</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#bloodbane">Bloodbane</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -115,7 +115,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Markor's Inheritor</a></b><br>
   <div><br>
-  <small><a href="#alloyed-inheritor">Alloyed Inheritor</a></small></div></td>
+  <a href="#alloyed-inheritor">Alloyed Inheritor</a></div></td>
   <td>30 HVY<br>
   10 STR<br>
   OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
@@ -133,7 +133,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darkalloy-greatsword">Darkalloy Greatsword</a></small></div></td>
+  <a href="#darkalloy-greatsword">Darkalloy Greatsword</a></div></td>
   <td>40 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -199,7 +199,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></small></div></td>
+  <a href="#alloyed-crescent-cleaver">Alloyed Crescent Cleaver</a></div></td>
   <td>45 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -251,8 +251,8 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 <tr>
   <td><b><a href="Bloodbane.md">Bloodbane</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#alloyed-zweihander">Alloyed Zweihander</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#alloyed-zweihander">Alloyed Zweihander</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>23</td>
@@ -332,8 +332,8 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 <tr>
   <td><b><a href="Zweihander.md">Alloyed Zweihander</a></b><br>
   <div><br>
-  <small><a href="#zweihander">Zweihander</a><br>
-  <a href="#bloodbane">Bloodbane</a></small></div></td>
+  <a href="#zweihander">Zweihander</a><br>
+  <a href="#bloodbane">Bloodbane</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>23</td>
@@ -350,7 +350,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 <tr>
   <td><b><a href="Crescent_Cleaver.md">Alloyed Crescent Cleaver</a> (<a href="Status_Effects.md#bleed">Bleed</a>)</b><br>
   <div><br>
-  <small><a href="#crescent-cleaver">Crescent Cleaver</a></small></div></td>
+  <a href="#crescent-cleaver">Crescent Cleaver</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>22.4</td>
@@ -368,7 +368,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 <tr>
   <td><b><a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></b><br>
   <div><br>
-  <small><a href="#darksteel-greatsword">Darksteel Greatsword</a></small></div></td>
+  <a href="#darksteel-greatsword">Darksteel Greatsword</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>26</td>
@@ -385,7 +385,7 @@ Greatswords uses the default Greatsword critical, an overhead swing. It has a sc
 <tr>
   <td><b><a href="Markor's_Inheritor.md">Alloyed Inheritor</a></b><br>
   <div><br>
-  <small><a href="#markors-inheritor">Markor's Inheritor</a></small></div></td>
+  <a href="#markors-inheritor">Markor's Inheritor</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>

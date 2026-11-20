@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 231561
+revid: 235125
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -142,7 +142,8 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **[The Duke](Duke_Ishamon_Erisia.md)** is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
     -   The moves he uses are taken from [Accelerator's moveset](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in _[Anime Battle Arena](https://www.roblox.com/games/1458767429/ENEL-STUFF-ABA)_. They also both laugh manically after landing a counter.
         -   Par, one of the developers of _Deepwoken_, who designed the Duke, also works on _Anime Battle Arena._ This could be the reason why their movesets are the same.
--   [**Knell**](Knell,_The_Lunatic_Resonator.md) is heavily inspired by [Widow](https://hollowknight.wiki/w/Widow) from Hollow Knight: Silksong
+-   [**Knell**](Knell,_The_Lunatic_Resonator.md) is heavily inspired by [Widow](https://hollowknight.wiki/w/Widow) from Hollow Knight: Silksong.
+-   [**Bonekeepers**](Bone_Keeper.md) resemble the Warframe [Atlas](https://wiki.warframe.com/w/Atlas#Full_Body).
 -   **[The Enforcer](Enforcer.md)'s** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
@@ -215,7 +216,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
     -   The current model was inspired by the [Seedler](https://terraria.fandom.com/wiki/Seedler) from _Terraria_.[\[2\]](#cite-note-2)
 -   The critical attack for the **Gremorian Longspear** may be a reference to Chain Pull, a move used by Deep Knights in Rogue Lineage.
--   The **[Stormseye](Stormseye.md)** is inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
+-   The **[Stormseye](Stormseye.md)** is inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny, the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty, and the [Simulor](https://wiki.warframe.com/w/Simulor) from Warframe.
 -   **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_ and it's fire infused state used by the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) during their second phase.
 -   The **[Imperial Staff](Imperial_Staff.md)** is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown _Sun Wukong_ wore.
 -   The **[Death's Reverie](<Death's_Reverie.md>)'s** description reads "Have the lambs stopped screaming?" which is a line from the film _[The Silence of the Lambs](<https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)>)_.

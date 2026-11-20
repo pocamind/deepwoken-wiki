@@ -1,9 +1,9 @@
 ---
 title: Arkasid Carapace
-revid: 220142
+revid: 235162
 source: https://deepwoken.fandom.com/wiki/Arkasid_Carapace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients, Drops]
+categories: [Pathfinder Exclusive, Items, Ingredients, Drops]
 ---
 
 # Arkasid Carapace
@@ -20,6 +20,10 @@ categories: [Items, Ingredients, Drops]
 | pass down | No |
 | desc | A rigid fragment of an Arkasid's shell, when dried and hardened, becomes an exceptionally strong and versatile material. |
 | obtainment | Arkasid (Direct drop) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 234095
+revid: 235168
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]

@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 234165
+revid: 235179
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, World Event]
@@ -101,7 +101,7 @@ Use **CTRL + F** to search for a specific item.
 | [Ember Scorch Earrings](Ember_Scorch_Earrings.md) | 1x [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)  
 5x [Dying Embers](Dying_Embers.md)  
 1x [Blazing](Blazing.md) [Enchant Stone](Enchant_Stone.md) |
-| [Shiva's Pendant Earrings](<Raudra's_Pendant_Earrings.md>) | 1x [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)  
+| [Raudra's Pendant Earrings](<Raudra's_Pendant_Earrings.md>) | 1x [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)  
 1x [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)  
 1x [Etherbound Codex](Etherbound_Codex.md) |
 | [Ossified Barrel Helm](Ossified_Barrel_Helm.md) | 1x [Barrel Helm](Barrel_Helm.md)  

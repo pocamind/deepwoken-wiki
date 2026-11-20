@@ -54,8 +54,8 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#warmonger">Warmonger</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#warmonger">Warmonger</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>20 HVY<br>
   10 STR</td>
   <td>22</td>
@@ -72,7 +72,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
 <tr>
   <td><b><a href="Forge_Greathammer.md">Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></small></div></td>
+  <a href="#alloyed-forge-greathammer">Alloyed Forge Greathammer</a></div></td>
   <td>55 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -121,8 +121,8 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
 <tr>
   <td><b><a href="Warmonger.md">Warmonger</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#alloyed-steel-maul">Alloyed Steel Maul</a></div></td>
   <td>60 HVY<br>
   30 STR</td>
   <td>27</td>
@@ -168,8 +168,8 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
 <tr>
   <td><b><a href="Steel_Maul.md">Alloyed Steel Maul</a></b><br>
   <div><br>
-  <small><a href="#steel-maul">Steel Maul</a><br>
-  <a href="#warmonger">Warmonger</a></small></div></td>
+  <a href="#steel-maul">Steel Maul</a><br>
+  <a href="#warmonger">Warmonger</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>24</td>
@@ -186,7 +186,7 @@ Greathammers uses the default Greathammer critical, an overhead swing. It has a 
 <tr>
   <td><b><a href="Forge_Greathammer.md">Alloyed Forge Greathammer</a></b><br>
   <div><br>
-  <small><a href="#forge-greathammer">Forge Greathammer</a></small></div></td>
+  <a href="#forge-greathammer">Forge Greathammer</a></div></td>
   <td>75 HVY<br>
   10 STR</td>
   <td>25.5</td>
