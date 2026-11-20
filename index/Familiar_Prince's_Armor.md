@@ -1,6 +1,6 @@
 ---
 title: "Familiar Prince's Armor"
-revid: 234468
+revid: 235261
 source: https://deepwoken.fandom.com/wiki/Familiar_Prince's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -38,7 +38,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 3250 durability and grants +35% Physical resistance ResistancePhysical, and +35% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Light Piercer](Talents.md#light-piercer) Talent.
 
-The [Light Piercer](Talents.md#light-piercer) Talent grants an active Talent tool that only can be activated while wielding a [Spear](Iron_Spear.md). On use, this shoots out 3 light spear projectiles that pierce through your opponent, and their block.
+The [Light Piercer](Talents.md#light-piercer) Talent grants an active Talent tool that only can be activated while wielding a [Spear](Spears.md). On use, this shoots out 3 light spear projectiles that pierce through your opponent, and their block.
 
 Upon landing, they deal 10 physical damage per hit (3) and pierce through the target, continuing along their trajectory until parried or they reach their maximum distance of 160 studs. These have 100% chip damage. This has a 0.3s windup with a 10 second cooldown.
 

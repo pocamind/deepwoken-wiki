@@ -1,6 +1,6 @@
 ---
 title: Infected
-revid: 233374
+revid: 235187
 source: https://deepwoken.fandom.com/wiki/Infected
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Weapons, Fists, Light Weapons, Fighting Styles, Hallowtide]
@@ -40,7 +40,7 @@ Variants: [Fang and Coil](Fang_and_Coil.md) · [Imperium Kata](Imperium_Kata.md)
 
 Infected is a fist style that is exclusive to the [Hallowtide](Hallowtide.md) event. It is obtained by becoming infected by a [Gourdskipper](Gourdskipper.md) player or NPC, or by dying to [The Harvestman](The_Harvestman.md). Upon being infected, the player's skin, [Resonance](Resonance.md), [Aspect](Aspects.md) features, [Oath](Oaths.md) cosmetic, and equipment will be [dyed](Dye_Packet.md) orange, and their head will be visually replaced with the [Pumpkin Head](Pumpkin_Head.md).
 
-While Infected, landing weapon attacks on players will infect them as well, and award you [Joy](Joy.md). Infected will be automatically cleared upon the related event ending or the player leaving the game. Infected players will **instantly die** if hit with [Pumpkin Pitch](Pumpkin_Pitch.md), teleporting them out of the instanced dungeon. This does not count as a death for your character.
+While Infected, landing weapon attacks on players will infect them as well, and award you with [Joy](Joy.md). The Infected effect will be automatically cleared upon the player leaving the game or dying, or if the wave defense in the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md#trial-of-the-gourdskipper>) ends. Infected players will **instantly die** if hit with [Pumpkin Pitch](Pumpkin_Pitch.md), teleporting them out of the instanced dungeon. This does not count as a death for your character.
 
 The basic attacks of the Infected fist style are derived from [Mudskippers](Mudskipper.md), with the critical belonging to [Untrained Fist](Untrained_Fist.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 233517
+revid: 235182
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Lost Celtor, Outfits with Talents, Outfits with Exclusive Talents]
@@ -48,3 +48,4 @@ The [Tidekeeper](Talents.md#tidekeeper) Talent procs if you lose 25% or more of 
 
 -   The [Viscosity](Viscosity.md) Enchantment will make Tidekeeper extremely hard to proc, though an [Isshin's Ring](<Isshin's_Ring.md>) might help.
 -   The Outfit has the same ingredients as the [Prophet's Cloak](<Prophet's_Cloak.md>).
+-   Worn by the [Celtorian Guard](Celtorian_Guard.md).
