@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Coat"
-revid: 234950
+revid: 235336
 source: https://deepwoken.fandom.com/wiki/Hunter's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats]
@@ -16,13 +16,12 @@ categories: [Equipment with Styles, Equipment, Arms, Coats]
 | requirements | LVL 15 |
 | weight | 2 |
 | styles | Dark, Hunter's Own, Light |
-| innate stats | +5 Health , +1 Posture |
+| innate stats | +5 Health , +1 Posture , +2 Rare Pips , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Raudra, the Winged Lion |
 | description | ... |
 
 ## Description

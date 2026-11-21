@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 234974
+revid: 235331
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -62,7 +62,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   </td>
   <td>You have a much higher max carry load, and can carry much larger quantities of food.</td>
   <td>Carry load is increased by 50, item stack limits are increased by 25% (rounded), and the maximum quantity of food you can carry is increased by 5.</td>
-  <td>This affects certain <a href="Relics.md">Relics</a> such as <a href="Dye_Packet.md">Dye Packets</a>. Stacks with the <a href="Talents.md#cooks-kit">Cook's Kit</a> Talent, granting you a combined total of +10 to the amount of food you can have on your person, double that of what the base is.</td>
+  <td>This affects certain <a href="Relics.md">Relics</a> such as <a href="Dye_Packet.md">Dye Packets</a>. Stacks with the <a href="Talents.md#cooks-kit">Cook's Kit</a> Talent, granting you a combined total of +10 to the amount of food you can have on your person, or 20 food items total.</td>
   <td>1 Boon Point</td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ These Flaws can be chosen at character creation with no requirements for obtainm
   <td><b>Glutton</b><br>
   </td>
   <td>Your hunger and thirst is depleted faster. Eating food slows you down.</td>
-  <td>Stomach and thirst meters passively decrease ~50%-100% faster. Your character's movement speed is reduced while consuming <a href="Food.md">Food</a> items.</td>
+  <td>Stomach and thirst meters passively decrease ~50%-100% faster. Your character's movement speed is reduced by 30% while consuming items.</td>
   <td>The increased food/thirst depletion effect does not affect the stomach loss any non-passive source, such as the <a href="Gluttony.md">Gluttony</a> Enchant or <a href="Chef's_Toque.md">Chef's Toque</a>.</td>
   <td>1 Boon Point</td>
 </tr>
@@ -317,12 +317,12 @@ Some boons are more worth taking than others:
 
 ### Gourmet
 
-**Gourmet** increases the stomach and hydration gained by consuming food by 50%, and increases the "duration" of [Food Buffs](Status_Effects.md#food-buff) by the same amount. Additionally, having this Boon will disable the reduced passive healing rate from being at low stomach/thirst.
+**Gourmet** increases the stomach and hydration gained by consuming food by 50%, and increases the "duration" of [Food Buffs](Status_Effects.md#food-buff) by the same amount. Additionally, having this Boon will disable the downside of being at low stomach/thirst where you cannot heal past 90% health through passive regeneration.
 
 -   Notes:
     -   Gourmet is a well-rounded boon that even stacks with its Talent variant, totaling to an +80% boost on the stomach and hydration gain from eating food.
     -   With this Boon, you'll spend less time and Notes making or aquiring food overall, which is great for extended adventures with limited supplies.
-    -   To be more specific, **without** the Gourmet Boon, your passive health regeneration will stop working at 90% health if either the player's Stomach OR Thirst meters are below 20%. **With** the Boon, this limitation is **entirely** removed with this Boon, allowing the player to heal to full health via passive health regeneration, regardless of how full or empty their Stomach and Thirst meters are.
+    -   To be more specific, **without** the Gourmet Boon, your passive health regeneration will stop working at 90% health if either the player's Stomach OR Thirst meters are below 20%. **With** the Boon, this limitation is **entirely** removed with this Boon, allowing the player to heal to full health via passive health regeneration, regardless of how full or empty their Stomach and Thirst meters are. This is currently bugged, and does not work.
         -   Though, keep in mind that you will still take damage from Starvation.
         -   The "passive health regeneration" in question, both with, and without the Boon includes alternative forms of healing that are counted as passive regen; being any form of healing that does not apply the green healing VFX on proc (e.g. [Campfire Pits](Campfire_Pit.md), [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment, [Chorus of Souls](Talents.md#chorus-of-souls) Talent, etc.).
     -   Gourmet's ability to increase the duration of [Food](Food.md) buffs by 50% makes it second to none if you wish to engage with this mechanic.
@@ -425,11 +425,11 @@ Some Flaws are more worth-taking than others:
 
 ### Glutton
 
-**Glutton** increases the rate at which your Hunger meter passively decays. Additionally, this Flaw applies a slow debuff to the player when they consume food items. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
+**Glutton** increases the rate at which your Hunger meter passively decays. Additionally, this Flaw applies a 30% slow debuff to the player when they consume food items. This Flaw grants 1 Boon Point when chosen, and **can** be given through the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)'s Flaw Conversion deal.
 
 -   Notes:
-    -   The movement speed debuff applied when consuming food items only applies to items that are listed as [Food](Food.md) in the inventory. For example, the debuff will not apply if you eat a [Stick](Stick.md) via the [Termite](Talents.md#termite) Talent.
-        -   Additionally, this effect will only apply for the duration of the eating animation.
+    -   The movement speed debuff applies when consuming any item that provides food and thirst gain. This includes all [Food](Food.md) items, most raw [Ingredients](Ingredients.md)/[Fruit](Ingredients.md#fruits), and even normally inedible items if consumed with [Termite](Talents.md#termite). The slow only applies for the duration of the eating animation, making it largely a non-issue, unless you are eating during combat.
+        -   This does not apply to consuming items that provide no sustenance, such as [Dying Embers](Dying_Embers.md) and other Elemental Ingredients. Also does not apply when drinking from a [Canteen](Canteen.md).
     -   This Flaw forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the [Carnivore](Talents.md#carnivore) and [Grand Feast](Talents.md#grand-feast) Talents or the [guild base](Guild_Bases.md) Mess Hall.
     -   The increased stomach drain effect is **entirely** negated by the [Hungerless](Regalia.md#hungerless) Regalia, as the Regalia entirely disables passive stomach/thirst drain.
     -   Hunger loss from non-passive sources (e.g. Squemish or the [Gluttony](Gluttony.md) enchantment) are not affected by this Flaw, though the increased hunger loss from actions like swimming will stack on top of this Flaw's downside.

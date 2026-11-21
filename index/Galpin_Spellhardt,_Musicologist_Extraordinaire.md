@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 233983
+revid: 235318
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family]
@@ -179,6 +179,10 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
 <tr>
   <td colspan="6">9. Galpin's Spectral Instrument Set [200 Joy]</td>
   <td colspan="6"><center><i><b>Unlocked: <a href="Instruments.md#spectral-instruments"><font>Spectral Instruments</font></a></b></i></center>*<i>Galpin retrieves a set of shimmering, translucent musical instruments. They feel weightless, incorporeal, and cold to the touch. Small ghastly wisps of ether emanate from them.</i>* A fine choice, indeed! These are rare, did thou knowst? I wouldst not part with these instruments of musick were it not for their whisperings at night... I am a light sleeper, thou understandest. Enjoy thine spoils - and Joyous Hallowtide!</td>
+</tr>
+<tr>
+  <td colspan="6">10. Galpin's Arachnid Instrument Set [135 Joy]</td>
+  <td colspan="6"><center><i><b>Unlocked: <a href="Instruments.md#arachnid-instruments">Arachnid Instrument</a></b></i></center><i>*Galpin retrieves a set of dark, lustrous instruments, adorned with intricate web-like accents, and bearing a deep purple sheen.*</i> Ah! These belonged to an old wiry surface friend of mine. A peculiar fellow, though I've not seen them in a very, very long time... Nor, I figure, hath anyone else. Nevertheless, 'tis a fine set of instruments! Perhaps thou shalt make good use of them. Enjoy thine spoils - and Joyous Hallowtide!</td>
 </tr>
 <tr>
   <td colspan="6">Not enough Joy for any purchase</td>

@@ -1,6 +1,6 @@
 ---
 title: Thula
-revid: 235313
+revid: 235324
 source: https://deepwoken.fandom.com/wiki/Thula
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -207,7 +207,7 @@ This dialogue is unlocked if the player has completed the "[Mineskipper Mayhem](
 <tr>
   <td><font>[Unlocked dialogue begins here]</font><br>
   <i>*She seems surprised.*</i> Oh?.. H-hey wait a moment, you shouldn't have gone in there! That's strictly off-limits, the Company's staked a claim to the mine! <i>*She quickly looks around.*</i> But, I won't tell if you won't tell. You did us a solid for now, anyway. The Mudskippers were a real nuisance... Though, that's not the last of them, I'm sure. There's always more.</td>
-  <td>Ally <a href="The_Summer_Company.md">The Summer Company</a> <a href="Reputation.md">Reputation</a></td>
+  <td>Ally <a href="The_Summer_Company.md">Summer Company</a> <a href="Reputation.md">Reputation</a></td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

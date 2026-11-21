@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 215707
+revid: 235337
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Locations, Locations in the First Layer]
@@ -170,5 +170,5 @@ The Afflictions countdown does not reset when you escape the Depths. Some Afflic
 
 ## Trivia
 
--   At 0% Sanity, the countdown before an Affliction is gained is as little as 3 seconds.
--   Past 15, the counter for Afflictions changes from Roman Numerals to Arabic Numerals.
+-   At 0% Sanity, the countdown before the affliction timer progresses is as little as 3 seconds.
+-   Past 15 affliction stacks, the counter for Afflictions changes from Roman Numerals to Arabic Numerals.

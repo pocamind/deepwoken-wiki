@@ -1,9 +1,9 @@
 ---
 title: Prop Hunt
-revid: 233522
+revid: 235334
 source: https://deepwoken.fandom.com/wiki/Prop_Hunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Hallowtide, Minigames, World Event]
+categories: [Event Only Content, Hallowtide, World Event]
 notices:
   - This page contains Event Exclusive Content This gamemode is exclusive to the Hallowtide event.
 ---
@@ -18,9 +18,9 @@ notices:
 
 ## Game Mode
 
-Prop Hunt is a [Hallowtide](Hallowtide.md)\-exclusive gamemode, added in the [Hallowtide 2026](Version_History/2026.md#october-31st-2026) event. Similarly to [World Events](World_Events.md), a pop-up on the right hand side of the screen will be shown globally when the event is starting. Upon selecting to join, you will be transported to the Isle of the Crows after a short delay.
+Prop Hunt is a [Hallowtide](Hallowtide.md)\-exclusive [World Event](World_Events.md) added in the [Hallowtide 2026](Version_History/2026.md#october-31st-2026) event. At **XX:07** and **XX:37**, a 5 minute long pop-up on the right hand side of the screen will be shown globally when the event is starting. Upon selecting to join, you will be transported to the [Isle of the Crows](Isle_of_the_Crows.md) after a short delay.
 
-In this gamemode, all players are randomly selected to be either a Hider or a Seeker. The Hiders are given **one minute** to find a hiding spot in the [Corvus Manor](Corvus_Manor.md), before a Seeker is chosen from one of the Hiders and the minigame begins.
+In this minigame, all players are randomly selected to be either a Hider or a Seeker. The Hiders are given **one minute** to find a hiding spot in the [Corvus Manor](Corvus_Manor.md), before a Seeker is chosen from one of the Hiders and the minigame begins.
 
 ### Hiders
 
