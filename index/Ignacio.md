@@ -1,6 +1,6 @@
 ---
 title: Ignacio
-revid: 230256
+revid: 235298
 source: https://deepwoken.fandom.com/wiki/Ignacio
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -67,23 +67,23 @@ This dialogue is unlocked if the player has reached ally [Reputation](Reputation
 <table>
 <tbody>
 <tr>
-  <td>Begin Dialogue</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td><font>[Unlocked dialogue begins here]</font><br>
+  <td colspan="2"><font>[Unlocked dialogue begins here]</font><br>
   <i>*The man gives you a brief acknowledging nod, barely moving his eyes away from the paper he's holding.*</i> One moment, pal... Ack, and they've collapsed this segment here... And there, and <i>there?</i> Some nonsense... <i>*He turns to you again.*</i> Friend of the Company, huh? Nice of you to visit.</td>
 </tr>
 <tr>
-  <td>What are you doing here?</td>
+  <td colspan="2">What are you doing here?</td>
 </tr>
 <tr>
-  <td>Marvelling at how badly the construction contractors here butchered my fine work. This job called for a mallet and chisel, and they handled it all with a sledgehammer instead... So amateurish.</td>
+  <td colspan="2">Marvelling at how badly the construction contractors here butchered my fine work. This job called for a mallet and chisel, and they handled it all with a sledgehammer instead... So amateurish.</td>
 </tr>
 <tr>
-  <td>Construction contractors?..</td>
+  <td colspan="2">Construction contractors?..</td>
 </tr>
 <tr>
-  <td><i>*He blinks idly.*</i> ...Someone hasn't read their copy of the latest Summer Company Quarterly Review, huh? Fine, I'll clue you in. We were recently surveying the old mines here at Songseeker Wilds. Using precise, expensive equipment, we drafted plans for the fancy new fortifications you see outside. We planned an expansion of the mines here, too... Except the idiots the sent over to do the excavation work had no appreciation for the precise plans our team here had drafted.</td>
+  <td colspan="2"><i>*He blinks idly.*</i> ...Someone hasn't read their copy of the latest Summer Company Quarterly Review, huh? Fine, I'll clue you in. We were recently surveying the old mines here at Songseeker Wilds. Using precise, expensive equipment, we drafted plans for the fancy new fortifications you see outside. We planned an expansion of the mines here, too... Except the idiots the sent over to do the excavation work had no appreciation for the precise plans our team here had drafted.</td>
 </tr>
 <tr>
   <td>Weren't these mines abandoned?</td>

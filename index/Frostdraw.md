@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 234434
+revid: 235272
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1488,8 +1488,8 @@ These Talents are found in the _Ice Age_ category.
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
 -   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Nomads](Eastern_Nomad.md) on [Etris](Etris.md), [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Captains in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in the [Second Layer](Second_Layer.md).
 -   The **Ice Chains** Mantra was reworked into a new ability on the 8th of February 2022.
--   The now-removed "Frozone" Talent was a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from _[The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles)_.
--   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in _[Overwatch](https://en.wikipedia.org/wiki/Overwatch)_.
+-   The now-removed "Frozone" Talent was a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from _[The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles)_.
+-   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Mei#Cryo-Freeze) in _[Overwatch](https://en.wikipedia.org/wiki/Overwatch)_.
 
 ## References
 

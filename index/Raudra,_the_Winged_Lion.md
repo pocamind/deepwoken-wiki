@@ -1,6 +1,6 @@
 ---
 title: "Raudra, the Winged Lion"
-revid: 234981
+revid: 235309
 source: https://deepwoken.fandom.com/wiki/Raudra%2C_the_Winged_Lion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -157,7 +157,7 @@ Plundered Haul
   <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="3">You don't look a warrior, and yet you have the guts to approach me. Commendable. Perhaps you'll prove yourself yet.</td>
+  <td colspan="3">There's a battle to be won, yet.</td>
 </tr>
 <tr>
   <td>Is there another way to prove myself?</td>
@@ -205,6 +205,7 @@ This dialogue is unlocked if the player is a [Starkindred](Oath%253A_Starkindred
 -   His title of "the [Winged Lion](https://en.wikipedia.org/wiki/Winged_lion)" has biblical origins:
     -   Winged Lions are used as a symbol for courage and resurrection, possibly alluding to how he morphed the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) into his own.
     -   Statues of lions act as a guardian of sorts for cities and temples; this possibly refers to the role he takes in [The Hundred Legions](The_Hundred_Legions.md).
+-   Despite his tough appearance, he can be scared using a [Hallowtide Mask](Hallowtide_Mask.md).
 
 ## References
 

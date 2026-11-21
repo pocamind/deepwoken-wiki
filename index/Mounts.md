@@ -1,6 +1,6 @@
 ---
 title: Mounts
-revid: 234702
+revid: 235265
 source: https://deepwoken.fandom.com/wiki/Mounts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics]
@@ -39,4 +39,4 @@ Mounts are tamed creatures or objects that can be used to traverse terrain quick
 -   Mounts can walk on lava without dismounting the rider.
 -   If you are carrying something before using the Whistle, you will continue to carry said item while mounted. This greatly increases your movement speed while carrying objects.
 -   Having a mount doesn't negate fall damage but slightly reduces it by around 2%.
--   With a mount you can completely resist the slow effect of the wind in the [Second Layer](Second_Layer.md), but still can be pushed away.
+-   Attempting to ride a mount in the [Second Layer](Second_Layer.md) will display the message: "The gale is too strong to ride through."

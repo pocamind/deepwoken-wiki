@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 230423
+revid: 235307
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -62,16 +62,16 @@ Currently there are 32 books and book collections:
 -   [Eggs In A Basket](Eggs_In_A_Basket.md): A sailor's shanty. 107 words, <1m reading time.
 -   [Fading Book](Fading_Book.md): A placeholder for removed books. Its pages fading, crumbling. ~50 words.
 -   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>): The lyrics of a folk song regarding [The Ferryman](The_Ferryman.md). 222 words, 1m reading time.
--   [The Gideshu March](The_Gideshu_March.md): [The Central Authority](The_Central_Authority.md)'s anthem and its brief history. Playable on [Instruments](Instruments.md). ~500 words.
+-   [The Gideshu March](The_Gideshu_March.md): [The Central Authority](The_Central_Authority.md)'s anthem and its brief history. Playable on [Instruments](Instruments.md). 488 words, 2m reading time.
 -   [The Hammer's Call](<The_Hammer's_Call.md>): [The Ignition Union](The_Ignition_Union.md)'s anthem and its brief history. ~400 words.
 -   [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md) 1,559 words, 7m reading time.
--   [A Light In The Sky](A_Light_In_The_Sky.md): A single page paper with a music sheet, a poem, and a post-script note written by [Prof. Galphin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) regarding [a place he treasured](Constellia.md). Playable on [Instruments](Instruments.md). ~200 words.
+-   [A Light In The Sky](A_Light_In_The_Sky.md): A single page paper with a music sheet, a poem, and a post-script note written by [Prof. Galphin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) regarding [a place he treasured](Constellia.md). Playable on [Instruments](Instruments.md). 220 words, 1m reading time.
 -   [Lumen's Folklore](<Lumen's_Folklore.md>)
     -   Lumen's Folklore: Volume 'Attunement'
     -   Lumen's Folklore: Volume 'North'
--   [Ministry Field Report](Ministry_Field_Report.md) 435 words, 2m reading time.
+-   [Ministry Field Report](Ministry_Field_Report.md)
 -   [Munet Journal](Munet_Journal.md)
-    -   Munet Journal, XIV 107 words, <1m reading time.
+    -   Munet Journal, XIV 435 words, 2m reading time.
 -   [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md)
 -   [O Pardoner of Mine](O_Pardoner_of_Mine.md) 419 words, 2m reading time.
 -   [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>) 1,861 words, 9m reading time.
@@ -82,7 +82,7 @@ Currently there are 32 books and book collections:
 -   [Strange Missives](Strange_Missives.md)
 -   [Studies on Canticlysm](Studies_on_Canticlysm.md)
     -   Studies on Canticlysm, Vol. IV 1,376 words, 6m reading time.
--   [Tale of the Storm](Tale_of_the_Storm.md)
+-   [Tale of the Storm](Tale_of_the_Storm.md) 1,232 words, 6m reading time.
 -   [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) 896 words, 4m reading time.
 -   [Words of Light](Words_of_Light.md): A Kyrsan Manifesto. 559 words, 2m reading time.
 

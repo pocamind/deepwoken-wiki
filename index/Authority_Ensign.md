@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 232768
+revid: 235297
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -110,6 +110,8 @@ The AWOL timer will reset if you leave the game, restarting from 15 minutes once
 Upon killing another Authority Ensign member of equal or higher rank, you will be marked as a traitor, exiling you from the Central Authority. This includes kills in other non-overworld locations.
 
 Non-direct kills, such as dropping someone in water or blowing someone up from cannon fire do not mark you as a Traitor.
+
+Do keep in mind, you need to grip someone in Eastern Luminant. Gripping another Authority Ensign in Etrean Luminant will not brand you as a traitor.
 
 ## Progression
 

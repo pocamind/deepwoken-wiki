@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 210978
+revid: 235314
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -34,6 +34,8 @@ She wears the [Scholar](Scholar.md) [Outfit](Outfits.md).
 Lake is inside a cave within [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Dialogue
+
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -105,9 +107,50 @@ Lake is inside a cave within [Songseeker Wilds](Songseeker_Wilds.md).
 </tbody>
 </table>
 
+**Legacy:**
+
+Lake originally sat on the broken bridge opposite the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). This dialgoue later _**RECONNECTED**_ to be rewritten.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">And to think, such a far off mass of land had such beauty to it...</td>
+</tr>
+<tr>
+  <td colspan="6">Who are you?</td>
+  <td colspan="6">What are you talking about?</td>
+</tr>
+<tr>
+  <td colspan="6">Oh, apologies. I was simply lost in thought. My name is Lake, I'm just another Chrysid wanderer, seeking the beauty of the Moonseye from this island's angle.</td>
+  <td colspan="6">Excuse my musing, traveler. I happen to enjoy the scenery here, is all. Such delicate flowers bloom... although, none to be matched by the elegance of the nightflowers from my village.</td>
+</tr>
+<tr>
+  <td colspan="6">What do you mean from this angle?</td>
+  <td colspan="6">Nightflowers?</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*She looks up at you, puzzled.*</i> I traditionally can only admire the Moonseye from one view in my home village. And seeing as this place is a Driftland... it's simply a once in a lifetime opportunity to visit and see it from such an extravagant place. Alas, who knows when this island will drift back to the Voidsea?</td>
+  <td colspan="6">Hm? You must be unaware of such things. Nightflowers have great importance to my people, both in visual beauty and spiritual beauty.</td>
+</tr>
+<tr>
+  <td colspan="6">The Moonseye?</td>
+  <td colspan="6">What makes it spiritual?</td>
+</tr>
+<tr>
+  <td colspan="6">Indeed, the nightsky's beacon. We of the Moonlit Faith hold it to high regard, as our faith centers around it. Surely, you're aware of such things.</td>
+  <td colspan="6">Nightflowers only bloom beneath the site of one's absolvement in flame, <i>The Lachrymosa</i>. When one bears sins too heavy to carry... they can volunteer to embrace the nightflame, joining the Moonseye above in death. A nightflower blooms beneath them after their passing, In my village... a sea of beautiful gleaming nightflowers scatter over the hills and fields. It's truly beautiful, traveler.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
--   Lake used to be sat on the broken bridge opposite the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 -   Lake's hair IDs are:
     -   8994112527 for the ponytail
     -   9678815144 for the short hair/bangs

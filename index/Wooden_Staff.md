@@ -1,6 +1,6 @@
 ---
 title: Wooden Staff
-revid: 235257
+revid: 235306
 source: https://deepwoken.fandom.com/wiki/Wooden_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Artifact Turn-ins (Etrean Luminant), Brainsucker Sea Event, Erisia, Faction Ambushes (Bandits), Island Sea Events, Isle of Vigils, Jobs:, Authority Patrol (both Luminants), Erisia jobs, Mudskipper Attack (Depths event) |
-| description | A balanced wooden staff. |
+| description | A balanced wooden staff, perfect for sparring sessions. |
 
 ## Description
 
@@ -43,7 +43,7 @@ The Wooden Staff is a [Staff](Staves.md) weapon in the Medium category.
 
 Equipping the Wooden Staff grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Give and Take**](Talents.md#give-and-take)
+[**Give and Take**](Talents.md#give-and-take) causes allies to take 35% less damage from you and deal 35% less damage to you. This does not apply to self damage.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Khan (NPC)
-revid: 224834
+revid: 235308
 source: https://deepwoken.fandom.com/wiki/Khan_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
@@ -97,3 +97,4 @@ This dialogue appears if the player has the "Lost Books" quest.
 ## Trivia
 
 -   After selecting "For the books...", the in-game music gradually dims and the sound of a door creaking plays. Then, after selecting "Doing what?", sounds akin to bubbling play.
+-   Despite their name, they are not actually a [Khan](Khan.md).

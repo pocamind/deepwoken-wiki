@@ -1,6 +1,6 @@
 ---
 title: "Familiar Demon's Armor"
-revid: 235046
+revid: 235304
 source: https://deepwoken.fandom.com/wiki/Familiar_Demon's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -46,6 +46,6 @@ The [Demon Step](Talents.md#demon-step) Talent grants a Talent tool that when ac
 ## Trivia
 
 -   This outfit is based on _Rogue Lineage'_s [Oni](https://rogue-lineage.fandom.com/wiki/Oni)'s armor, the Oni's Outfit.
-    -   The class, outfit and Demon Step ability are all references to Akuma in the _Street Fighter_ series.
--   Demon Step is an ability of Oni in Rogue Lineage, similarly allowing them to perform a forward dash that grants i-frames.
+    -   The class, outfit and Demon Step ability are all references to Akuma from the _[Street Fighter](https://en.wikipedia.org/wiki/Street_Fighter)_ series.
+-   Demon Step is an ability of Oni in _Rogue Lineage_, similarly allowing them to perform a forward dash that grants i-frames.
 -   The Outfit requiring a Dread Serpent's Tooth to craft is likely a reference to the Oni class obtainment in Rogue Lineage requiring that you kill the Lava Snake and obtain the Serpent's Fang.

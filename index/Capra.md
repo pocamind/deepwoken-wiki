@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 228595
+revid: 235301
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -189,7 +189,7 @@ These are no longer in the game as of January 22nd, 2023.
 -   Once you mark another player, you will gain extra health regen, and presumably sanity/food buffs linked to the corresponding Mark.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), the Capra aspect name was changed to Skullskipper.
 -   According to Arch\_Mage, Capra are slightly inspired by the Shin from _The Stormlight Archive_, which is reflected by the aspect having wider eyes than average because they lack epicanthic folds.[\[1\]](#cite-note-inspo-1)
--   The latin word "Capra" is representative of Goats.
+-   The latin word "Capra" is representative of Goats. In fact, 'Capra' is the genus which goats belong to.
 -   Choosing the Hallowtide Variant gives you the Mark of Jurik.
 -   Capra look similar to some depictions, which are not truly accurate, of a wendigo, which is a creature formed by committing cannibalism out of hunger.
 -   The Capra had their appearance reworked on 1/22/2023.

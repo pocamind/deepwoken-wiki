@@ -1,6 +1,6 @@
 ---
 title: "Familiar Vagrant's Armor"
-revid: 233401
+revid: 235299
 source: https://deepwoken.fandom.com/wiki/Familiar_Vagrant's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
@@ -52,6 +52,6 @@ If using a [Tanto](Tanto.md), its critical attack can be used while grappling an
 -   Grapple is an ability of Shinobi in Rogue Lineage, similarly allowing it's user to grapple up terrain or pull themself and others up in the air.
     -   The follow up attack granted by using a Tanto's critical attack is based on the Owl Slash skill.
     -   The Tanto is also the weapon of the Shinobi class.
--   Note: It requires the user to have the [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) equipped in order for grapple to work.
+-   It requires the user to have the [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) equipped in order for grapple to work.
 -   If the attack is blocked, the user will be ragdolled.
 -   The range on the grapple is around 75 studs.

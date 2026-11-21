@@ -1,6 +1,6 @@
 ---
 title: Character Slots
-revid: 219640
+revid: 235263
 source: https://deepwoken.fandom.com/wiki/Character_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -20,7 +20,7 @@ The slot selection menu serves as a list of all of your character slots.
 
 ## Obtaining Character Slots
 
--   Character slots can be purchased for 200 Robux [Robux](https://roblox.fandom.com/wiki/Robux).
+-   Character slots can be purchased for 200 Robux [Robux](https://roblox.fandom.com/wiki/Robux), or 180 Robux [Robux](https://roblox.fandom.com/wiki/Robux) if you have Roblox Plus.
     -   The price of slots can vary for certain regions due to Roblox's currency purchasing rates.
 -   A maximum of 3 character slots can be obtained for free upon completing certain [Badges](Badges.md). These cannot be repeated for additional slots, even if you remove the Badge from your Roblox inventory.
     -   One for obtaining [Power](Power.md) 20 (max level) on any character.
