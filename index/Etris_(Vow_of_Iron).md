@@ -1,11 +1,9 @@
 ---
 title: Etris (Vow of Iron)
-revid: 232026
+revid: 235424
 source: https://deepwoken.fandom.com/wiki/Etris_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Territory of Etrea]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Vow of Iron Exclusive, Locations, Territory of Etrea]
 ---
 
 # Etris (Vow of Iron)
@@ -30,30 +28,30 @@ Etris is a much more dastardly location in [Vow of Iron](Vow_of_Iron.md), with i
 
 ## Landmarks & Sub locations
 
--   [Etrean Wilds](Etrean_Wilds.md)
--   [Etris Docks](Etris_Docks.md)
--   [Etris Palace](Etris_Palace.md)
--   [The King's Garden](<The_King's_Garden.md>)
+-   [Etrean Wilds (Vow of Iron)](<Etrean_Wilds_(Vow_of_Iron).md>)
+-   [Etris Docks (Vow of Iron)](<Etris_Docks_(Vow_of_Iron).md>)
+-   [Etris Palace (Vow of Iron)](<Etris_Palace_(Vow_of_Iron).md>)
+-   [The King's Garden (Vow of Iron)](<The_King's_Garden_(Vow_of_Iron).md>)
 
 ## Points of Interest
 
-### Buongustino's Abandoned Kitchen
+### Abandoned Kitchen
 
--   [Chef Buongustino](Chef_Buongustino.md)'s abandoned kitchen.
+[Chef Buongustino](Chef_Buongustino.md)'s abandoned kitchen.
 
 ### Guildhall
 
--   Players can still start a Guild by talking to the [Guild Clerk](Guild_Clerk.md) when they reach [Power](Power.md) 5.
+Players can still start a Guild by talking to the [Guild Clerk](Guild_Clerk.md) when they reach [Power](Power.md) 5.
 
   
 
 ### A For Sale building
 
--   An empty For Sale Building.
+An empty For Sale Building.
 
 ### The Barrier
 
--   To truly prevent anyone from halting his plans [Zi'eer](The_Lord_Regent.md) has set up an Emerald Barrier that covers the entirely of the [Etris Palace](Etris_Palace.md).
+To truly prevent anyone from halting his plans [Zi'eer](The_Lord_Regent.md) has set up an Emerald Barrier that covers the entirely of the [Etris Palace](Etris_Palace.md).
 
 ### The Den
 
@@ -66,5 +64,6 @@ Etris is a much more dastardly location in [Vow of Iron](Vow_of_Iron.md), with i
 
 ## NPCs
 
--   [Theadre](<Theadre_(Vow_of_Iron).md>)
--   [Kennith](<Kennith_(Vow_of_Iron).md>)
+-   [Theadre (Vow of Iron)](<Theadre_(Vow_of_Iron).md>)
+-   [Kennith (Vow of Iron)](<Kennith_(Vow_of_Iron).md>)
+-   [Linh](Linh.md)

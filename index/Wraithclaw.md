@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 234638
+revid: 235448
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
@@ -40,13 +40,6 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 
 The **Wraithclaw** is a Legendary [Cestus](Weapons.md#fists); branching spirals of wind around the wrists underset by wraps and sinew which anchor six blades of spectral energy over the knuckles. The Wraithclaw is forged from the souls of the dead carried by the gale giving into claws, to rake and dig into opponents much as their dreading and sorrowful hearts do their own. Its damage scales off both Light Weapon and [Galebreathe](Galebreathe.md).
 
-The Wraithclaw comes with a single passive ability:
-
--   **Gale After Cut** - M1 attacks now apply After Cut, dealing 5% of the initial damage of the attack.
-    -   If you have the After Cut Talent, your M1 attacks will apply an After Cut dealing 10% of the initial attack instead of the usual 5%.
-
-Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talents.md), such as [Legion Centurion](Legion_Centurion.md) or [Navaen War Chief](Navaen_War_Chief.md), work with this weapon, but critical attacks stay unchanged and do not switch depending on your style. The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on Wraithclaw.
-
 The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" which you have to defeat. Various spawn locations for the NPC are:
 
 -   [Minityrsa](Minityrsa.md)
@@ -58,11 +51,11 @@ The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" w
 -   [The Viper's Jaw](<The_Viper's_Jaw.md>)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 
-## Talents
+## Talent
 
 Equipping the Wraithclaw grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Razor Wind**](Talents.md#razor-wind) ensures M1 attacks now apply Aftercut, dealing 5% of the initial damage of the attack.
+[**Razor Wind**](Talents.md#razor-wind) ensures M1 attacks now apply Aftercut on hit, dealing 5% of the initial damage of the attack as additional Galebreathe damage. This does not require you to have the [After Cut](Talents.md#after-cut) Talent.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 234473
+revid: 235402
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -133,14 +133,13 @@ Unlike all bosses, this boss involves a unique gimmick where the player is only 
 ## Passives
 
 -   The Harvestman's Rules - The Harvestman cannot be attacked by anything else other than the [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra. Your light attack is changed to [Pumpkin Pitch](Pumpkin_Pitch.md) throw.
--   The Unrelenting - Every player that gets turned into a [Gourdskipper](Gourdskipper.md) during the boss now buffs surviving players, increasing their damage by 10% for every person.
 -   **Cursed Burn** - The Harvestman's attacks inflict Cursed Burn on the player.
--   Joy for the Living - whenever a player becomes a [Gourdskipper](Gourdskipper.md), all surviving players are awarded 2 [Joy](Joy.md).
 -   Curse of the Gourdskipper - Dying to the Harvestman revives the player as a [Gourdskipper](Gourdskipper.md).
     -   Attacking other players as a [Gourdskipper](Gourdskipper.md) will infect them as well, and grants 10 [Joy](Joy.md) to the attacker.
     -   Using [Pumpkin Pitch](Pumpkin_Pitch.md) against an infected player will instantly defeat them, removing them from the [Dungeon](Dungeons.md).
     -   Killing a [Gourdskipper](Gourdskipper.md) as a participant will restore 20% as a healthpack.
-    -   Anytime another player in the server gets infected you gain 2 Joy.
+    -   Joy for the Living - Whenever a player becomes a [Gourdskipper](Gourdskipper.md), all surviving players are awarded 2 [Joy](Joy.md).
+    -   The Unrelenting - Every player that gets turned into a [Gourdskipper](Gourdskipper.md) during the boss buffs surviving players, increasing their damage by 10% for every person.
 
 ## Tips and Strategy
 

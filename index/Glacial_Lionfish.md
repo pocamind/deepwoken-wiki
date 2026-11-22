@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 229854
+revid: 235403
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -52,7 +52,7 @@ Glacial Lionfish only features a primarily white coloring and blue blank eyes. I
 -   This will auto-grip you if hit by it at low health.
     -   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
 
--   𓆩✧𓆪 Parryable
+-   ⚠︎ Unparryable
 -   ⛉ Unblockable
 -   § Dodgeable
 -   💀 Autogrip

@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 234708
+revid: 235442
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons of The Summer Company]
@@ -19,7 +19,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | posture damage | 3 |
 | range | 7 Sweep |
 | swing speed | 0.97x |
-| special effect | Every second and fourth M1 will apply burn or proc eruptions on hit |
+| talent | Dragon's Breath - Every shot with your Rifle will spew a wave of flames, igniting opponents. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed |
@@ -37,15 +37,11 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 
 **Rosen's Hellflame** is a Legendary Rifle: the product of the highly intelligent Gunsmith Rosen. In exterior design, it is akin to the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with its shape similar and mechanisms gilded, though it bears a much more lavish design, and boasts a sheen of scarlet metal. Utilizing Ether, it can propel flames in a spectacular display.
 
-This weapon comes with a singular passive ability:
-
--   **Spark of Genius** - "Shot" attacks (the 2nd and 4th Basic Attack, including Aerial Attacks) will apply [Burn](Status_Effects.md#burn) or Eruption if the user has the corresponding path.
-
-## Talents
+## Talent
 
 Equipping the Rosen's Hellflame grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Dragon's Breath**](Talents.md#dragons-breath)
+[**Dragon's Breath**](Talents.md#dragons-breath) causes all blast shots from the rifle (the 2nd and 4th Basic Attack, and gun shot Aerial Attack) to apply [Burn](Status_Effects.md#burn) on hit. This burn proc may be augmented into alternative statuses or effects if the user has the required Talents (e.g. [Eruption Path: Lava Serpent](Talents.md#eruption-path-lava-serpent) causing an Eruption instead).
 
 ## Critical
 

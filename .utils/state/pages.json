@@ -313,7 +313,7 @@
   },
   "1208": {
     "title": "Galebreathe",
-    "lastrevid": 233839
+    "lastrevid": 235433
   },
   "1216": {
     "title": "The Ferryman",
@@ -661,7 +661,7 @@
   },
   "2109": {
     "title": "The Meat Lord",
-    "lastrevid": 224969
+    "lastrevid": 235420
   },
   "2135": {
     "title": "Vigil Longsword",
@@ -689,7 +689,7 @@
   },
   "2263": {
     "title": "Status Effects",
-    "lastrevid": 233666
+    "lastrevid": 235445
   },
   "2302": {
     "title": "Suri",
@@ -741,7 +741,7 @@
   },
   "2442": {
     "title": "Curved Blade of Winds",
-    "lastrevid": 234591
+    "lastrevid": 235447
   },
   "2444": {
     "title": "Shattered Katana",
@@ -1093,7 +1093,7 @@
   },
   "2956": {
     "title": "Etris Palace",
-    "lastrevid": 194392
+    "lastrevid": 235429
   },
   "3007": {
     "title": "Ether",
@@ -1177,11 +1177,11 @@
   },
   "3222": {
     "title": "Etrean Wilds",
-    "lastrevid": 227045
+    "lastrevid": 235427
   },
   "3223": {
     "title": "Etris Docks",
-    "lastrevid": 211164
+    "lastrevid": 235428
   },
   "3227": {
     "title": "Temple of the Blade",
@@ -1461,7 +1461,7 @@
   },
   "3752": {
     "title": "Sibex",
-    "lastrevid": 234328
+    "lastrevid": 235400
   },
   "3770": {
     "title": "Ignition Union Fighter",
@@ -2205,7 +2205,7 @@
   },
   "5402": {
     "title": "Hallowscleave",
-    "lastrevid": 234986
+    "lastrevid": 235441
   },
   "5408": {
     "title": "Second Layer",
@@ -2713,7 +2713,7 @@
   },
   "6658": {
     "title": "The King's Garden",
-    "lastrevid": 194989
+    "lastrevid": 235430
   },
   "6756": {
     "title": "Duke Erisia's Laboratory",
@@ -3101,7 +3101,7 @@
   },
   "7908": {
     "title": "Stormseye",
-    "lastrevid": 234715
+    "lastrevid": 235446
   },
   "7909": {
     "title": "Summer Rifle",
@@ -4373,7 +4373,7 @@
   },
   "13431": {
     "title": "Wraithclaw",
-    "lastrevid": 234638
+    "lastrevid": 235448
   },
   "13434": {
     "title": "Kanabo",
@@ -4405,7 +4405,7 @@
   },
   "13478": {
     "title": "Glacial Lionfish",
-    "lastrevid": 229854
+    "lastrevid": 235403
   },
   "13479": {
     "title": "Star Knight",
@@ -4769,7 +4769,7 @@
   },
   "14453": {
     "title": "Rosen's Hellflame",
-    "lastrevid": 234708
+    "lastrevid": 235442
   },
   "14461": {
     "title": "The Long Tong of the Law",
@@ -5589,7 +5589,7 @@
   },
   "16970": {
     "title": "Guiding Star",
-    "lastrevid": 234665
+    "lastrevid": 235449
   },
   "16972": {
     "title": "Cala-Mariner",
@@ -6977,11 +6977,11 @@
   },
   "20218": {
     "title": "Crawling Necktie",
-    "lastrevid": 221626
+    "lastrevid": 235438
   },
   "20219": {
     "title": "Death's-Head Necktie",
-    "lastrevid": 221627
+    "lastrevid": 235436
   },
   "20221": {
     "title": "Goodie Bag",
@@ -6997,7 +6997,7 @@
   },
   "20230": {
     "title": "Pumpkin",
-    "lastrevid": 230062
+    "lastrevid": 235439
   },
   "20234": {
     "title": "Nocturnal Gem",
@@ -8197,7 +8197,7 @@
   },
   "21852": {
     "title": "Etris (Vow of Iron)",
-    "lastrevid": 232026
+    "lastrevid": 235424
   },
   "21855": {
     "title": "Cirrus",
@@ -9153,7 +9153,7 @@
   },
   "24237": {
     "title": "Simforea",
-    "lastrevid": 235391
+    "lastrevid": 235398
   },
   "24238": {
     "title": "Alsin's Landing",
@@ -9181,7 +9181,7 @@
   },
   "24247": {
     "title": "Wooden Staff",
-    "lastrevid": 235366
+    "lastrevid": 235434
   },
   "24248": {
     "title": "Duskpole",
@@ -9905,7 +9905,7 @@
   },
   "26897": {
     "title": "Talents/Categories G-K",
-    "lastrevid": 231975
+    "lastrevid": 235443
   },
   "26898": {
     "title": "Talents/Categories L-P",
@@ -9945,7 +9945,7 @@
   },
   "26926": {
     "title": "The Harvestman",
-    "lastrevid": 234473
+    "lastrevid": 235402
   },
   "26939": {
     "title": "Familiar Vagrant's Armor",
@@ -9997,7 +9997,7 @@
   },
   "26978": {
     "title": "Alloyblood Daggers",
-    "lastrevid": 233169
+    "lastrevid": 235396
   },
   "26979": {
     "title": "Alloyblood Spear",
@@ -10138,5 +10138,21 @@
   "27390": {
     "title": "The Complete Map of the Eastern Luminant",
     "lastrevid": 235121
+  },
+  "27425": {
+    "title": "The King's Garden (Vow of Iron)",
+    "lastrevid": 235407
+  },
+  "27431": {
+    "title": "Etris Docks (Vow of Iron)",
+    "lastrevid": 235426
+  },
+  "27437": {
+    "title": "Etris Palace (Vow of Iron)",
+    "lastrevid": 235425
+  },
+  "27439": {
+    "title": "Etrean Wilds (Vow of Iron)",
+    "lastrevid": 235422
   }
 }

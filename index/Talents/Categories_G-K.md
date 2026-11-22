@@ -1,6 +1,6 @@
 ---
 title: "Talents/Categories G-K"
-revid: 231975
+revid: 235443
 source: https://deepwoken.fandom.com/wiki/Talents/Categories_G-K
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Mechanics, Skills]

@@ -1,6 +1,6 @@
 ---
 title: Simforea
-revid: 235391
+revid: 235398
 source: https://deepwoken.fandom.com/wiki/Simforea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -90,7 +90,7 @@ Exhaustive Loot Table
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li>
-    <li><b>Medium Weapons</b>:</li>
+    <li><b>Medium Weapons</b>: <a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></li>
     <li><b>Heavy Weapons</b>:</li>
   </ol></li>
   </ul></td>

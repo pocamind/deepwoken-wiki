@@ -1,11 +1,9 @@
 ---
 title: "Death's-Head Necktie"
-revid: 221627
+revid: 235436
 source: https://deepwoken.fandom.com/wiki/Death's-Head_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Equipment, Torso, Ties, Hallowtide, Event Item]
-notices:
-  - This page contains Event Exclusive Content This item is exclusive to Goodie Bags.
+categories: [Equipment, Torso, Ties, Hallowtide, Event Item]
 ---
 
 # Death's-Head Necktie
@@ -23,7 +21,7 @@ notices:
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Goodie Bag |
+| obtainment | Any Blacksmith if you have the '25 Hallowtide Medal [3 Knowledge], Goodie Bag |
 | description | You may think this world is a dream come true... but you're wrong. |
 
 ## Description

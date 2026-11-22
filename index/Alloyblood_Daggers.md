@@ -1,6 +1,6 @@
 ---
 title: Alloyblood Daggers
-revid: 233169
+revid: 235396
 source: https://deepwoken.fandom.com/wiki/Alloyblood_Daggers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, "Attunement-based Weapons", Alloyblood Weapons, "Weapons with Multi-Attunement Scaling", "Dual-wielded Weapons"]
@@ -38,7 +38,7 @@ Variants: [Alloyblood Axe](Alloyblood_Axe.md) · [Alloyblood Spear](Alloyblood_S
 
 ## Description
 
-The Alloyblood Daggers are one of three Alloyblood Weapons and is a [Dagger](Daggers.md) in the Light Weapons category. Conjured from the Alloyblood itself, this weapon boasts a hastened swing speed, with each attack applying a dibilitating effect on hit ([see below](#talents)).
+The Alloyblood Daggers are one of three Alloyblood Weapons and is a [Dagger](Daggers.md) in the Light Weapons category. Conjured from the Alloyblood itself, this weapon boasts a hastened swing speed, with each attack applying a debilitating effect on hit ([see below](#talents)).
 
 This weapon can only be obtained by using the [Infused Slash](Hybrid_Abilities.md#infused-slash) Alloyblood Mantra after building up enough [Composite Alloy](Status_Effects.md#composite-alloy) on the target via [Bloodrend](Bloodrend.md) and [Ironsing](Ironsing.md) attacks. This weapon has a set duration after the Mantra is used.
 

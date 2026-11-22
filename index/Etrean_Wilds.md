@@ -1,19 +1,24 @@
 ---
 title: Etrean Wilds
-revid: 227045
+revid: 235427
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
 ---
 
 # Etrean Wilds
+
+Variants: [Etrean Wilds (Vow of Iron)](<Etrean_Wilds_(Vow_of_Iron).md>)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 LocationL Etrean Wilds LocationR
 
 The sounds of the forest comfort your sea-weary soul, if briefly.
 
   
-
 **Etrean Wilds** is a location in _Deepwoken_. It is a sub-location of [Etris](Etris.md) found in [The Etrean Sea](The_Etrean_Sea.md).
 
 ## Description

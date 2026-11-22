@@ -1,12 +1,18 @@
 ---
 title: Etris Palace
-revid: 194392
+revid: 235429
 source: https://deepwoken.fandom.com/wiki/Etris_Palace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
+categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]
 ---
 
 # Etris Palace
+
+Variants: [Etris Palace (Vow of Iron)](<Etris_Palace_(Vow_of_Iron).md>)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 LocationL Etris Palace LocationR
 
@@ -15,7 +21,6 @@ TERRITORY OF Etrea
 An imposing aura of pride, tradition, and dignity courses through the halls of the estate.
 
   
-
 **Etris Palace** is a palace in [Etris](Etris.md) located in [The King's Garden](<The_King's_Garden.md>). It is surrounded by palace [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) on the inside and outside.
 
 ## Overview

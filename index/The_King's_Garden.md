@@ -1,12 +1,18 @@
 ---
 title: "The King's Garden"
-revid: 194989
+revid: 235430
 source: https://deepwoken.fandom.com/wiki/The_King's_Garden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
+categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]
 ---
 
 # The King's Garden
+
+Variants: [The King's Garden (Vow of Iron)](<The_King's_Garden_(Vow_of_Iron).md>)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 LocationL The King's Garden LocationR
 

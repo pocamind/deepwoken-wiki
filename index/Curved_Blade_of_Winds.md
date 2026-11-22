@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 234591
+revid: 235447
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -42,11 +42,11 @@ Variants: [Eyes of Ethiron](Eyes_of_Ethiron.md)
 
 The **Curved Blade of Winds** is a Legendary medium [Sword](Weapons.md) that can cut through both air and guards with breeze. The blade curves like the start of a spiral, and within its blade is Galebreathe energy showing in swirling eddies and dotted swirls. It scales with both Medium Weapon and [Galebreathe](Galebreathe.md).
 
-## Talents
+## Talent
 
 Equipping the Curved Blade of Winds grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Razor Wind**](Talents.md#razor-wind) ensures M1 attacks now apply Aftercut, dealing 5% of the initial damage of the attack.
+[**Razor Wind**](Talents.md#razor-wind) ensures M1 attacks now apply Aftercut on hit, dealing 5% of the initial damage of the attack as additional Galebreathe damage. This does not require you to have the [After Cut](Talents.md#after-cut) Talent.
 
 ## Critical
 

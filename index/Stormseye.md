@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 234715
+revid: 235446
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons of The Summer Company]
@@ -19,7 +19,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | posture damage | 5 |
 | range | 8 Sweep |
 | swing speed | 1x |
-| special effect | On flourish, fire a shockwave that stuns and pushes opponents back. 10s CD.Applies Thundercall Talents. Aerial attacks will teleport you to the enemy. |
+| talent | Volt Core - After 2 flourishes, your next flourish will fire off an explosive high-voltage elemental shot. Additionally, your Aerial Attack will now teleport you to a nearby opponent. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed |
@@ -37,22 +37,11 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 
 The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medallion](Kyrsan_Medallions.md) that sits in the center of the Stormseye. This invention functions by utilizing the power of Thundercall to better hit foes with charged ammunition and sharp, sudden strikes, fitting of its deliberately deadly design. It scales from Medium Weapons and the [Thundercall](Thundercall.md) Attunement.
 
-The Stormseye comes with 2 passive abilities:
-
-Weapon passives will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
-
--   **Medallion Shockwave** - Every 2nd flourish creates an explosion that knocks people away and applies [Shock](Status_Effects.md#shock). This has a 10 second cooldown. If the user has Surge Path: Unstable Capacitator, the passive applies a surge stack with this flourish instead.
-
--   **Rosen's Fakeout** - At close range, landing aerial M1s teleport you behind the enemy.
-    -   This passive has a similar behavior with the Static Fakeout Talent, in terms of visual effects.
-
-This weapon procs all static and electrified Talents as well as all [Thundercall](Thundercall.md) status effects, including Interrogator, proccing Surge stacks, Static Blade, and the Stratoshock buffs.
-
-## Talents
+## Talent
 
 Equipping the Stormseye grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Voltcore**](Talents.md#voltcore)
+[**Volt Core**](Talents.md#volt-core) augments the user's flourish and aerial attacks. Every second flourish creates an explosion that knocks enemies back and applies [Shock](Status_Effects.md#shock). This special flourish has a 10 second cooldown. At close range, landing aerial attacks teleports the user behind the target with a flash of electricity.
 
 ## Critical
 

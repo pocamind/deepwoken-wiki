@@ -1,6 +1,6 @@
 ---
 title: Pumpkin
-revid: 230062
+revid: 235439
 source: https://deepwoken.fandom.com/wiki/Pumpkin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Consumables, Harvestables, Food Ingredients]
@@ -25,6 +25,7 @@ notices:
 | droppable | Yes |
 | pass down | No |
 | desc | A hearty gourd coveted by the residents of The Floating Keep. |
+| obtainment | Harvested during Hallowtide, Any Blacksmith if you have the '25 Hallowtide Medal [1 Knowledge], Goodie Bag |
 
 ## Description
 

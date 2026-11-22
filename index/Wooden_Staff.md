@@ -1,6 +1,6 @@
 ---
 title: Wooden Staff
-revid: 235366
+revid: 235434
 source: https://deepwoken.fandom.com/wiki/Wooden_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
@@ -19,7 +19,8 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 | range | 6 Sweep |
 | swing speed | 1.01x |
 | attack duration | 0.6s |
-| penetration | 15% |
+| penetration | 5% |
+| talent | Give and Take - Deal less damage to comrades and receive less damage from comrades. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Wooden Staff |
@@ -39,7 +40,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 
 The Wooden Staff is a [Staff](Staves.md) weapon in the Medium category.
 
-## Talents
+## Talent
 
 Equipping the Wooden Staff grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

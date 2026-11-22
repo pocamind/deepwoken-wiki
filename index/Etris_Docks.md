@@ -1,12 +1,18 @@
 ---
 title: Etris Docks
-revid: 211164
+revid: 235428
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
+categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]
 ---
 
 # Etris Docks
+
+Variants: [Etris Docks (Vow of Iron)](<Etris_Docks_(Vow_of_Iron).md>)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 LocationL Etris Docks LocationR
 
@@ -15,7 +21,6 @@ TERRITORY OF Etrea
 There are those who think of ports as a gateway between two worlds; that of the living and that of the lost.
 
   
-
 **Etris Docks** is a location in _Deepwoken_. It is a landmark in [Etris](Etris.md) found in [The Etrean Sea](The_Etrean_Sea.md).
 
 ## Overview
