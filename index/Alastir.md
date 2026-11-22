@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 235315
+revid: 235357
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -125,7 +125,7 @@ The player is tasked with collecting [Forgotten Villagers](Forgotten_Villager.md
 
 **Legacy:**
 
-Originally, Alastir was a Royal Pathfinder in service to [Duke Erisia](Duke_Ishamon_Erisia.md) who eventually recognized his master's insanity and tried to stop him and even possessed a [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>). This was later _**RECONNECTED**_ into him simply having been a pathfinder who was unfortunate enough to be passing through, due to his claims and associated plot threads contradicting later developments.
+Originally, Alastir was a Royal Pathfinder in service to [Duke Erisia](Duke_Ishamon_Erisia.md) who eventually recognized his master's insanity and tried to stop him and even possessed a [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>). This was later changed to him simply having been a pathfinder who was unfortunate enough to be passing through, due to his claims and associated plot threads contradicting later developments.
 
 **First Encounter:**
 

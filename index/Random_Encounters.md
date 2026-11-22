@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 230280
+revid: 235352
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics]
@@ -143,7 +143,7 @@ In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere 
 
 #### Maljuror
 
-In the [Ancient Rotlands](Ancient_Rotlands.md), [Maljurors](Maljuror.md) may spawn. They utilize the [Flamecharm](Flamecharm.md) [Attunement](Attunements.md) and wield the [Kindred Edict](Kindred_Edict.md) weapon. [Maljuror](Maljuror.md) may spawn handcuffed, or unhandcuffed, but the drops remains the same. Killing them grants the player a [chest](Chests_&_Sacks.md) with [Songseeker Wilds](Songseeker_Wilds.md) loot and either a [Spark](Mantra_Modifiers.md#sparks) or with a small chance the [Kindred Edict](Kindred_Edict.md).
+In the [Ancient Rotlands](Ancient_Rotlands.md), [Maljurors](Maljuror.md) may spawn. They utilize the [Flamecharm](Flamecharm.md) [Attunement](Attunements.md) and wield the [Kindred Edict](Kindred_Edict.md) weapon. [Maljuror](Maljuror.md) may spawn handcuffed, or unhandcuffed, but the drops remains the same. Killing them grants the player a [chest](Chests_&_Sacks.md) with [Songseeker Wilds](Songseeker_Wilds.md) loot and either a [Spark](Mantra_Modifiers.md#sparks) or, with a small chance, the [Maljuror's Jougs](Maljuror_Jougs.md), [Choker](Maljuror_Choker.md), or [Kindred Edict](Kindred_Edict.md)
 
 -   See [Maljuror](Maljuror.md)
 

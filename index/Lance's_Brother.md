@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 230272
+revid: 235355
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -155,7 +155,8 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
 
 ## Trivia
 
--   After asking his name, your character forgets, and his name is then randomized from a preset group of names, which end in "(?)".
+-   After asking his name, your character forgets, and his name is then randomized from a preset group of names, which end in "(?)". These may include:
+    -   Keith (?)
 -   Lance's Brother wears [Merchant Robes](Merchant_Robes.md).
 -   Lance Leshi denies having a brother.
 

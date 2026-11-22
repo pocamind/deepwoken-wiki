@@ -1,6 +1,6 @@
 ---
 title: "Titus's Raiment"
-revid: 232873
+revid: 235348
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Master Outfits, Outfits, Outfits with Talents, Outfits with Exclusive Talents, Outfits of The Hundred Legions]
@@ -45,4 +45,5 @@ The [Overwhelming Might](Talents.md#overwhelming-might) Talent makes [Strong Lef
 ## Trivia
 
 -   Overwhelming Might gives Strong Left the [Unblockable](Combat_Mechanics.md#telegraphed-attacks) indicator. Additionally, Strong Left with this Outfit will go on its full cooldown when feinted, like any other guardbreaking Mantra.
+-   Even if a 60 second cooldown seems like an excessive amount of time, Overwhelming Might will only go on cooldown after guardbreaking an opponent, this meaning landing it without it being blocked/parried, whiffing it or it being dodged will not put it on cooldown.
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) uses a damaged version of this Outfit; Roblox clothing: [Shirt](https://www.roblox.com/catalog/107022633458635/Titus-Raiment-Damaged-Shirt) / [Pants](https://www.roblox.com/catalog/80719684000495/Titus-Raiment-Damaged-Pants).

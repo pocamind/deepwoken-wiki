@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 229142
+revid: 235340
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Legendary Weapons]
@@ -20,7 +20,7 @@ categories: [Weapons, Named Weapons, Named Items, Weapons with Talents, Critical
 | swing speed | 0.9x |
 | attack duration | 0.7s |
 | penetration | 25% |
-| talent | Sacrificial Boon - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae., Pierce Through - Remove the autoparry frames the first hit of your base spear critical has. |
+| talent | Sacrificial Boon - Sacrifice 10 knowledge to activate Blessing, giving you a random blessing from Navae., Pierce Through - Remove the autoparry frames the first hit of your base spear critical has. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Iron Spear |

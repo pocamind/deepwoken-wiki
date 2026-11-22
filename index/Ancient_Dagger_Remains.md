@@ -1,6 +1,6 @@
 ---
 title: Ancient Dagger Remains
-revid: 228304
+revid: 235347
 source: https://deepwoken.fandom.com/wiki/Ancient_Dagger_Remains
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Quest Item, Ingredients]
