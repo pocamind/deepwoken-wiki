@@ -77,7 +77,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 1 | [The Games Of War](https://soundcloud.com/naktigonis/the-games-of-war) | 2:48 | [Chime of Conflict](Chime_of_Conflict.md) |  |
 | 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | [Aelita](Aelita.md) |  |
 | 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Duke Erisia](Duke_Ishamon_Erisia.md) |  |
-| 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Cinders of Etris](Cinders_of_Etris.md) Disaster, [Etris (Vow of Iron)](<Etris_(Vow_of_Iron).md>), Etris Docks (Vow of Iron), and Etrean Wilds (Vow of Iron) |  |
+| 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Cinders of Etris](Cinders_of_Etris.md) Disaster, [Etris (Vow of Iron)](<Etris_(Vow_of_Iron).md>), [Etris Docks (Vow of Iron)](<Etris_Docks_(Vow_of_Iron).md>), and [Etrean Wilds (Vow of Iron)](<Etrean_Wilds_(Vow_of_Iron).md>) |  |
 | 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) |  |
 | 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) (Tutorial) |  |
 | 7 | [A Light In The Sky](https://soundcloud.com/naktigonis/a-light-in-the-sky) | 3:10 | [The Floating Keep](The_Floating_Keep.md) |  |

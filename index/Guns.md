@@ -64,7 +64,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -78,7 +77,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>19.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -92,7 +90,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>20.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -108,7 +105,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -124,7 +120,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -138,7 +133,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -152,7 +146,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>3.5</td>
   <td>11</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -166,7 +159,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>4</td>
   <td>11</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -182,7 +174,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>2.5</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -196,7 +187,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -210,7 +200,6 @@ Despite having the highest range of all the weapons, utilizing the range can oft
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>23.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -235,7 +224,6 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -249,7 +237,6 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -263,7 +250,6 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>22</td>
   <td><b>✓</b></td>
 </tr>
@@ -279,7 +265,6 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -295,7 +280,6 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -310,7 +294,6 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -324,7 +307,6 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -338,7 +320,6 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>5</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -356,7 +337,6 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>

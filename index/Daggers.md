@@ -82,7 +82,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -96,7 +95,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>2</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>5</td>
   <td><b>✗</b></td>
 </tr>
@@ -110,7 +108,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>14.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -126,7 +123,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -140,7 +136,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>19.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -156,7 +151,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>2</td>
   <td>11</td>
   <td>1.3x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -170,7 +164,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>5</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21</td>
   <td><b>✓</b></td>
 </tr>
@@ -184,7 +177,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4.5</td>
   <td>5.8</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -200,7 +192,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -214,7 +205,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -229,7 +219,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -245,7 +234,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -261,7 +249,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -278,7 +265,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -293,7 +279,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -311,7 +296,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -328,7 +312,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>3.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -342,7 +325,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -356,7 +338,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -370,7 +351,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -384,7 +364,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -400,7 +379,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -416,7 +394,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
-  <td>-</td>
   <td>26.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -430,7 +407,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -445,7 +421,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -460,14 +435,12 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -477,7 +450,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -491,7 +463,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -505,7 +476,6 @@ Daggers uses the default Dagger critical, a series of 3 quick slashes. The first
   <td>5</td>
   <td>5.8</td>
   <td>1.24x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>

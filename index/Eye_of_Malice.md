@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 234659
+revid: 235459
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, Legendary Weapons, Medium Weapons]
@@ -22,7 +22,6 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Weapons with 
 | penetration | 25% |
 | chip damage | 15% |
 | talent | Cursed Mark - Landing a Basic Attack on your opponent marks them, allowing you to see them through walls for 30s. |
-| special effect | Apply the Mark of Malice on basic attacks, enhancing the critical. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -40,17 +39,17 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, Weapons with 
 
 The Eye of Malice is a Legendary [Medium Sword](Weapons.md) that drops from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It is a whipblade made of several bony segments, with a protrusion in one of the segments.
 
-## Talents
+## Talent
 
 Equipping the Eye of Malice grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Cursed Mark**](Talents.md#cursed-mark) applies the Mark of Malice on every basic attack, enhancing the critical. Signified by an orange eye with swirling effects.
+[**Cursed Mark**](Talents.md#cursed-mark) applies the Mark of Malice on every basic attack, enhancing the critical. Signified by an orange eye with swirling effects. This eye icon can be seen through walls, and is visible to all players, even if they are not using the Eye of Malice. Your critical attack will be augmented if your opponent has a mark.
 
 ## Critical
 
-The user leaps and thrusts the whipblade into the opponent, applying knockdown before lashing out into the air again. If the critical is landed on an opponent with the Mark of Malice, the weapon will damage the opponent twice, proccing talents like Spine Cutter.
+The user leaps and thrusts the whipblade into the opponent, applying knockdown before lashing out into the air again. If the critical is landed on an opponent with the Mark of Malice, the weapon will strike the opponent from behind, dealing damage twice and proccing Talents like [Spine Cutter](Talents.md#spine-cutter).
 
-Feinting during this critical will cancel momentum and allow you to more easily use this attack in close quarters combat.
+Feinting during this critical will cancel your momentum, and allow you to more easily use this attack in close quarters combat.
 
 The critical has a cooldown of **6 seconds**.
 

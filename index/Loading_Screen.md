@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 228448
+revid: 235477
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -24,7 +24,7 @@ During the loading processes, the resources are rendered in so the player can in
 
 -   Accessing Memories of the past... - Defeating a core [Mementos](Mementos.md) [Boss](Bosses.md).
 -   Calling back to Memories departed... - Entering the [Tutorial](Tutorial.md).
--   Descending beyond comprehension... - Dying in a [Dungeon](Dungeons.md) and being sent to [Fragments of Self](Fragments_of_Self.md) or [Fragments of Else](Fragments_of_Else.md).
+-   Descending beyond comprehension... - Dying in [the Depths](The_Depths.md) and being sent to [Fragments of Self](Fragments_of_Self.md) or [Fragments of Else](Fragments_of_Else.md).
 -   Heeding Conflict's call... - Entering the [Chime of Conflict](Chime_of_Conflict.md).
 -   Learning some new tricks... - Entering [Training Mode](Training_Mode.md).
 -   Returning to Menu... - Entering the Main Menu.

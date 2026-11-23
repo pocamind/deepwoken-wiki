@@ -1,6 +1,6 @@
 ---
 title: Suncross
-revid: 214508
+revid: 235455
 source: https://deepwoken.fandom.com/wiki/Suncross
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, In progress without reason, InProgressPages, Natural phenomena]
@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-The Suncross is one of the two celestial objects that orbits between Lumen and the Heavens - standing as Deepwoken's equivalent of the Sun and the counterpart to the [Moonseye](Moonseye.md). Orbiting around Lumen in an elliptical path, the Suncross is partly responsible for Deepwoken's day/night cycle.
+The Suncross is one of the two celestial objects that orbits between the Surface and the Heavens - standing as Deepwoken's equivalent of the Sun and the counterpart to the [Moonseye](Moonseye.md). Orbiting around Lumen in an elliptical path, the Suncross is partly responsible for Deepwoken's day/night cycle.
 
 The Suncross is always seen as a white star with six distinct points. The Suncross can only be seen during the daytime, and cannot be witnessed during nighttime, retreating into the Voidfog - during which the Moonseye becomes more visible in the night sky.
 

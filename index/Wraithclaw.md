@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 235448
+revid: 235452
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
@@ -56,6 +56,8 @@ The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" w
 Equipping the Wraithclaw grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 [**Razor Wind**](Talents.md#razor-wind) ensures M1 attacks now apply Aftercut on hit, dealing 5% of the initial damage of the attack as additional Galebreathe damage. This does not require you to have the [After Cut](Talents.md#after-cut) Talent.
+
+This Talent is shared with the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 
 ## Critical
 

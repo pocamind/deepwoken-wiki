@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 235297
+revid: 235466
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -91,7 +91,7 @@ Upon being exiled from [The Central Authority](The_Central_Authority.md), you wi
 
 You lose the ability to equip Authority-related equipments and weapons without meeting its normal stat requirements, though any currently equipped items will remain usable until swapped out. In cases where it is swapped out, you cannot equip them again without meeting its normal stat requirements.
 
-Your Authority reputation will also be lowered heavily, most of the time to **Hunted** or **Villain** reputation (though you can still raise your Authority reputation afterwards) and it will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md), [The Children of Navae](The_Children_of_Navae.md), and [The Hundred Legions](The_Hundred_Legions.md). You will also lose a bit of reputation with [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md), and gain ample reputation with [The Hundred Legions](The_Hundred_Legions.md) upon exile.
+Your Authority reputation will also be lowered heavily, most of the time to **Hunted** or **Villain** reputation (You cannot regain your Authority reputation afterwards) and it will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md), [The Children of Navae](The_Children_of_Navae.md), and [The Hundred Legions](The_Hundred_Legions.md). You will also lose a bit of reputation with [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md), and gain ample reputation with [The Hundred Legions](The_Hundred_Legions.md) upon exile.
 
 Alongside losing your insignia and rank, [Salute](#salute) now no longer appears as an emote you can use. You can no longer [Jail](Fort_Merit.md#prison-tower) other players. You still keep your [Horn of Authority](Authority_Ensign.md#horn-of-authority), although it needs testing on whether or not it still works.
 

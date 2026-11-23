@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 234892
+revid: 235457
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -22,7 +22,6 @@ categories: [Weapons, Weapons with Talents, Swords, "Core-Attribute based weapon
 | penetration | 10% |
 | chip damage | 30% |
 | talent | Soul Scar - Your Basic Attacks inflict a soul mark onto your opponent. Your critical requires a soul mark to be used. At 3 marks, enhance your Critical. |
-| special effect | Every M1 applies a Soul Mark to the target, capping at 3 stacks. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -40,19 +39,15 @@ categories: [Weapons, Weapons with Talents, Swords, "Core-Attribute based weapon
 
 The Soulthorn is a Mythical Weapon that can be obtained from the chest dropped by the [Moon Knight](Moon_Knight.md) in the core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance. It can also be obtained rarely from any sea event in the [Voidsea](Voidsea.md) and directly dropped from the [Semblance](Semblance.md) mob.
 
--   **Chaotic Wailing -** Each basic attack applies a Soul Mark to the target, which caps up to 3. The amount of Soul Marks affect the critical.
-
-## Talents
+## Talent
 
 Equipping the Soulthorn grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Soul Scar**](Talents.md#soul-scar)
+[**Soul Scar**](Talents.md#soul-scar) applies a [Soul Mark](Status_Effects.md#soul-mark) on each basic attack, with the quantity of Soul Marks applied dictating which critical will be used. At 3 stacks (the maximum), the target will display a rotating star-like aura. For more info on the Critical Attacks, view the [Critical Attack](#critical) section.
 
 ## Critical
 
 The Soulthorn has three critical variants which depend on the amount of Soul Marks on an opponent.
-
-Every M1 of Soulthorn that connects applies a Soul Mark. Up to three Soul Marks can be applied. At three stacks, the opponent will have a rotating, star-like aura.
 
 Using your critical at 0 stacks causes the sword to glow and nothing else to happen.
 

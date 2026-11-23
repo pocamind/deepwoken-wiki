@@ -103,5 +103,5 @@ A Legion Soldier executes its opponent after knocking them:
 ## Trivia
 
 -   The two Legion soldiers at Legion Camp inside the Viper's Jaw are not equipped with Khan shields, except if they aggro you.
--   They are hostile towards [Forgotten Villagers](Forgotten_Villager.md).
+-   They are hostile towards [Forgotten Villagers](A_Vagrant.md).
 -   The two soldiers stationed in the The Viper's Jaw camp have a chance to engage in a conversation.

@@ -195,7 +195,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -209,7 +208,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>19.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -223,7 +221,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>20.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -239,7 +236,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -255,7 +251,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -269,7 +264,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -283,7 +277,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>3.5</td>
   <td>11</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -297,7 +290,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>4</td>
   <td>11</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -313,7 +305,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>2.5</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -327,7 +318,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -341,7 +331,6 @@ Pistols uses the default Pistol critical, an empowered shot. It has a scaled dam
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>23.7</td>
   <td><b>✓</b></td>
 </tr>

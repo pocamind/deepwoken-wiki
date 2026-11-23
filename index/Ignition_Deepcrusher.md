@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 234617
+revid: 235462
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, Medium Weapons, Weapons of The Ignition Union]
@@ -40,14 +40,14 @@ The **Ignition Deepcrusher** is a Legendary Club and Sword; an invention of ferr
 
 The weapon also changes colors when the player owns the [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger) Talent, turning golden yellow. This effect applies to criticals as well.
 
-## Talents
+## Talent
 
 Equipping the Ignition Deepcrusher grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 [**Malleable**](Talents.md#malleable) allows you to change the stance of this weapon, which completely changes the playstyle:
 
--   While used with 2 hands, this weapon is a club dealing blunt damage and applying a [Metal Rod](Status_Effects.md#metal-rods) on each M1. It also gains higher weight compared to the sword variant.
--   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains innate [Bleed](Status_Effects.md#bleed) damage, increasing its unmodified damage by 15%. It also gains a slight swing speed and PEN increase compared to the club variant.
+-   While used with 2 hands, this weapon is a club dealing blunt damage and applying a [Metal Rod](Status_Effects.md#metal-rods) on each M1. It also gains higher posture damage and base damage compared to the sword variant, at the cost of a PEN and swing speed reduction.
+-   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains innate [Bleed](Status_Effects.md#bleed) damage, effectively increasing its scaled damage by 15%. It also gains a slight swing speed and PEN increase compared to the club variant, at the cost of a reduction in base damage and posture damage.
 
 ## Critical
 

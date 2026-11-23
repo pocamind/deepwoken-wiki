@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 221866
+revid: 235480
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 **Iron Vessel** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
-A being of iron that wields [Ironsing](Ironsing.md), the Iron Vessel is effectively impervious to damage if not pushed to their limits. The lightest of blows become mere scratches, but should they falter in their defence, their shell shatters, making them suffer greatly.
+A being of iron that wields [Ironsing](Ironsing.md), the Iron Vessel is effectively impervious to damage if not pushed to their limits. The Heaviest of blows become mere scratches, but should they falter in their defense, their shell shatters, making them suffer greatly.
 
 ## Unique Features
 

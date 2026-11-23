@@ -520,9 +520,9 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: Church of Erisor (Erisia)<br>
-  <b>Guide</b>: Talk to the <a href="Forgotten_Villager.md">Forgotten Villagers</a> in the Church of Erisor. Help them through the waves of monsters and bandit leaders.<br>
+  <b>Guide</b>: Talk to the <a href="A_Vagrant.md">Forgotten Villagers</a> in the Church of Erisor. Help them through the waves of monsters and bandit leaders.<br>
   <b>Reward(s)</b>: Chest</p></div></td>
-  <td><figure><figcaption><p></p><div><a href="Forgotten_Villager.md">Forgotten Villagers</a></div><p></p></figcaption></figure></td>
+  <td><figure><figcaption><p></p><div><a href="A_Vagrant.md">Forgotten Villagers</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

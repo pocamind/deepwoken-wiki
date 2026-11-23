@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 234132
+revid: 235468
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,7 +14,7 @@ Seasons are a core part of _Deepwoken's_ world system. Each season lasts two in-
 
 In the calendar, the first month of a season ends with **"-span"**, while the second ends with **"-fall."** The only exception to this rule is Spring, with its last month ending in **"-watch."**
 
-Seasonal changes primarily affect environmental visuals and the behavior of flora and fauna. Certain plants can stop growing during specific seasons as well, such as Wheat ceasing growth in Winter, and some fruits can no longer growing.
+Seasonal changes primarily affect environmental visuals and the behavior of flora and fauna. Certain plants can stop growing during specific seasons as well, such as Wheat ceasing growth in Winter, and some fruits no longer growing.
 
 Seasonal mob changes also occur. For example, [Blizzard Knights](Stone_Knight.md#blizzard-knight) only appear in [The Valley of Heroes](The_Valley_of_Heroes.md) during Winter. When it is not Winter, [Aelita](Aelita.md) will spawn instead.
 

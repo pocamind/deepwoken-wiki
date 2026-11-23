@@ -312,12 +312,11 @@ This attack has a **5 second cooldown**.
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -329,7 +328,6 @@ This attack has a **5 second cooldown**.
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -343,7 +341,6 @@ This attack has a **5 second cooldown**.
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -357,8 +354,21 @@ This attack has a **5 second cooldown**.
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Infected.md">Infected</a></b></td>
+  <td><a href="Hallowtide.md">Hallowtide</a><br>
+  <small>View <a href="Infected.md">Infected</a> for more info.</small></td>
+  <td>10</td>
+  <td>N/A</td>
+  <td>-</td>
+  <td>-</td>
+  <td>9</td>
+  <td>6</td>
+  <td>1.3x</td>
+  <td>10</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -371,7 +381,6 @@ This attack has a **5 second cooldown**.
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -385,7 +394,6 @@ This attack has a **5 second cooldown**.
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3 (9.2)</td>
   <td><b>✗</b></td>
 </tr>
@@ -399,12 +407,11 @@ This attack has a **5 second cooldown**.
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><b>Cestus</b></td>
+  <td colspan="11"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -416,7 +423,6 @@ This attack has a **5 second cooldown**.
   <td>1</td>
   <td>3</td>
   <td>0.6x</td>
-  <td>-</td>
   <td>1</td>
   <td><b>✗</b></td>
 </tr>
@@ -430,7 +436,6 @@ This attack has a **5 second cooldown**.
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>21.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -445,7 +450,6 @@ This attack has a **5 second cooldown**.
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>22.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -459,7 +463,6 @@ This attack has a **5 second cooldown**.
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -475,7 +478,6 @@ This attack has a **5 second cooldown**.
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>25.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -491,7 +493,6 @@ This attack has a **5 second cooldown**.
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -507,7 +508,6 @@ This attack has a **5 second cooldown**.
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -525,7 +525,6 @@ This attack has a **5 second cooldown**.
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -539,7 +538,6 @@ This attack has a **5 second cooldown**.
   <td>4.5</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>24.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -553,7 +551,6 @@ This attack has a **5 second cooldown**.
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -569,7 +566,6 @@ This attack has a **5 second cooldown**.
   <td>4</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -585,7 +581,6 @@ This attack has a **5 second cooldown**.
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -599,7 +594,6 @@ This attack has a **5 second cooldown**.
   <td>4</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -615,7 +609,6 @@ This attack has a **5 second cooldown**.
   <td>6</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -632,7 +625,6 @@ This attack has a **5 second cooldown**.
   <td>4</td>
   <td>6.5</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -647,7 +639,6 @@ This attack has a **5 second cooldown**.
   <td>6</td>
   <td>6</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -663,7 +654,6 @@ This attack has a **5 second cooldown**.
   <td>5.5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26</td>
   <td><b>✓</b></td>
 </tr>
@@ -678,7 +668,6 @@ This attack has a **5 second cooldown**.
   <td>8</td>
   <td>6</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30</td>
   <td><b>✗</b></td>
 </tr>
@@ -692,7 +681,6 @@ This attack has a **5 second cooldown**.
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✓</b></td>
 </tr>

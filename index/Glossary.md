@@ -616,7 +616,7 @@ Dialogue: [Commander Morredh](Commander_Morredh.md), [High Inquisitor Merey](Hig
 -   Those that make a living by exploring ruins and driftlands.
 -   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
 
-Dialogue: [Beiruul](Beiruul.md), [Braun](Braun.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Disciple Gobletto](Disciple_Gobletto.md), [Forgotten Villager](Forgotten_Villager.md), [Ignacio](Ignacio.md), [Neero](Neero.md), [Nimea](Nimea.md), [Roa](Roa.md), [Sarbu](Sarbu.md), [Seroth](Seroth.md), [Teacher](Teacher.md), [Thula](Thula.md) | Books: [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Beiruul](Beiruul.md), [Braun](Braun.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Disciple Gobletto](Disciple_Gobletto.md), [Forgotten Villager](A_Vagrant.md), [Ignacio](Ignacio.md), [Neero](Neero.md), [Nimea](Nimea.md), [Roa](Roa.md), [Sarbu](Sarbu.md), [Seroth](Seroth.md), [Teacher](Teacher.md), [Thula](Thula.md) | Books: [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ## Time Periods
 

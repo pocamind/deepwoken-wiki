@@ -52,7 +52,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -66,7 +65,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>4</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>19.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -82,7 +80,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -99,7 +96,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -116,7 +112,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -130,7 +125,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>6</td>
   <td>8.4</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>29.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -144,7 +138,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>7.5</td>
   <td>8</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -159,7 +152,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>6</td>
   <td>7.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -173,7 +165,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>

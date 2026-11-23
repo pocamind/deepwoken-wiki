@@ -321,7 +321,7 @@
   },
   "1217": {
     "title": "Seasons",
-    "lastrevid": 234132
+    "lastrevid": 235468
   },
   "1222": {
     "title": "Fragments of Self",
@@ -741,7 +741,7 @@
   },
   "2442": {
     "title": "Curved Blade of Winds",
-    "lastrevid": 235447
+    "lastrevid": 235453
   },
   "2444": {
     "title": "Shattered Katana",
@@ -993,7 +993,7 @@
   },
   "2759": {
     "title": "Portals",
-    "lastrevid": 227501
+    "lastrevid": 235476
   },
   "2761": {
     "title": "Jar of Souls",
@@ -1576,8 +1576,8 @@
     "lastrevid": 227103
   },
   "4298": {
-    "title": "Forgotten Villager",
-    "lastrevid": 224770
+    "title": "A Vagrant",
+    "lastrevid": 235475
   },
   "4309": {
     "title": "Authority Captain",
@@ -3057,7 +3057,7 @@
   },
   "7788": {
     "title": "Ignition Deepcrusher",
-    "lastrevid": 234617
+    "lastrevid": 235462
   },
   "7790": {
     "title": "Relics",
@@ -4297,7 +4297,7 @@
   },
   "13186": {
     "title": "Deepspindle",
-    "lastrevid": 234601
+    "lastrevid": 235450
   },
   "13187": {
     "title": "Wormwarder Lantern",
@@ -4373,7 +4373,7 @@
   },
   "13431": {
     "title": "Wraithclaw",
-    "lastrevid": 235448
+    "lastrevid": 235452
   },
   "13434": {
     "title": "Kanabo",
@@ -4425,7 +4425,7 @@
   },
   "13527": {
     "title": "Soulthorn",
-    "lastrevid": 234892
+    "lastrevid": 235457
   },
   "13528": {
     "title": "Moon's Eyrie",
@@ -4825,7 +4825,7 @@
   },
   "14568": {
     "title": "Second Layer/The Ethironal Shrine",
-    "lastrevid": 229673
+    "lastrevid": 235483
   },
   "14569": {
     "title": "Second Layer/New Kyrsa",
@@ -5129,7 +5129,7 @@
   },
   "15522": {
     "title": "Umbrite Witherblade",
-    "lastrevid": 234721
+    "lastrevid": 235461
   },
   "15545": {
     "title": "Sea Highway",
@@ -5189,7 +5189,7 @@
   },
   "15607": {
     "title": "Eye of Malice",
-    "lastrevid": 234659
+    "lastrevid": 235459
   },
   "15610": {
     "title": "Bastions of Enmity",
@@ -5649,7 +5649,7 @@
   },
   "17141": {
     "title": "Crowns",
-    "lastrevid": 233875
+    "lastrevid": 235471
   },
   "17166": {
     "title": "Regarde",
@@ -5717,7 +5717,7 @@
   },
   "17455": {
     "title": "Weal and Woe",
-    "lastrevid": 234608
+    "lastrevid": 235451
   },
   "17470": {
     "title": "Goesh and Draud",
@@ -6673,7 +6673,7 @@
   },
   "19714": {
     "title": "Loading Screen",
-    "lastrevid": 228448
+    "lastrevid": 235477
   },
   "19736": {
     "title": "Sentinel",
@@ -6717,7 +6717,7 @@
   },
   "19763": {
     "title": "Authority Ensign",
-    "lastrevid": 235297
+    "lastrevid": 235466
   },
   "19764": {
     "title": "Destroyman III, Bon Vivant Adventurer",
@@ -6909,7 +6909,7 @@
   },
   "20133": {
     "title": "Suncross",
-    "lastrevid": 214508
+    "lastrevid": 235455
   },
   "20134": {
     "title": "Moon Dermal Rings",
@@ -8081,7 +8081,7 @@
   },
   "21657": {
     "title": "Iron Vessel",
-    "lastrevid": 221866
+    "lastrevid": 235480
   },
   "21661": {
     "title": "Tankard of Plumfruit Juice",
@@ -8985,7 +8985,7 @@
   },
   "23343": {
     "title": "Cinders of Etris",
-    "lastrevid": 225391
+    "lastrevid": 235469
   },
   "23345": {
     "title": "Attack on the Scoundrel's Bounty",
@@ -9153,7 +9153,7 @@
   },
   "24237": {
     "title": "Simforea",
-    "lastrevid": 235398
+    "lastrevid": 235490
   },
   "24238": {
     "title": "Alsin's Landing",
@@ -9189,7 +9189,7 @@
   },
   "24249": {
     "title": "Bellmarrow Reave",
-    "lastrevid": 226808
+    "lastrevid": 235482
   },
   "24251": {
     "title": "Dissonant Chimecaller",
@@ -10154,5 +10154,13 @@
   "27439": {
     "title": "Etrean Wilds (Vow of Iron)",
     "lastrevid": 235422
+  },
+  "27440": {
+    "title": "Akilles",
+    "lastrevid": 235470
+  },
+  "27441": {
+    "title": "11th Scouting Legion",
+    "lastrevid": 235465
   }
 }

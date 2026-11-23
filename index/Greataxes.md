@@ -85,7 +85,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -99,7 +98,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -116,7 +114,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -133,7 +130,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>5</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -149,7 +145,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -166,7 +161,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -180,7 +174,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>4</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -194,7 +187,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>8</td>
   <td>8.5</td>
   <td>0.73x</td>
-  <td>-</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -209,7 +201,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -223,7 +214,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -237,7 +227,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>7</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -251,7 +240,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>7.5</td>
   <td>8.5</td>
   <td>0.91x</td>
-  <td>-</td>
   <td>35.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -265,7 +253,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>8</td>
   <td>8.5</td>
   <td>0.76x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -281,7 +268,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>7</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -297,7 +283,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -314,7 +299,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -330,7 +314,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>9</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -344,7 +327,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>10</td>
   <td>8.5</td>
   <td>0.77x</td>
-  <td>-</td>
   <td>36.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -358,8 +340,8 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>10%</td>
   <td>7</td>
   <td>10</td>
-  <td>0.81x</td>
-  <td>0.05s</td>
+  <td>0.81x<br>
+  0.05s end.</td>
   <td>35.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -374,15 +356,14 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>25%</td>
   <td>10</td>
   <td>10</td>
-  <td>0.7x</td>
-  <td>0.05s</td>
+  <td>0.7x<br>
+  0.05s end.</td>
   <td>49.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -392,7 +373,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -405,8 +385,8 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>-</td>
   <td>8</td>
   <td>10</td>
-  <td>0.8x</td>
-  <td>0.05s</td>
+  <td>0.8x<br>
+  0.05s end.</td>
   <td>51.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -420,7 +400,6 @@ Greataxes uses the default Greataxe critical, an overhead swing. It has a scaled
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>32.5</td>
   <td><b>✗</b></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Simforea
-revid: 235398
+revid: 235490
 source: https://deepwoken.fandom.com/wiki/Simforea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -46,7 +46,7 @@ Run-down Docks that contain [Indichite](Ores.md#indichite) below it.
 
 ### The Cradle
 
-An amphitheater containing the lone inhabitant [Knell](Knell,_The_Lunatic_Resonator.md) surrounded by countless golden bells.
+A colosseum containing the lone inhabitant [Knell](Knell,_The_Lunatic_Resonator.md) surrounded by countless golden bells.
 
 ### Ruins
 
@@ -56,9 +56,127 @@ Dotted with the remnants of old structures and archways
 
 Simforea is scattered with bells and pipes across its landscape.
 
+### Ministry Encounter
+
+[The Ministry](The_Ministry.md) may surround pipes dug up from the ground that leak a white particle's. Seemingly sent by someone to preform some kind of research.
+
+#### Ministry Dialogue
+
+**Dialogue 1:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Oh gods below... this research...</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Dialogue 2:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">All this junk we're digging up here feels like a waste of time.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Dialogue 3:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Why does he even care about the junk on this island?</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Dialogue 4:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">This place gives me the creeps, I hate being out in the Void.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Dialogue 5:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">We could just go back and not bother with this yknow, or just yank a pipe out of somewhere else and call it a day.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Dialogue 6:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Shouldn't someone with higher clearance be doing this?...</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Dialogue 7:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">What even is this?...</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
 ### Wildlife
 
-Simforea contains unique wildlife and flowers.
+Simforea contains unique wildlife and flowers. You can also find certain [Ingredients](Ingredients.md) called [Grudgeroot](Grudgeroot.md), [Squelcap](Squelcap.md) and [Latchgrain](Latchgrain.md)
 
 ### Graffiti
 

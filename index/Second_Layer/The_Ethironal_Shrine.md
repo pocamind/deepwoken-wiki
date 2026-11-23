@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 229673
+revid: 235483
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Dungeons]
@@ -223,6 +223,7 @@ These optional quests are not essential to the main objective of clearing the se
 -   The ambient music for this area is [The Killing Wind](https://www.youtube.com/watch?v=DJ8bK55VP68), [Whisperwind](https://www.youtube.com/watch?v=g_xb36_-s0c), and [The Storm that Speaks](https://www.youtube.com/watch?v=IA4N_loA13A) by Naktigonis.
 -   The combat music for this area is [INSOMNIA](https://www.youtube.com/watch?v=YMJBMjergiI) by Naktigonis.
     -   As stated in the video, the music present in game is altered due to ROBLOX's guidelines regarding screaming and distorted audio.
+-   There is a misconception that the name of 'The Ethironal Shrine' is entirely metaphorical. However, this is false, as the arrangement of buildings you traverse in Layer 2 Floor 1 is one huge shrine.
 -   [Mute](../Regalia.md), [Gliders](../Gliders.md), and [Teleportation](../Teleportation.md) all do not work in this dungeon.
 -   The [Bone Keeper](../Bone_Keeper.md) spawned at the bridge to the generator is only weakened so it has dramatically less knockback and cannot ragdoll you.
 -   [Murmur: Tacet](../Murmur%253A_Tacet.md) is able to be used.

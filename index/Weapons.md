@@ -51,12 +51,11 @@ All weapons within the game have the chance of being found with or without diffe
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><a href="Daggers.md">Daggers</a></td>
+  <td colspan="11"><a href="Daggers.md">Daggers</a></td>
 </tr>
 <tr>
   <td><b><a href="Formless_Shard.md">Formless Shard</a></b></td>
@@ -68,7 +67,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>2</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>5</td>
   <td><b>✗</b></td>
 </tr>
@@ -82,7 +80,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>14.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -98,7 +95,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -112,7 +108,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>19.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -128,7 +123,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>2</td>
   <td>11</td>
   <td>1.3x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -142,7 +136,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21</td>
   <td><b>✓</b></td>
 </tr>
@@ -156,7 +149,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4.5</td>
   <td>5.8</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -172,7 +164,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -186,7 +177,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -201,7 +191,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -217,7 +206,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -233,7 +221,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -250,7 +237,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -265,7 +251,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -283,7 +268,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -300,7 +284,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -314,7 +297,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -328,7 +310,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -342,7 +323,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -356,7 +336,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -372,7 +351,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -388,7 +366,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
-  <td>-</td>
   <td>26.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -402,7 +379,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -417,7 +393,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -432,14 +407,12 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -449,7 +422,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -463,7 +435,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -477,15 +448,14 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>5.8</td>
   <td>1.24x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Fists.md">Fists</a></td>
+  <td colspan="11"><a href="Fists.md">Fists</a></td>
 </tr>
 <tr>
-  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -497,7 +467,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -511,7 +480,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -525,8 +493,21 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Infected.md">Infected</a></b></td>
+  <td><a href="Hallowtide.md">Hallowtide</a><br>
+  <small>View <a href="Infected.md">Infected</a> for more info.</small></td>
+  <td>10</td>
+  <td>N/A</td>
+  <td>-</td>
+  <td>-</td>
+  <td>9</td>
+  <td>6</td>
+  <td>1.3x</td>
+  <td>10</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -539,7 +520,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -553,7 +533,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3 (9.2)</td>
   <td><b>✗</b></td>
 </tr>
@@ -567,12 +546,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><b>Cestus</b></td>
+  <td colspan="11"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -584,7 +562,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>3</td>
   <td>0.6x</td>
-  <td>-</td>
   <td>1</td>
   <td><b>✗</b></td>
 </tr>
@@ -598,7 +575,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>21.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -613,7 +589,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>22.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -627,7 +602,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -643,7 +617,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>25.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -659,7 +632,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -675,7 +647,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -693,7 +664,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -707,7 +677,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4.5</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>24.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -721,7 +690,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -737,7 +705,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -753,7 +720,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -767,7 +733,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -783,7 +748,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -800,7 +764,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -815,7 +778,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>6</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -831,7 +793,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5.5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26</td>
   <td><b>✓</b></td>
 </tr>
@@ -846,7 +807,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>6</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30</td>
   <td><b>✗</b></td>
 </tr>
@@ -860,12 +820,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Rapiers.md">Rapiers</a></td>
+  <td colspan="11"><a href="Rapiers.md">Rapiers</a></td>
 </tr>
 <tr>
   <td><b><a href="Quickfang.md">Quickfang</a></b></td>
@@ -877,7 +836,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -891,7 +849,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -906,7 +863,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -922,7 +878,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -938,7 +893,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -952,7 +906,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -966,7 +919,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8.1</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -980,7 +932,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>27</td>
   <td><b>✗</b></td>
 </tr>
@@ -995,7 +946,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -1010,7 +960,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -1024,12 +973,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Pistols.md">Pistols</a></td>
+  <td colspan="11"><a href="Pistols.md">Pistols</a></td>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -1041,7 +989,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>19.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -1055,7 +1002,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>20.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -1071,7 +1017,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -1087,7 +1032,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -1101,7 +1045,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -1115,7 +1058,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3.5</td>
   <td>11</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -1129,7 +1071,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>11</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -1145,7 +1086,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>2.5</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -1159,7 +1099,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -1173,12 +1112,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>23.7</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Swords.md">Swords</a></td>
+  <td colspan="11"><a href="Swords.md">Swords</a></td>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -1190,7 +1128,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -1204,7 +1141,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>7.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -1220,7 +1156,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -1237,7 +1172,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -1251,7 +1185,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>18.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -1267,7 +1200,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -1281,7 +1213,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -1297,7 +1228,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -1313,7 +1243,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -1327,7 +1256,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>28.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -1344,7 +1272,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -1361,7 +1288,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -1380,7 +1306,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -1399,7 +1324,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -1417,7 +1341,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -1432,7 +1355,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>25.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -1448,7 +1370,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>7.5</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>29.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -1462,7 +1383,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5.5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.9</td>
   <td><b>✓</b></td>
 </tr>
@@ -1477,7 +1397,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -1495,7 +1414,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -1509,7 +1427,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -1524,7 +1441,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -1541,7 +1457,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -1556,7 +1471,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -1570,7 +1484,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -1586,7 +1499,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -1602,7 +1514,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -1618,7 +1529,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -1635,7 +1545,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -1651,7 +1560,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -1667,7 +1575,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -1683,7 +1590,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -1697,7 +1603,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>7.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -1714,7 +1619,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -1728,7 +1632,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✓</b></td>
 </tr>
@@ -1743,7 +1646,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5.5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -1760,7 +1662,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -1775,7 +1676,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -1789,8 +1689,7 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>5</td>
   <td>8</td>
-  <td>1.00x</td>
-  <td>-</td>
+  <td>1x</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -1805,7 +1704,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>7.5</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -1820,7 +1718,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>8</td>
   <td>1.03x</td>
-  <td>-</td>
   <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -1835,7 +1732,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -1850,7 +1746,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -1865,7 +1760,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -1880,7 +1774,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -1895,7 +1788,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -1910,7 +1802,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -1924,7 +1815,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -1938,7 +1828,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5.5</td>
   <td>8.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -1952,12 +1841,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Clubs.md">Clubs</a></td>
+  <td colspan="11"><a href="Clubs.md">Clubs</a></td>
 </tr>
 <tr>
   <td><b><a href="Mace.md">Mace</a></b></td>
@@ -1969,7 +1857,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -1983,7 +1870,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -2000,7 +1886,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -2019,7 +1904,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -2035,7 +1919,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -2050,7 +1933,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -2061,7 +1943,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>18</td>
   <td>MED: 5<br>
   MND: 3</td>
-  <td>-</td>
   <td>-</td>
   <td>7</td>
   <td>7.5</td>
@@ -2080,7 +1961,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -2095,13 +1975,12 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Spears.md">Spears</a></td>
+  <td colspan="11"><a href="Spears.md">Spears</a></td>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -2113,7 +1992,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -2127,7 +2005,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -2142,7 +2019,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -2158,7 +2034,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -2174,7 +2049,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -2188,7 +2062,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -2210,7 +2083,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -2223,14 +2095,13 @@ All weapons within the game have the chance of being found with or without diffe
   LVL 10</td>
   <td>16.5</td>
   <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
+  MND: 3<br>
+  SDW: 4.5</td>
   <td>15%</td>
   <td>-</td>
   <td>6</td>
   <td>9.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -2247,7 +2118,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -2263,7 +2133,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -2280,7 +2149,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -2294,7 +2162,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -2309,7 +2176,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -2326,7 +2192,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -2341,7 +2206,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -2355,7 +2219,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>28.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -2371,7 +2234,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -2389,7 +2251,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>11</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -2405,7 +2266,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -2420,7 +2280,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -2428,8 +2287,7 @@ All weapons within the game have the chance of being found with or without diffe
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -2439,7 +2297,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -2454,12 +2311,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>10</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Staves.md">Staves</a></td>
+  <td colspan="11"><a href="Staves.md">Staves</a></td>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -2471,9 +2327,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>6</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>22</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -2486,7 +2341,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -2502,7 +2356,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6.5</td>
   <td>8</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -2517,12 +2370,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12">Rifles</td>
+  <td colspan="11">Rifles</td>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -2534,7 +2386,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -2548,7 +2399,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>22</td>
   <td><b>✓</b></td>
 </tr>
@@ -2564,7 +2414,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -2580,7 +2429,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -2595,7 +2443,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -2609,7 +2456,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -2623,7 +2469,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -2641,12 +2486,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Twinblades.md">Twinblades</a></td>
+  <td colspan="11"><a href="Twinblades.md">Twinblades</a></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -2658,7 +2502,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>19.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -2674,7 +2517,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -2691,7 +2533,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -2708,7 +2549,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -2722,7 +2562,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8.4</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>29.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -2736,7 +2575,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>8</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -2751,7 +2589,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>7.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -2765,12 +2602,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12">Bows</td>
+  <td colspan="11">Bows</td>
 </tr>
 <tr>
   <td><b><a href="Ironcry.md">Ironcry</a></b></td>
@@ -2782,7 +2618,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>12.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>22.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -2796,7 +2631,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -2812,7 +2646,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4.5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -2828,12 +2661,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greataxes.md">Greataxes</a></td>
+  <td colspan="11"><a href="Greataxes.md">Greataxes</a></td>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -2845,7 +2677,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -2862,7 +2693,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -2879,7 +2709,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -2895,7 +2724,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -2912,7 +2740,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -2926,7 +2753,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -2940,7 +2766,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>8.5</td>
   <td>0.73x</td>
-  <td>-</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -2955,7 +2780,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -2969,7 +2793,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -2983,7 +2806,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -2997,7 +2819,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>8.5</td>
   <td>0.91x</td>
-  <td>-</td>
   <td>35.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -3011,7 +2832,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>8.5</td>
   <td>0.76x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -3027,7 +2847,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -3043,7 +2862,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -3060,7 +2878,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -3076,7 +2893,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -3090,7 +2906,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10</td>
   <td>8.5</td>
   <td>0.77x</td>
-  <td>-</td>
   <td>36.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -3104,8 +2919,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10%</td>
   <td>7</td>
   <td>10</td>
-  <td>0.81x</td>
-  <td>0.05s</td>
+  <td>0.81x<br>
+  0.05s end.</td>
   <td>35.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -3120,15 +2935,14 @@ All weapons within the game have the chance of being found with or without diffe
   <td>25%</td>
   <td>10</td>
   <td>10</td>
-  <td>0.7x</td>
-  <td>0.05s</td>
+  <td>0.7x<br>
+  0.05s end.</td>
   <td>49.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -3138,7 +2952,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -3151,8 +2964,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>8</td>
   <td>10</td>
-  <td>0.8x</td>
-  <td>0.05s</td>
+  <td>0.8x<br>
+  0.05s end.</td>
   <td>51.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -3166,12 +2979,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>32.5</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greatswords.md">Greatswords</a></td>
+  <td colspan="11"><a href="Greatswords.md">Greatswords</a></td>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -3183,7 +2995,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -3201,7 +3012,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -3218,7 +3028,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>35.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -3236,7 +3045,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -3253,7 +3061,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -3268,7 +3075,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -3285,7 +3091,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -3302,7 +3107,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -3319,7 +3123,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -3336,7 +3139,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -3353,7 +3155,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8.5</td>
   <td>9.5</td>
   <td>0.86x</td>
-  <td>-</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -3372,7 +3173,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -3389,7 +3189,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -3405,7 +3204,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>10</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -3420,7 +3218,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>8</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>43.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -3435,7 +3232,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -3453,7 +3249,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -3470,7 +3265,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -3488,7 +3282,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -3505,7 +3298,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -3519,7 +3311,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -3535,7 +3326,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -3553,7 +3343,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9(FULL)<br>
   7(BRKN)</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
@@ -3570,7 +3359,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10</td>
   <td>8.5</td>
   <td>0.79x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -3585,7 +3373,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -3601,8 +3388,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.66x</td>
-  <td>0.1s</td>
+  <td>0.66x<br>
+  0.1s end.</td>
   <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -3616,7 +3403,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>45</td>
   <td><b>✓</b></td>
 </tr>
@@ -3629,8 +3415,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
-  <td>0.84x</td>
-  <td>0.1s</td>
+  <td>0.84x<br>
+  0.1s end.</td>
   <td>57</td>
   <td><b>✗</b></td>
 </tr>
@@ -3644,7 +3430,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -3658,13 +3443,13 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10%</td>
   <td>12</td>
   <td>13</td>
-  <td>0.75x</td>
-  <td>0.15s</td>
+  <td>0.75x<br>
+  0.15s end.</td>
   <td>45.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greathammers.md">Greathammers</a></td>
+  <td colspan="11"><a href="Greathammers.md">Greathammers</a></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -3680,7 +3465,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -3697,7 +3481,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -3712,7 +3495,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>39.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -3728,8 +3510,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.82x</td>
-  <td>0.05s</td>
+  <td>0.82x<br>
+  0.05s end.</td>
   <td>42.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -3747,7 +3529,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>47.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -3762,7 +3543,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -3776,7 +3556,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -3794,7 +3573,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -3811,7 +3589,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9.5</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -3827,7 +3604,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -3843,7 +3619,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -3858,8 +3633,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10%</td>
   <td>13</td>
   <td>9</td>
-  <td>0.73x</td>
-  <td>0.05s</td>
+  <td>0.73x<br>
+  0.05s end.</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -3875,7 +3650,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -3889,7 +3663,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>42.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -3904,7 +3677,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -3919,7 +3691,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -3935,7 +3706,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -3949,8 +3719,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>-</td>
   <td>9</td>
   <td>10</td>
-  <td>0.62x</td>
-  <td>0.05s</td>
+  <td>0.62x<br>
+  0.05s end.</td>
   <td>49</td>
   <td><b>✗</b></td>
 </tr>
@@ -3965,12 +3735,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greatcannons.md">Greatcannons</a></td>
+  <td colspan="11"><a href="Greatcannons.md">Greatcannons</a></td>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -3983,7 +3752,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>8.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>39.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -3998,7 +3766,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>41.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -4013,7 +3780,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>7.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -4028,12 +3794,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Flamecharm.md">Flamecharm</a></td>
+  <td colspan="11"><a href="Flamecharm.md">Flamecharm</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -4046,7 +3811,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -4061,7 +3825,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -4078,7 +3841,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>35.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -4094,7 +3856,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -4110,7 +3871,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -4125,7 +3885,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -4139,7 +3898,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -4157,12 +3915,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Frostdraw.md">Frostdraw</a></td>
+  <td colspan="11"><a href="Frostdraw.md">Frostdraw</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -4175,7 +3932,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -4192,7 +3948,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -4208,7 +3963,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -4226,7 +3980,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -4244,7 +3997,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -4260,7 +4012,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -4275,7 +4026,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -4289,7 +4039,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -4307,12 +4056,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Thundercall.md">Thundercall</a></td>
+  <td colspan="11"><a href="Thundercall.md">Thundercall</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -4325,7 +4073,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -4341,7 +4088,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -4358,7 +4104,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -4374,8 +4119,8 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.82x</td>
-  <td>0.05s</td>
+  <td>0.82x<br>
+  0.05s end.</td>
   <td>42.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -4389,12 +4134,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Galebreathe.md">Galebreathe</a></td>
+  <td colspan="11"><a href="Galebreathe.md">Galebreathe</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -4407,7 +4151,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -4423,7 +4166,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -4440,7 +4182,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -4459,7 +4200,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -4477,7 +4217,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -4493,7 +4232,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -4507,12 +4245,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Shadowcast.md">Shadowcast</a></td>
+  <td colspan="11"><a href="Shadowcast.md">Shadowcast</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -4525,7 +4262,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -4546,7 +4282,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -4566,7 +4301,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>9.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -4584,7 +4318,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -4603,7 +4336,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -4619,7 +4351,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4.5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -4635,7 +4366,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -4651,7 +4381,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7.5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -4665,12 +4394,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Ironsing.md">Ironsing</a></td>
+  <td colspan="11"><a href="Ironsing.md">Ironsing</a></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -4687,7 +4415,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -4705,14 +4432,12 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -4722,14 +4447,12 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -4739,15 +4462,13 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -4757,7 +4478,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -4772,7 +4492,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>45</td>
   <td><b>✓</b></td>
 </tr>
@@ -4786,12 +4505,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Bloodrend.md">Bloodrend</a></td>
+  <td colspan="11"><a href="Bloodrend.md">Bloodrend</a></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -4805,7 +4523,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4.5</td>
   <td>6.5</td>
   <td>1.22x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -4823,7 +4540,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -4841,7 +4557,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8.5</td>
   <td>9.5</td>
   <td>0.86x</td>
-  <td>-</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -4858,7 +4573,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -4879,15 +4593,13 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -4897,14 +4609,12 @@ All weapons within the game have the chance of being found with or without diffe
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -4914,15 +4624,13 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -4932,7 +4640,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -4954,12 +4661,11 @@ All weapons within the game have the chance of being found with or without diffe
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><a href="Daggers.md">Daggers</a></td>
+  <td colspan="11"><a href="Daggers.md">Daggers</a></td>
 </tr>
 <tr>
   <td><b><a href="Formless_Shard.md">Formless Shard</a></b></td>
@@ -4971,7 +4677,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>2</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>5</td>
   <td><b>✗</b></td>
 </tr>
@@ -4985,7 +4690,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>14.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -5001,7 +4705,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -5015,7 +4718,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>19.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -5031,7 +4733,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>2</td>
   <td>11</td>
   <td>1.3x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -5045,7 +4746,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21</td>
   <td><b>✓</b></td>
 </tr>
@@ -5059,7 +4759,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4.5</td>
   <td>5.8</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -5075,7 +4774,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -5089,7 +4787,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -5104,7 +4801,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -5120,7 +4816,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -5136,7 +4831,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -5153,7 +4847,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -5168,7 +4861,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -5186,7 +4878,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -5203,7 +4894,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -5217,7 +4907,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -5231,7 +4920,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -5245,7 +4933,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -5259,7 +4946,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -5275,7 +4961,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -5291,7 +4976,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
-  <td>-</td>
   <td>26.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -5305,7 +4989,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -5320,7 +5003,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -5335,14 +5017,12 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -5352,7 +5032,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -5366,7 +5045,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -5380,15 +5058,14 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>5.8</td>
   <td>1.24x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Fists.md">Fists</a></td>
+  <td colspan="11"><a href="Fists.md">Fists</a></td>
 </tr>
 <tr>
-  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -5400,7 +5077,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -5414,7 +5090,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -5428,8 +5103,21 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Infected.md">Infected</a></b></td>
+  <td><a href="Hallowtide.md">Hallowtide</a><br>
+  <small>View <a href="Infected.md">Infected</a> for more info.</small></td>
+  <td>10</td>
+  <td>N/A</td>
+  <td>-</td>
+  <td>-</td>
+  <td>9</td>
+  <td>6</td>
+  <td>1.3x</td>
+  <td>10</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -5442,7 +5130,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -5456,7 +5143,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3 (9.2)</td>
   <td><b>✗</b></td>
 </tr>
@@ -5470,12 +5156,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><b>Cestus</b></td>
+  <td colspan="11"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -5487,7 +5172,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>3</td>
   <td>0.6x</td>
-  <td>-</td>
   <td>1</td>
   <td><b>✗</b></td>
 </tr>
@@ -5501,7 +5185,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>21.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -5516,7 +5199,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>22.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -5530,7 +5212,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -5546,7 +5227,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>25.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -5562,7 +5242,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -5578,7 +5257,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -5596,7 +5274,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -5610,7 +5287,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4.5</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>24.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -5624,7 +5300,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -5640,7 +5315,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -5656,7 +5330,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -5670,7 +5343,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -5686,7 +5358,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -5703,7 +5374,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6.5</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -5718,7 +5388,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>6</td>
   <td>6</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -5734,7 +5403,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5.5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26</td>
   <td><b>✓</b></td>
 </tr>
@@ -5749,7 +5417,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>8</td>
   <td>6</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30</td>
   <td><b>✗</b></td>
 </tr>
@@ -5763,12 +5430,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Rapiers.md">Rapiers</a></td>
+  <td colspan="11"><a href="Rapiers.md">Rapiers</a></td>
 </tr>
 <tr>
   <td><b><a href="Quickfang.md">Quickfang</a></b></td>
@@ -5780,7 +5446,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -5794,7 +5459,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -5809,7 +5473,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -5825,7 +5488,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -5841,7 +5503,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>6</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -5855,7 +5516,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -5869,7 +5529,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8.1</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -5883,7 +5542,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>5</td>
   <td>8</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>27</td>
   <td><b>✗</b></td>
 </tr>
@@ -5898,7 +5556,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -5913,7 +5570,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -5927,12 +5583,11 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Pistols.md">Pistols</a></td>
+  <td colspan="11"><a href="Pistols.md">Pistols</a></td>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -5944,7 +5599,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>19.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -5958,7 +5612,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>20.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -5974,7 +5627,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -5990,7 +5642,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -6004,7 +5655,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -6018,7 +5668,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3.5</td>
   <td>11</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -6032,7 +5681,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>4</td>
   <td>11</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -6048,7 +5696,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>2.5</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -6062,7 +5709,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -6076,7 +5722,6 @@ All weapons within the game have the chance of being found with or without diffe
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>23.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -6097,7 +5742,6 @@ Daggers
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -6111,7 +5755,6 @@ Daggers
   <td>2</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>5</td>
   <td><b>✗</b></td>
 </tr>
@@ -6125,7 +5768,6 @@ Daggers
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>14.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -6141,7 +5783,6 @@ Daggers
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -6155,7 +5796,6 @@ Daggers
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>19.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -6171,7 +5811,6 @@ Daggers
   <td>2</td>
   <td>11</td>
   <td>1.3x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -6185,7 +5824,6 @@ Daggers
   <td>5</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21</td>
   <td><b>✓</b></td>
 </tr>
@@ -6199,7 +5837,6 @@ Daggers
   <td>4.5</td>
   <td>5.8</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -6215,7 +5852,6 @@ Daggers
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -6229,7 +5865,6 @@ Daggers
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -6244,7 +5879,6 @@ Daggers
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -6260,7 +5894,6 @@ Daggers
   <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -6276,7 +5909,6 @@ Daggers
   <td>4.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -6293,7 +5925,6 @@ Daggers
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -6308,7 +5939,6 @@ Daggers
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -6326,7 +5956,6 @@ Daggers
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -6343,7 +5972,6 @@ Daggers
   <td>3.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -6357,7 +5985,6 @@ Daggers
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -6371,7 +5998,6 @@ Daggers
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -6385,7 +6011,6 @@ Daggers
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -6399,7 +6024,6 @@ Daggers
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -6415,7 +6039,6 @@ Daggers
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -6431,7 +6054,6 @@ Daggers
   <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
-  <td>-</td>
   <td>26.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -6445,7 +6067,6 @@ Daggers
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -6460,7 +6081,6 @@ Daggers
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -6475,14 +6095,12 @@ Daggers
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -6492,7 +6110,6 @@ Daggers
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -6506,7 +6123,6 @@ Daggers
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -6520,7 +6136,6 @@ Daggers
   <td>5</td>
   <td>5.8</td>
   <td>1.24x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -6541,12 +6156,11 @@ Cestus
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -6558,7 +6172,6 @@ Cestus
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -6572,7 +6185,6 @@ Cestus
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -6586,8 +6198,21 @@ Cestus
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Infected.md">Infected</a></b></td>
+  <td><a href="Hallowtide.md">Hallowtide</a><br>
+  <small>View <a href="Infected.md">Infected</a> for more info.</small></td>
+  <td>10</td>
+  <td>N/A</td>
+  <td>-</td>
+  <td>-</td>
+  <td>9</td>
+  <td>6</td>
+  <td>1.3x</td>
+  <td>10</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -6600,7 +6225,6 @@ Cestus
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -6614,7 +6238,6 @@ Cestus
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3 (9.2)</td>
   <td><b>✗</b></td>
 </tr>
@@ -6628,12 +6251,11 @@ Cestus
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><b>Cestus</b></td>
+  <td colspan="11"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -6645,7 +6267,6 @@ Cestus
   <td>1</td>
   <td>3</td>
   <td>0.6x</td>
-  <td>-</td>
   <td>1</td>
   <td><b>✗</b></td>
 </tr>
@@ -6659,7 +6280,6 @@ Cestus
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>21.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -6674,7 +6294,6 @@ Cestus
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>22.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -6688,7 +6307,6 @@ Cestus
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -6704,7 +6322,6 @@ Cestus
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>25.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -6720,7 +6337,6 @@ Cestus
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -6736,7 +6352,6 @@ Cestus
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -6754,7 +6369,6 @@ Cestus
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -6768,7 +6382,6 @@ Cestus
   <td>4.5</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>24.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -6782,7 +6395,6 @@ Cestus
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -6798,7 +6410,6 @@ Cestus
   <td>4</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -6814,7 +6425,6 @@ Cestus
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -6828,7 +6438,6 @@ Cestus
   <td>4</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -6844,7 +6453,6 @@ Cestus
   <td>6</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -6861,7 +6469,6 @@ Cestus
   <td>4</td>
   <td>6.5</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -6876,7 +6483,6 @@ Cestus
   <td>6</td>
   <td>6</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -6892,7 +6498,6 @@ Cestus
   <td>5.5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26</td>
   <td><b>✓</b></td>
 </tr>
@@ -6907,7 +6512,6 @@ Cestus
   <td>8</td>
   <td>6</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30</td>
   <td><b>✗</b></td>
 </tr>
@@ -6921,7 +6525,6 @@ Cestus
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -6942,7 +6545,6 @@ Rapiers
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -6956,7 +6558,6 @@ Rapiers
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -6970,7 +6571,6 @@ Rapiers
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -6985,7 +6585,6 @@ Rapiers
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -7001,7 +6600,6 @@ Rapiers
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -7017,7 +6615,6 @@ Rapiers
   <td>4</td>
   <td>6</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -7031,7 +6628,6 @@ Rapiers
   <td>5</td>
   <td>8</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -7045,7 +6641,6 @@ Rapiers
   <td>5</td>
   <td>8.1</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -7059,7 +6654,6 @@ Rapiers
   <td>5</td>
   <td>8</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>27</td>
   <td><b>✗</b></td>
 </tr>
@@ -7074,7 +6668,6 @@ Rapiers
   <td>4</td>
   <td>8.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -7089,7 +6682,6 @@ Rapiers
   <td>4</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -7103,7 +6695,6 @@ Rapiers
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -7124,7 +6715,6 @@ Pistols
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -7138,7 +6728,6 @@ Pistols
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>19.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -7152,7 +6741,6 @@ Pistols
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>20.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -7168,7 +6756,6 @@ Pistols
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -7184,7 +6771,6 @@ Pistols
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -7198,7 +6784,6 @@ Pistols
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -7212,7 +6797,6 @@ Pistols
   <td>3.5</td>
   <td>11</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -7226,7 +6810,6 @@ Pistols
   <td>4</td>
   <td>11</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -7242,7 +6825,6 @@ Pistols
   <td>2.5</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -7256,7 +6838,6 @@ Pistols
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -7270,7 +6851,6 @@ Pistols
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>23.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -7291,12 +6871,11 @@ Pistols
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><a href="Swords.md">Swords</a></td>
+  <td colspan="11"><a href="Swords.md">Swords</a></td>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -7308,7 +6887,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -7322,7 +6900,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>7.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -7338,7 +6915,6 @@ Pistols
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -7355,7 +6931,6 @@ Pistols
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -7369,7 +6944,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>18.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -7385,7 +6959,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -7399,7 +6972,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -7415,7 +6987,6 @@ Pistols
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -7431,7 +7002,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -7445,7 +7015,6 @@ Pistols
   <td>4</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>28.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -7462,7 +7031,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -7479,7 +7047,6 @@ Pistols
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -7498,7 +7065,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -7517,7 +7083,6 @@ Pistols
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -7535,7 +7100,6 @@ Pistols
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -7550,7 +7114,6 @@ Pistols
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>25.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -7566,7 +7129,6 @@ Pistols
   <td>3</td>
   <td>7.5</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>29.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -7580,7 +7142,6 @@ Pistols
   <td>5.5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.9</td>
   <td><b>✓</b></td>
 </tr>
@@ -7595,7 +7156,6 @@ Pistols
   <td>8</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -7613,7 +7173,6 @@ Pistols
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -7627,7 +7186,6 @@ Pistols
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -7642,7 +7200,6 @@ Pistols
   <td>5</td>
   <td>6</td>
   <td>1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -7659,7 +7216,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -7674,7 +7230,6 @@ Pistols
   <td>6</td>
   <td>8.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -7688,7 +7243,6 @@ Pistols
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -7704,7 +7258,6 @@ Pistols
   <td>7</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -7720,7 +7273,6 @@ Pistols
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -7736,7 +7288,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -7753,7 +7304,6 @@ Pistols
   <td>5</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -7769,7 +7319,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -7785,7 +7334,6 @@ Pistols
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -7801,7 +7349,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -7815,7 +7362,6 @@ Pistols
   <td>6</td>
   <td>7.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -7832,7 +7378,6 @@ Pistols
   <td>6</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -7846,7 +7391,6 @@ Pistols
   <td>4</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✓</b></td>
 </tr>
@@ -7861,7 +7405,6 @@ Pistols
   <td>5.5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -7878,7 +7421,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -7893,7 +7435,6 @@ Pistols
   <td>5</td>
   <td>6.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -7907,8 +7448,7 @@ Pistols
   <td>-</td>
   <td>5</td>
   <td>8</td>
-  <td>1.00x</td>
-  <td>-</td>
+  <td>1x</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -7923,7 +7463,6 @@ Pistols
   <td>5</td>
   <td>7.5</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -7938,7 +7477,6 @@ Pistols
   <td>3</td>
   <td>8</td>
   <td>1.03x</td>
-  <td>-</td>
   <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -7953,7 +7491,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -7968,7 +7505,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -7983,7 +7519,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -7998,7 +7533,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -8013,7 +7547,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -8028,7 +7561,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -8042,7 +7574,6 @@ Pistols
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -8056,7 +7587,6 @@ Pistols
   <td>5.5</td>
   <td>8.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -8070,12 +7600,11 @@ Pistols
   <td>6</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Clubs.md">Clubs</a></td>
+  <td colspan="11"><a href="Clubs.md">Clubs</a></td>
 </tr>
 <tr>
   <td><b><a href="Mace.md">Mace</a></b></td>
@@ -8087,7 +7616,6 @@ Pistols
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -8101,7 +7629,6 @@ Pistols
   <td>6</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -8118,7 +7645,6 @@ Pistols
   <td>7.5</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -8137,7 +7663,6 @@ Pistols
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -8153,7 +7678,6 @@ Pistols
   <td>5</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -8168,7 +7692,6 @@ Pistols
   <td>6</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -8179,7 +7702,6 @@ Pistols
   <td>18</td>
   <td>MED: 5<br>
   MND: 3</td>
-  <td>-</td>
   <td>-</td>
   <td>7</td>
   <td>7.5</td>
@@ -8198,7 +7720,6 @@ Pistols
   <td>7</td>
   <td>8</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -8213,13 +7734,12 @@ Pistols
   <td>4</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Spears.md">Spears</a></td>
+  <td colspan="11"><a href="Spears.md">Spears</a></td>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -8231,7 +7751,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -8245,7 +7764,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -8260,7 +7778,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -8276,7 +7793,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -8292,7 +7808,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -8306,7 +7821,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -8328,7 +7842,6 @@ Pistols
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -8341,14 +7854,13 @@ Pistols
   LVL 10</td>
   <td>16.5</td>
   <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
+  MND: 3<br>
+  SDW: 4.5</td>
   <td>15%</td>
   <td>-</td>
   <td>6</td>
   <td>9.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -8365,7 +7877,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -8381,7 +7892,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -8398,7 +7908,6 @@ Pistols
   <td>7</td>
   <td>8.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -8412,7 +7921,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -8427,7 +7935,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -8444,7 +7951,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -8459,7 +7965,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -8473,7 +7978,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>28.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -8489,7 +7993,6 @@ Pistols
   <td>7.5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -8507,7 +8010,6 @@ Pistols
   <td>7</td>
   <td>11</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -8523,7 +8025,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -8538,7 +8039,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -8546,8 +8046,7 @@ Pistols
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -8557,7 +8056,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -8572,12 +8070,11 @@ Pistols
   <td>5</td>
   <td>10</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Staves.md">Staves</a></td>
+  <td colspan="11"><a href="Staves.md">Staves</a></td>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -8589,9 +8086,8 @@ Pistols
   <td>6</td>
   <td>6</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>22</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -8604,7 +8100,6 @@ Pistols
   <td>6</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -8620,7 +8115,6 @@ Pistols
   <td>6.5</td>
   <td>8</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -8635,12 +8129,11 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12">Rifles</td>
+  <td colspan="11">Rifles</td>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -8652,7 +8145,6 @@ Pistols
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -8666,7 +8158,6 @@ Pistols
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>22</td>
   <td><b>✓</b></td>
 </tr>
@@ -8682,7 +8173,6 @@ Pistols
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -8698,7 +8188,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -8713,7 +8202,6 @@ Pistols
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -8727,7 +8215,6 @@ Pistols
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -8741,7 +8228,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -8759,12 +8245,11 @@ Pistols
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Twinblades.md">Twinblades</a></td>
+  <td colspan="11"><a href="Twinblades.md">Twinblades</a></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -8776,7 +8261,6 @@ Pistols
   <td>4</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>19.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -8792,7 +8276,6 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -8809,7 +8292,6 @@ Pistols
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -8826,7 +8308,6 @@ Pistols
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -8840,7 +8321,6 @@ Pistols
   <td>6</td>
   <td>8.4</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>29.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -8854,7 +8334,6 @@ Pistols
   <td>7.5</td>
   <td>8</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -8869,7 +8348,6 @@ Pistols
   <td>6</td>
   <td>7.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -8883,12 +8361,11 @@ Pistols
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12">Bows</td>
+  <td colspan="11">Bows</td>
 </tr>
 <tr>
   <td><b><a href="Ironcry.md">Ironcry</a></b></td>
@@ -8900,7 +8377,6 @@ Pistols
   <td>4</td>
   <td>12.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>22.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -8914,7 +8390,6 @@ Pistols
   <td>4</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -8930,7 +8405,6 @@ Pistols
   <td>4.5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -8946,7 +8420,6 @@ Pistols
   <td>5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -8967,7 +8440,6 @@ Swords
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -8981,7 +8453,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -8995,7 +8466,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>7.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -9011,7 +8481,6 @@ Swords
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -9028,7 +8497,6 @@ Swords
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -9042,7 +8510,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>18.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -9058,7 +8525,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -9072,7 +8538,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -9088,7 +8553,6 @@ Swords
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -9104,7 +8568,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -9118,7 +8581,6 @@ Swords
   <td>4</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>28.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -9135,7 +8597,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -9152,7 +8613,6 @@ Swords
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -9171,7 +8631,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -9190,7 +8649,6 @@ Swords
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -9208,7 +8666,6 @@ Swords
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -9223,7 +8680,6 @@ Swords
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>25.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -9239,7 +8695,6 @@ Swords
   <td>3</td>
   <td>7.5</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>29.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -9253,7 +8708,6 @@ Swords
   <td>5.5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.9</td>
   <td><b>✓</b></td>
 </tr>
@@ -9268,7 +8722,6 @@ Swords
   <td>8</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -9286,7 +8739,6 @@ Swords
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -9300,7 +8752,6 @@ Swords
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -9315,7 +8766,6 @@ Swords
   <td>5</td>
   <td>6</td>
   <td>1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -9332,7 +8782,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -9347,7 +8796,6 @@ Swords
   <td>6</td>
   <td>8.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -9361,7 +8809,6 @@ Swords
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -9377,7 +8824,6 @@ Swords
   <td>7</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -9393,7 +8839,6 @@ Swords
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -9409,7 +8854,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -9426,7 +8870,6 @@ Swords
   <td>5</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -9442,7 +8885,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -9458,7 +8900,6 @@ Swords
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -9474,7 +8915,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -9488,7 +8928,6 @@ Swords
   <td>6</td>
   <td>7.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -9505,7 +8944,6 @@ Swords
   <td>6</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -9519,7 +8957,6 @@ Swords
   <td>4</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✓</b></td>
 </tr>
@@ -9534,7 +8971,6 @@ Swords
   <td>5.5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -9551,7 +8987,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -9566,7 +9001,6 @@ Swords
   <td>5</td>
   <td>6.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -9580,8 +9014,7 @@ Swords
   <td>-</td>
   <td>5</td>
   <td>8</td>
-  <td>1.00x</td>
-  <td>-</td>
+  <td>1x</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -9596,7 +9029,6 @@ Swords
   <td>5</td>
   <td>7.5</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -9611,7 +9043,6 @@ Swords
   <td>3</td>
   <td>8</td>
   <td>1.03x</td>
-  <td>-</td>
   <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -9626,7 +9057,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -9641,7 +9071,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -9656,7 +9085,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -9671,7 +9099,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -9686,7 +9113,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -9701,7 +9127,6 @@ Swords
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -9715,7 +9140,6 @@ Swords
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -9729,7 +9153,6 @@ Swords
   <td>5.5</td>
   <td>8.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -9743,7 +9166,6 @@ Swords
   <td>6</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -9764,7 +9186,6 @@ Clubs
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -9778,7 +9199,6 @@ Clubs
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -9792,7 +9212,6 @@ Clubs
   <td>6</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -9809,7 +9228,6 @@ Clubs
   <td>7.5</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -9828,7 +9246,6 @@ Clubs
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -9844,7 +9261,6 @@ Clubs
   <td>5</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -9859,7 +9275,6 @@ Clubs
   <td>6</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -9870,7 +9285,6 @@ Clubs
   <td>18</td>
   <td>MED: 5<br>
   MND: 3</td>
-  <td>-</td>
   <td>-</td>
   <td>7</td>
   <td>7.5</td>
@@ -9889,7 +9303,6 @@ Clubs
   <td>7</td>
   <td>8</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -9904,7 +9317,6 @@ Clubs
   <td>4</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -9926,7 +9338,6 @@ Spears
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -9940,7 +9351,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -9954,7 +9364,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -9969,7 +9378,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -9985,7 +9393,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -10001,7 +9408,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -10015,7 +9421,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -10037,7 +9442,6 @@ Spears
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -10050,14 +9454,13 @@ Spears
   LVL 10</td>
   <td>16.5</td>
   <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
+  MND: 3<br>
+  SDW: 4.5</td>
   <td>15%</td>
   <td>-</td>
   <td>6</td>
   <td>9.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -10074,7 +9477,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -10090,7 +9492,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -10107,7 +9508,6 @@ Spears
   <td>7</td>
   <td>8.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -10121,7 +9521,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -10136,7 +9535,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -10153,7 +9551,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -10168,7 +9565,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -10182,7 +9578,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>28.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -10198,7 +9593,6 @@ Spears
   <td>7.5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -10216,7 +9610,6 @@ Spears
   <td>7</td>
   <td>11</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -10232,7 +9625,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -10247,7 +9639,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -10255,8 +9646,7 @@ Spears
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -10266,7 +9656,6 @@ Spears
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -10281,7 +9670,6 @@ Spears
   <td>5</td>
   <td>10</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -10302,7 +9690,6 @@ Staves
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -10316,9 +9703,8 @@ Staves
   <td>6</td>
   <td>6</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>22</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -10331,7 +9717,6 @@ Staves
   <td>6</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -10347,7 +9732,6 @@ Staves
   <td>6.5</td>
   <td>8</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -10362,7 +9746,6 @@ Staves
   <td>5</td>
   <td>8</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -10383,7 +9766,6 @@ Rifles
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -10397,7 +9779,6 @@ Rifles
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -10411,7 +9792,6 @@ Rifles
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>22</td>
   <td><b>✓</b></td>
 </tr>
@@ -10427,7 +9807,6 @@ Rifles
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -10443,7 +9822,6 @@ Rifles
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -10458,7 +9836,6 @@ Rifles
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -10472,7 +9849,6 @@ Rifles
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -10486,7 +9862,6 @@ Rifles
   <td>5</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -10504,7 +9879,6 @@ Rifles
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -10525,7 +9899,6 @@ Twinblades
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -10539,7 +9912,6 @@ Twinblades
   <td>4</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>19.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -10555,7 +9927,6 @@ Twinblades
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -10572,7 +9943,6 @@ Twinblades
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -10589,7 +9959,6 @@ Twinblades
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -10603,7 +9972,6 @@ Twinblades
   <td>6</td>
   <td>8.4</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>29.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -10617,7 +9985,6 @@ Twinblades
   <td>7.5</td>
   <td>8</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -10632,7 +9999,6 @@ Twinblades
   <td>6</td>
   <td>7.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -10646,7 +10012,6 @@ Twinblades
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -10667,7 +10032,6 @@ Bows
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -10681,7 +10045,6 @@ Bows
   <td>4</td>
   <td>12.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>22.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -10695,7 +10058,6 @@ Bows
   <td>4</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -10711,7 +10073,6 @@ Bows
   <td>4.5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -10727,7 +10088,6 @@ Bows
   <td>5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -10748,12 +10108,11 @@ Bows
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greataxes.md">Greataxes</a></td>
+  <td colspan="11"><a href="Greataxes.md">Greataxes</a></td>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -10765,7 +10124,6 @@ Bows
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -10782,7 +10140,6 @@ Bows
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -10799,7 +10156,6 @@ Bows
   <td>5</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -10815,7 +10171,6 @@ Bows
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -10832,7 +10187,6 @@ Bows
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -10846,7 +10200,6 @@ Bows
   <td>4</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -10860,7 +10213,6 @@ Bows
   <td>8</td>
   <td>8.5</td>
   <td>0.73x</td>
-  <td>-</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -10875,7 +10227,6 @@ Bows
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -10889,7 +10240,6 @@ Bows
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -10903,7 +10253,6 @@ Bows
   <td>7</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -10917,7 +10266,6 @@ Bows
   <td>7.5</td>
   <td>8.5</td>
   <td>0.91x</td>
-  <td>-</td>
   <td>35.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -10931,7 +10279,6 @@ Bows
   <td>8</td>
   <td>8.5</td>
   <td>0.76x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -10947,7 +10294,6 @@ Bows
   <td>7</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -10963,7 +10309,6 @@ Bows
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -10980,7 +10325,6 @@ Bows
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -10996,7 +10340,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -11010,7 +10353,6 @@ Bows
   <td>10</td>
   <td>8.5</td>
   <td>0.77x</td>
-  <td>-</td>
   <td>36.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -11024,8 +10366,8 @@ Bows
   <td>10%</td>
   <td>7</td>
   <td>10</td>
-  <td>0.81x</td>
-  <td>0.05s</td>
+  <td>0.81x<br>
+  0.05s end.</td>
   <td>35.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -11040,15 +10382,14 @@ Bows
   <td>25%</td>
   <td>10</td>
   <td>10</td>
-  <td>0.7x</td>
-  <td>0.05s</td>
+  <td>0.7x<br>
+  0.05s end.</td>
   <td>49.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -11058,7 +10399,6 @@ Bows
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -11071,8 +10411,8 @@ Bows
   <td>-</td>
   <td>8</td>
   <td>10</td>
-  <td>0.8x</td>
-  <td>0.05s</td>
+  <td>0.8x<br>
+  0.05s end.</td>
   <td>51.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -11086,12 +10426,11 @@ Bows
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>32.5</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greatswords.md">Greatswords</a></td>
+  <td colspan="11"><a href="Greatswords.md">Greatswords</a></td>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -11103,7 +10442,6 @@ Bows
   <td>8</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -11121,7 +10459,6 @@ Bows
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -11138,7 +10475,6 @@ Bows
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>35.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -11156,7 +10492,6 @@ Bows
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -11173,7 +10508,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -11188,7 +10522,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -11205,7 +10538,6 @@ Bows
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -11222,7 +10554,6 @@ Bows
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -11239,7 +10570,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -11256,7 +10586,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -11273,7 +10602,6 @@ Bows
   <td>8.5</td>
   <td>9.5</td>
   <td>0.86x</td>
-  <td>-</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -11292,7 +10620,6 @@ Bows
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -11309,7 +10636,6 @@ Bows
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -11325,7 +10651,6 @@ Bows
   <td>8</td>
   <td>10</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -11340,7 +10665,6 @@ Bows
   <td>8</td>
   <td>8</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>43.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -11355,7 +10679,6 @@ Bows
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -11373,7 +10696,6 @@ Bows
   <td>7</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -11390,7 +10712,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -11408,7 +10729,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -11425,7 +10745,6 @@ Bows
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -11439,7 +10758,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -11455,7 +10773,6 @@ Bows
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -11473,7 +10790,6 @@ Bows
   <td>9(FULL)<br>
   7(BRKN)</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
@@ -11490,7 +10806,6 @@ Bows
   <td>10</td>
   <td>8.5</td>
   <td>0.79x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -11505,7 +10820,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -11521,8 +10835,8 @@ Bows
   <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.66x</td>
-  <td>0.1s</td>
+  <td>0.66x<br>
+  0.1s end.</td>
   <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -11536,7 +10850,6 @@ Bows
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>45</td>
   <td><b>✓</b></td>
 </tr>
@@ -11549,8 +10862,8 @@ Bows
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
-  <td>0.84x</td>
-  <td>0.1s</td>
+  <td>0.84x<br>
+  0.1s end.</td>
   <td>57</td>
   <td><b>✗</b></td>
 </tr>
@@ -11564,7 +10877,6 @@ Bows
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -11578,13 +10890,13 @@ Bows
   <td>10%</td>
   <td>12</td>
   <td>13</td>
-  <td>0.75x</td>
-  <td>0.15s</td>
+  <td>0.75x<br>
+  0.15s end.</td>
   <td>45.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greathammers.md">Greathammers</a></td>
+  <td colspan="11"><a href="Greathammers.md">Greathammers</a></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -11600,7 +10912,6 @@ Bows
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -11617,7 +10928,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -11632,7 +10942,6 @@ Bows
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>39.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -11648,8 +10957,8 @@ Bows
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.82x</td>
-  <td>0.05s</td>
+  <td>0.82x<br>
+  0.05s end.</td>
   <td>42.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -11667,7 +10976,6 @@ Bows
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>47.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -11682,7 +10990,6 @@ Bows
   <td>10</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -11696,7 +11003,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -11714,7 +11020,6 @@ Bows
   <td>7</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -11731,7 +11036,6 @@ Bows
   <td>9.5</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -11747,7 +11051,6 @@ Bows
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -11763,7 +11066,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -11778,8 +11080,8 @@ Bows
   <td>10%</td>
   <td>13</td>
   <td>9</td>
-  <td>0.73x</td>
-  <td>0.05s</td>
+  <td>0.73x<br>
+  0.05s end.</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -11795,7 +11097,6 @@ Bows
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -11809,7 +11110,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>42.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -11824,7 +11124,6 @@ Bows
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -11839,7 +11138,6 @@ Bows
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -11855,7 +11153,6 @@ Bows
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -11869,8 +11166,8 @@ Bows
   <td>-</td>
   <td>9</td>
   <td>10</td>
-  <td>0.62x</td>
-  <td>0.05s</td>
+  <td>0.62x<br>
+  0.05s end.</td>
   <td>49</td>
   <td><b>✗</b></td>
 </tr>
@@ -11885,12 +11182,11 @@ Bows
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greatcannons.md">Greatcannons</a></td>
+  <td colspan="11"><a href="Greatcannons.md">Greatcannons</a></td>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -11903,7 +11199,6 @@ Bows
   <td>9</td>
   <td>8.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>39.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -11918,7 +11213,6 @@ Bows
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>41.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -11933,7 +11227,6 @@ Bows
   <td>9</td>
   <td>7.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -11948,7 +11241,6 @@ Bows
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -11969,7 +11261,6 @@ Greataxes
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -11983,7 +11274,6 @@ Greataxes
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -12000,7 +11290,6 @@ Greataxes
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -12017,7 +11306,6 @@ Greataxes
   <td>5</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -12033,7 +11321,6 @@ Greataxes
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -12050,7 +11337,6 @@ Greataxes
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -12064,7 +11350,6 @@ Greataxes
   <td>4</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -12078,7 +11363,6 @@ Greataxes
   <td>8</td>
   <td>8.5</td>
   <td>0.73x</td>
-  <td>-</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -12093,7 +11377,6 @@ Greataxes
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -12107,7 +11390,6 @@ Greataxes
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -12121,7 +11403,6 @@ Greataxes
   <td>7</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -12135,7 +11416,6 @@ Greataxes
   <td>7.5</td>
   <td>8.5</td>
   <td>0.91x</td>
-  <td>-</td>
   <td>35.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -12149,7 +11429,6 @@ Greataxes
   <td>8</td>
   <td>8.5</td>
   <td>0.76x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -12165,7 +11444,6 @@ Greataxes
   <td>7</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -12181,7 +11459,6 @@ Greataxes
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -12198,7 +11475,6 @@ Greataxes
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -12214,7 +11490,6 @@ Greataxes
   <td>9</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -12228,7 +11503,6 @@ Greataxes
   <td>10</td>
   <td>8.5</td>
   <td>0.77x</td>
-  <td>-</td>
   <td>36.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -12242,8 +11516,8 @@ Greataxes
   <td>10%</td>
   <td>7</td>
   <td>10</td>
-  <td>0.81x</td>
-  <td>0.05s</td>
+  <td>0.81x<br>
+  0.05s end.</td>
   <td>35.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -12258,15 +11532,14 @@ Greataxes
   <td>25%</td>
   <td>10</td>
   <td>10</td>
-  <td>0.7x</td>
-  <td>0.05s</td>
+  <td>0.7x<br>
+  0.05s end.</td>
   <td>49.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -12276,7 +11549,6 @@ Greataxes
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -12289,8 +11561,8 @@ Greataxes
   <td>-</td>
   <td>8</td>
   <td>10</td>
-  <td>0.8x</td>
-  <td>0.05s</td>
+  <td>0.8x<br>
+  0.05s end.</td>
   <td>51.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -12304,7 +11576,6 @@ Greataxes
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>32.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -12325,7 +11596,6 @@ Greatswords
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -12339,7 +11609,6 @@ Greatswords
   <td>8</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -12357,7 +11626,6 @@ Greatswords
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -12374,7 +11642,6 @@ Greatswords
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>35.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -12392,7 +11659,6 @@ Greatswords
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -12409,7 +11675,6 @@ Greatswords
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -12424,7 +11689,6 @@ Greatswords
   <td>9</td>
   <td>9</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -12441,7 +11705,6 @@ Greatswords
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -12458,7 +11721,6 @@ Greatswords
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -12475,7 +11737,6 @@ Greatswords
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -12492,7 +11753,6 @@ Greatswords
   <td>9</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -12509,7 +11769,6 @@ Greatswords
   <td>8.5</td>
   <td>9.5</td>
   <td>0.86x</td>
-  <td>-</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -12528,7 +11787,6 @@ Greatswords
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -12545,7 +11803,6 @@ Greatswords
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -12561,7 +11818,6 @@ Greatswords
   <td>8</td>
   <td>10</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -12576,7 +11832,6 @@ Greatswords
   <td>8</td>
   <td>8</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>43.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -12591,7 +11846,6 @@ Greatswords
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -12609,7 +11863,6 @@ Greatswords
   <td>7</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -12626,7 +11879,6 @@ Greatswords
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -12644,7 +11896,6 @@ Greatswords
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -12661,7 +11912,6 @@ Greatswords
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -12675,7 +11925,6 @@ Greatswords
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -12691,7 +11940,6 @@ Greatswords
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -12709,7 +11957,6 @@ Greatswords
   <td>9(FULL)<br>
   7(BRKN)</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
@@ -12726,7 +11973,6 @@ Greatswords
   <td>10</td>
   <td>8.5</td>
   <td>0.79x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -12741,7 +11987,6 @@ Greatswords
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -12757,8 +12002,8 @@ Greatswords
   <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.66x</td>
-  <td>0.1s</td>
+  <td>0.66x<br>
+  0.1s end.</td>
   <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -12772,7 +12017,6 @@ Greatswords
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>45</td>
   <td><b>✓</b></td>
 </tr>
@@ -12785,8 +12029,8 @@ Greatswords
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
-  <td>0.84x</td>
-  <td>0.1s</td>
+  <td>0.84x<br>
+  0.1s end.</td>
   <td>57</td>
   <td><b>✗</b></td>
 </tr>
@@ -12800,7 +12044,6 @@ Greatswords
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -12814,8 +12057,8 @@ Greatswords
   <td>10%</td>
   <td>12</td>
   <td>13</td>
-  <td>0.75x</td>
-  <td>0.15s</td>
+  <td>0.75x<br>
+  0.15s end.</td>
   <td>45.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -12836,7 +12079,6 @@ Greathammers
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -12854,7 +12096,6 @@ Greathammers
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -12871,7 +12112,6 @@ Greathammers
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -12886,7 +12126,6 @@ Greathammers
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>39.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -12902,8 +12141,8 @@ Greathammers
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.82x</td>
-  <td>0.05s</td>
+  <td>0.82x<br>
+  0.05s end.</td>
   <td>42.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -12921,7 +12160,6 @@ Greathammers
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>47.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -12936,7 +12174,6 @@ Greathammers
   <td>10</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -12950,7 +12187,6 @@ Greathammers
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -12968,7 +12204,6 @@ Greathammers
   <td>7</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -12985,7 +12220,6 @@ Greathammers
   <td>9.5</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -13001,7 +12235,6 @@ Greathammers
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -13017,7 +12250,6 @@ Greathammers
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -13032,8 +12264,8 @@ Greathammers
   <td>10%</td>
   <td>13</td>
   <td>9</td>
-  <td>0.73x</td>
-  <td>0.05s</td>
+  <td>0.73x<br>
+  0.05s end.</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -13049,7 +12281,6 @@ Greathammers
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -13063,7 +12294,6 @@ Greathammers
   <td>9</td>
   <td>9</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>42.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -13078,7 +12308,6 @@ Greathammers
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -13093,7 +12322,6 @@ Greathammers
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -13109,7 +12337,6 @@ Greathammers
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -13123,8 +12350,8 @@ Greathammers
   <td>-</td>
   <td>9</td>
   <td>10</td>
-  <td>0.62x</td>
-  <td>0.05s</td>
+  <td>0.62x<br>
+  0.05s end.</td>
   <td>49</td>
   <td><b>✗</b></td>
 </tr>
@@ -13139,7 +12366,6 @@ Greathammers
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -13160,7 +12386,6 @@ Greatcannons
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -13175,7 +12400,6 @@ Greatcannons
   <td>9</td>
   <td>8.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>39.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -13190,7 +12414,6 @@ Greatcannons
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>41.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -13205,7 +12428,6 @@ Greatcannons
   <td>9</td>
   <td>7.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -13220,7 +12442,6 @@ Greatcannons
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -13231,18 +12452,18 @@ Greatcannons
 
 Hybrid
 
-| Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage | Provides Talent(s)? |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Scaled Damage | Provides Talent(s)? |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Hybrid Weapons
 
 | **[Wyrmtooth](Wyrmtooth.md)** | Sword & Greatsword | 60 MED  
 40 HVY  
 LVL 10 | 20 | MED: 6.5  
-HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 | **✓** |
+HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | 36.5 | **✓** |
 | **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** | Light & Heavy | 25 HVY  
 75 FIR  
 10 LHT | 21 | HVY/LHT: 5  
-FIR: 4 | 15% | \- | 5 | 8 | 0.89x | \- | 35.2 | **✓** |
+FIR: 4 | 15% | \- | 5 | 8 | 0.89x | 35.2 | **✓** |
 | **[Red Death](Red_Death.md)  
 ([Bleed](Status_Effects.md#bleed))** | Shadowcast & Bloodrend | 30 MED  
 25 MND  
@@ -13251,52 +12472,49 @@ FIR: 4 | 15% | \- | 5 | 8 | 0.89x | \- | 35.2 | **✓** |
 LVL 8 | 16 | MED: 2.5  
 MND: 2  
 SDW: 3  
-BLD: 3 | 25% | \- | 6 | 9.5 | 0.92x | \- | 26.9  
+BLD: 3 | 25% | \- | 6 | 9.5 | 0.92x | 26.9  
 ([+4 BLD](Status_Effects.md#bleed)) | **✓** |
 | **[Eyes of Ethiron](Eyes_of_Ethiron.md)** | Shadowcast & Galebreathe | 40 MED  
 40 SDW  
 40 WND  
 LVL 10 | 16.5 | MED: 4  
 SDW: 4.5  
-WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | \- | 32.6 | **✓** |
+WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | 32.6 | **✓** |
 | **[Ignition Deepcrusher](Ignition_Deepcrusher.md) ([1H Bleed](Status_Effects.md#bleed))** | Sword & Club | 75 MTL  
 40 MED | 20 (2H)  
 18 (1H) | MTL: 4  
 MED: 3 | 20% | \- | 8 (2H)  
 4 (1H) | 8 | 1x (2H)  
-1.05x (1H) | \- | 30.5 (2H)  
+1.05x (1H) | 30.5 (2H)  
 27.5 (1H)  
 ([+4.1 BLD](Status_Effects.md#bleed)) (1H) | **✓** |
 | **[Rimebreakers](Rimebreakers.md)** | Frostdraw & Galebreathe | 50 ICE  
 50 LHT  
 50 WND | 16.5 | WND: 3.5  
 LHT: 5  
-ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 | **✓** |
+ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | 31.4 | **✓** |
 | **[Corvidirge Severants](Corvidirge_Severants.md)  
 ([Bleed](Status_Effects.md#bleed))** | Dagger & Twinblade | LHT: 55  
 MED: 55 | 13.5 | LHT: 5  
-MED: 5 | 15% | \- | 5 | 7 | 1.1x | \- | 23.5  
+MED: 5 | 15% | \- | 5 | 7 | 1.1x | 23.5  
 ([+3.5 BLD](Status_Effects.md#bleed)) | **✗** |
-| **[Alloyblood Axe](Alloyblood_Axe.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
-[Rising Plasma](Hybrid_Abilities.md#rising-plasma) (Mantra) | 24 | HVY: 3  
+| **[Alloyblood Axe](Alloyblood_Axe.md)** | Bloodrend & Ironsing | [Rising Plasma](Hybrid_Abilities.md#rising-plasma) (Mantra) | 24 | HVY: 3  
 BLD: 5  
-MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | \- | 47.4 | **✓** |
-| **[Alloyblood Daggers](Alloyblood_Daggers.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
-[Infused Slash](Hybrid_Abilities.md#infused-slash) Mantra | 14.5 | LHT: 3  
+MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | 47.4 | **✓** |
+| **[Alloyblood Daggers](Alloyblood_Daggers.md)** | Bloodrend & Ironsing | [Infused Slash](Hybrid_Abilities.md#infused-slash) (Mantra) | 14.5 | LHT: 3  
 BLD: 5  
-MTL: 5 | 15% | \- | 4 | 6 | 1.2x | \- | 28.6 | **✓** |
+MTL: 5 | 15% | \- | 4 | 6 | 1.2x | 28.6 | **✓** |
 | **[Alloyblood Spear](Alloyblood_Spear.md)  
-([Bleed](Status_Effects.md#bleed))** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
-[Spinning Serum](Hybrid_Abilities.md#spinning-serum) (Mantra) | 18 | MED: 3  
+([Bleed](Status_Effects.md#bleed))** | Bloodrend & Ironsing | [Spinning Serum](Hybrid_Abilities.md#spinning-serum) (Mantra) | 18 | MED: 3  
 BLD: 5  
-MTL: 5 | 25% | 10% | 5 | 9 | 0.95x | \- | 35.6  
+MTL: 5 | 25% | 10% | 5 | 9 | 0.95x | 35.6  
 ([+5.3](Status_Effects.md#bleed)) | **✓** |
-| **[Saintsblade](Oath%253A_Saintsworn.md#saintsblade)** | Flamecharm, Frostdraw, Galebreathe, Shadowcast & Thundercall | [Oath: Saintsworn](Oath%253A_Saintsworn.md) | 28 | \- | 10% | \- | 7 | 8.5 | 1.04x | \- | 28 | **✗** |
+| **[Saintsblade](Oath%253A_Saintsworn.md#saintsblade)** | Flamecharm, Frostdraw, Galebreathe, Shadowcast & Thundercall | [Oath: Saintsworn](Oath%253A_Saintsworn.md) | 28 | \- | 10% | \- | 7 | 8.5 | 1.04x | 28 | **✗** |
 | **[Vapormaw Carbine](Vapormaw_Carbine.md)** | Flamecharm & Frostdraw | 50 MED  
 30 FIR  
 30 ICE | 17 | MED: 4  
 FIR: 3  
-ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 | **✗** |
+ICE: 3 | \- | \- | 4 | 8 | 1x | 29.8 | **✗** |
 
 Elemental
 
@@ -13312,12 +12530,11 @@ Elemental
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><a href="Flamecharm.md">Flamecharm</a></td>
+  <td colspan="11"><a href="Flamecharm.md">Flamecharm</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -13330,7 +12547,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -13345,7 +12561,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -13362,7 +12577,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>35.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -13378,7 +12592,6 @@ Elemental
   <td>7.5</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -13394,7 +12607,6 @@ Elemental
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -13409,7 +12621,6 @@ Elemental
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -13423,7 +12634,6 @@ Elemental
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -13441,12 +12651,11 @@ Elemental
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Frostdraw.md">Frostdraw</a></td>
+  <td colspan="11"><a href="Frostdraw.md">Frostdraw</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -13459,7 +12668,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -13476,7 +12684,6 @@ Elemental
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -13492,7 +12699,6 @@ Elemental
   <td>5</td>
   <td>9</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -13510,7 +12716,6 @@ Elemental
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -13528,7 +12733,6 @@ Elemental
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -13544,7 +12748,6 @@ Elemental
   <td>4</td>
   <td>6</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -13559,7 +12762,6 @@ Elemental
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -13573,7 +12775,6 @@ Elemental
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -13591,12 +12792,11 @@ Elemental
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Thundercall.md">Thundercall</a></td>
+  <td colspan="11"><a href="Thundercall.md">Thundercall</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -13609,7 +12809,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -13625,7 +12824,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -13642,7 +12840,6 @@ Elemental
   <td>6</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -13658,8 +12855,8 @@ Elemental
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.82x</td>
-  <td>0.05s</td>
+  <td>0.82x<br>
+  0.05s end.</td>
   <td>42.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -13673,12 +12870,11 @@ Elemental
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Galebreathe.md">Galebreathe</a></td>
+  <td colspan="11"><a href="Galebreathe.md">Galebreathe</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -13691,7 +12887,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -13707,7 +12902,6 @@ Elemental
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -13724,7 +12918,6 @@ Elemental
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -13743,7 +12936,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -13761,7 +12953,6 @@ Elemental
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -13777,7 +12968,6 @@ Elemental
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -13791,12 +12981,11 @@ Elemental
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Shadowcast.md">Shadowcast</a></td>
+  <td colspan="11"><a href="Shadowcast.md">Shadowcast</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -13809,7 +12998,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -13830,7 +13018,6 @@ Elemental
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -13850,7 +13037,6 @@ Elemental
   <td>6</td>
   <td>9.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -13868,7 +13054,6 @@ Elemental
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -13887,7 +13072,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -13903,7 +13087,6 @@ Elemental
   <td>4.5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -13919,7 +13102,6 @@ Elemental
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -13935,7 +13117,6 @@ Elemental
   <td>7.5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -13949,12 +13130,11 @@ Elemental
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Ironsing.md">Ironsing</a></td>
+  <td colspan="11"><a href="Ironsing.md">Ironsing</a></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -13971,7 +13151,6 @@ Elemental
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -13989,14 +13168,12 @@ Elemental
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -14006,14 +13183,12 @@ Elemental
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -14023,15 +13198,13 @@ Elemental
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -14041,7 +13214,6 @@ Elemental
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -14056,7 +13228,6 @@ Elemental
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>45</td>
   <td><b>✓</b></td>
 </tr>
@@ -14070,12 +13241,11 @@ Elemental
   <td>6</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Bloodrend.md">Bloodrend</a></td>
+  <td colspan="11"><a href="Bloodrend.md">Bloodrend</a></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -14089,7 +13259,6 @@ Elemental
   <td>4.5</td>
   <td>6.5</td>
   <td>1.22x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -14107,7 +13276,6 @@ Elemental
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -14125,7 +13293,6 @@ Elemental
   <td>8.5</td>
   <td>9.5</td>
   <td>0.86x</td>
-  <td>-</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -14142,7 +13309,6 @@ Elemental
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -14163,15 +13329,13 @@ Elemental
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -14181,14 +13345,12 @@ Elemental
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -14198,15 +13360,13 @@ Elemental
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -14216,7 +13376,6 @@ Elemental
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -14237,7 +13396,6 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -14250,7 +13408,6 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -14263,7 +13420,6 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -14276,7 +13432,6 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>5.5</td>
   <td>8.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -14289,7 +13444,6 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>5</td>
   <td>10</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -14301,8 +13455,8 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>-</td>
   <td>8</td>
   <td>10</td>
-  <td>0.8x</td>
-  <td>0.05s</td>
+  <td>0.8x<br>
+  0.05s end.</td>
   <td>51.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -14314,8 +13468,8 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
-  <td>0.84x</td>
-  <td>0.1s</td>
+  <td>0.84x<br>
+  0.1s end.</td>
   <td>57</td>
   <td><b>✗</b></td>
 </tr>
@@ -14826,31 +13980,32 @@ Offhand Pistols
 
 **Exclusive**
 
-| Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage | Provides Talent(s)? |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Scaled Damage | Provides Talent(s)? |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Exclusive Weapons
 
 | **[Calamity Cinnabar](Calamity_Cinnabar.md)** | 75 SDW  
 40 HVY  
 LVL 10 | 22 | SDW: 9  
-HVY: 4 | \- | \- | 9 | 9 | 0.85x | 0.15s | 43.5 | ??? |
-| **[Keyblade](Keyblade.md)** | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
-| **[Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | \- | 36.5 | ??? |
+HVY: 4 | \- | \- | 9 | 9 | 0.85x  
+0.15s end. | 43.5 | ??? |
+| **[Keyblade](Keyblade.md)** | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
+| **[Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | 36.5 | ??? |
 | **[Moon Blades](Moon_Blades.md) ([Bleed](Status_Effects.md#bleed))** | 60 LHT  
 30 INT | 13 | LHT: 8  
-INT: 2 | 30% | \- | 4 | 6 | 1.25x | \- | 22.8  
+INT: 2 | 30% | \- | 4 | 6 | 1.25x | 22.8  
 ([+3.4 BLD](Status_Effects.md#bleed)) | ??? |
-| **[Soulshot](Soulshot.md)** | 150 LHT | 30 | LHT: 12 | 50% | 10% | 7 | 12.5 | 1.3x | \- | 57 | ??? |
-| **[The Rock](The_Rock.md)** | 200 HVY | 102 | HVY: 12 | 25% | \- | 30 | 8 | 0.25x | \- | 193.8 | **✓** |
+| **[Soulshot](Soulshot.md)** | 150 LHT | 30 | LHT: 12 | 50% | 10% | 7 | 12.5 | 1.3x | 57 | ??? |
+| **[The Rock](The_Rock.md)** | 200 HVY | 102 | HVY: 12 | 25% | \- | 30 | 8 | 0.25x | 193.8 | **✓** |
 | **[Unsung Scythern](Unsung_Scythern.md)** | 75 HVY  
-LVL 10 | 26 | HVY: 9 | 10% | \- | 8 | 8 | 0.8x | \- | 43.6 | ??? |
-| **[Worldpainter Brush](Worldpainter_Brush.md)** | ??? | 23 | HVY: 7 | 20% | \- | 7 | 8.5 | 0.91x | \- | 35.1 | ??? |
+LVL 10 | 26 | HVY: 9 | 10% | 8 | 8 | 0.8x | \- | 43.6 | ??? |
+| **[Worldpainter Brush](Worldpainter_Brush.md)** | ??? | 23 | HVY: 7 | 20% | \- | 7 | 8.5 | 0.91x | 35.1 | ??? |
 | **[The Endless Wave](The_Endless_Wave.md)** | 60 HVY  
 50 STR | 25 | HVY: 8  
-STR: 1 | 50% | \- | 10 | 15 | 0.92x | \- | 41.9 | ??? |
+STR: 1 | 50% | 10 | 15 | 0.92x | \- | 41.9 | ??? |
 | **[Ebonshard Lexicon](Ebonshard_Lexicon.md)** | 200 HVY  
 150 STR | 30 | HVY: 6  
-STR: 10 | \- | 60% | 14 | 11 | 1x | \- | 66 | ??? |
+STR: 10 | 60% | 14 | 11 | 1x | \- | 66 | ??? |
 
 ## Stances
 
@@ -14931,7 +14086,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -14945,7 +14099,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>2</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>5</td>
   <td><b>✗</b></td>
 </tr>
@@ -14959,7 +14112,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>14.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -14975,7 +14127,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -14989,7 +14140,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>19.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -15005,7 +14155,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>2</td>
   <td>11</td>
   <td>1.3x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -15019,7 +14168,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>5</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21</td>
   <td><b>✓</b></td>
 </tr>
@@ -15033,7 +14181,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4.5</td>
   <td>5.8</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -15049,7 +14196,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -15063,7 +14209,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -15078,7 +14223,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -15094,7 +14238,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -15110,7 +14253,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -15127,7 +14269,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -15142,7 +14283,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -15160,7 +14300,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -15177,7 +14316,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>3.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -15191,7 +14329,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -15205,7 +14342,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -15219,7 +14355,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -15233,7 +14368,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -15249,7 +14383,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -15265,7 +14398,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
-  <td>-</td>
   <td>26.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -15279,7 +14411,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -15294,7 +14425,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -15309,14 +14439,12 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -15326,7 +14454,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -15340,7 +14467,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -15354,7 +14480,6 @@ For more in-depth info about the weapon class, see [Daggers](Daggers.md).
   <td>5</td>
   <td>5.8</td>
   <td>1.24x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -15379,12 +14504,11 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -15396,7 +14520,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -15410,7 +14533,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -15424,8 +14546,21 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Infected.md">Infected</a></b></td>
+  <td><a href="Hallowtide.md">Hallowtide</a><br>
+  <small>View <a href="Infected.md">Infected</a> for more info.</small></td>
+  <td>10</td>
+  <td>N/A</td>
+  <td>-</td>
+  <td>-</td>
+  <td>9</td>
+  <td>6</td>
+  <td>1.3x</td>
+  <td>10</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -15438,7 +14573,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -15452,7 +14586,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3 (9.2)</td>
   <td><b>✗</b></td>
 </tr>
@@ -15466,12 +14599,11 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><b>Cestus</b></td>
+  <td colspan="11"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -15483,7 +14615,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>1</td>
   <td>3</td>
   <td>0.6x</td>
-  <td>-</td>
   <td>1</td>
   <td><b>✗</b></td>
 </tr>
@@ -15497,7 +14628,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>21.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -15512,7 +14642,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>22.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -15526,7 +14655,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -15542,7 +14670,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>25.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -15558,7 +14685,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -15574,7 +14700,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -15592,7 +14717,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -15606,7 +14730,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>4.5</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>24.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -15620,7 +14743,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -15636,7 +14758,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>4</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -15652,7 +14773,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -15666,7 +14786,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>4</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -15682,7 +14801,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>6</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -15699,7 +14817,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -15714,7 +14831,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>6</td>
   <td>6</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -15730,7 +14846,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>5.5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26</td>
   <td><b>✓</b></td>
 </tr>
@@ -15745,7 +14860,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>8</td>
   <td>6</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30</td>
   <td><b>✗</b></td>
 </tr>
@@ -15759,7 +14873,6 @@ For more in-depth info about the weapon class, see [Fists](Fists.md).
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -15784,7 +14897,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -15798,7 +14910,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>19.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -15812,7 +14923,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>20.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -15828,7 +14938,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -15844,7 +14953,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -15858,7 +14966,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -15872,7 +14979,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>3.5</td>
   <td>11</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -15886,7 +14992,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>4</td>
   <td>11</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -15902,7 +15007,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>2.5</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -15916,7 +15020,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -15930,7 +15033,6 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>23.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -15955,7 +15057,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -15969,7 +15070,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -15983,7 +15083,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -15998,7 +15097,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -16014,7 +15112,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -16030,7 +15127,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -16044,7 +15140,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>8</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -16058,7 +15153,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>8.1</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -16072,7 +15166,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>8</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>27</td>
   <td><b>✗</b></td>
 </tr>
@@ -16087,7 +15180,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -16102,7 +15194,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -16116,7 +15207,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -16137,12 +15227,11 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><a href="Daggers.md">Daggers</a></td>
+  <td colspan="11"><a href="Daggers.md">Daggers</a></td>
 </tr>
 <tr>
   <td><b><a href="Formless_Shard.md">Formless Shard</a></b></td>
@@ -16154,7 +15243,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>2</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>5</td>
   <td><b>✗</b></td>
 </tr>
@@ -16168,7 +15256,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>14.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -16184,7 +15271,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -16198,7 +15284,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>19.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -16214,7 +15299,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>2</td>
   <td>11</td>
   <td>1.3x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -16228,7 +15312,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21</td>
   <td><b>✓</b></td>
 </tr>
@@ -16242,7 +15325,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4.5</td>
   <td>5.8</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -16258,7 +15340,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -16272,7 +15353,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -16287,7 +15367,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -16303,7 +15382,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -16319,7 +15397,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -16336,7 +15413,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -16351,7 +15427,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -16369,7 +15444,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -16386,7 +15460,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -16400,7 +15473,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -16414,7 +15486,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -16428,7 +15499,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -16442,7 +15512,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -16458,7 +15527,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -16474,7 +15542,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
-  <td>-</td>
   <td>26.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -16488,7 +15555,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -16503,7 +15569,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -16518,14 +15583,12 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -16535,7 +15598,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -16549,7 +15611,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -16563,15 +15624,14 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>5.8</td>
   <td>1.24x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Fists.md">Fists</a></td>
+  <td colspan="11"><a href="Fists.md">Fists</a></td>
 </tr>
 <tr>
-  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -16583,7 +15643,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -16597,7 +15656,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -16611,8 +15669,21 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Infected.md">Infected</a></b></td>
+  <td><a href="Hallowtide.md">Hallowtide</a><br>
+  <small>View <a href="Infected.md">Infected</a> for more info.</small></td>
+  <td>10</td>
+  <td>N/A</td>
+  <td>-</td>
+  <td>-</td>
+  <td>9</td>
+  <td>6</td>
+  <td>1.3x</td>
+  <td>10</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -16625,7 +15696,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -16639,7 +15709,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3 (9.2)</td>
   <td><b>✗</b></td>
 </tr>
@@ -16653,12 +15722,11 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><b>Cestus</b></td>
+  <td colspan="11"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -16670,7 +15738,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1</td>
   <td>3</td>
   <td>0.6x</td>
-  <td>-</td>
   <td>1</td>
   <td><b>✗</b></td>
 </tr>
@@ -16684,7 +15751,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>21.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -16699,7 +15765,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>22.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -16713,7 +15778,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -16729,7 +15793,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>25.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -16745,7 +15808,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -16761,7 +15823,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -16779,7 +15840,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -16793,7 +15853,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4.5</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>24.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -16807,7 +15866,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -16823,7 +15881,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -16839,7 +15896,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -16853,7 +15909,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -16869,7 +15924,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>6</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -16886,7 +15940,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6.5</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -16901,7 +15954,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>6</td>
   <td>6</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -16917,7 +15969,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5.5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26</td>
   <td><b>✓</b></td>
 </tr>
@@ -16932,7 +15983,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>8</td>
   <td>6</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30</td>
   <td><b>✗</b></td>
 </tr>
@@ -16946,12 +15996,11 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Rapiers.md">Rapiers</a></td>
+  <td colspan="11"><a href="Rapiers.md">Rapiers</a></td>
 </tr>
 <tr>
   <td><b><a href="Quickfang.md">Quickfang</a></b></td>
@@ -16963,7 +16012,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -16977,7 +16025,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -16992,7 +16039,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -17008,7 +16054,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -17024,7 +16069,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>6</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -17038,7 +16082,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>8</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -17052,7 +16095,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>8.1</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -17066,7 +16108,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>5</td>
   <td>8</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>27</td>
   <td><b>✗</b></td>
 </tr>
@@ -17081,7 +16122,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -17096,7 +16136,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -17110,12 +16149,11 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Pistols.md">Pistols</a></td>
+  <td colspan="11"><a href="Pistols.md">Pistols</a></td>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -17127,7 +16165,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>19.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -17141,7 +16178,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>20.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -17157,7 +16193,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -17173,7 +16208,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -17187,7 +16221,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -17201,7 +16234,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3.5</td>
   <td>11</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -17215,7 +16247,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>4</td>
   <td>11</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -17231,7 +16262,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>2.5</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -17245,7 +16275,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -17259,7 +16288,6 @@ For more in-depth info about the weapon class, see [Rapiers](Rapiers.md).
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>23.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -17288,7 +16316,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -17302,7 +16329,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -17316,7 +16342,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>7.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -17332,7 +16357,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -17349,7 +16373,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -17363,7 +16386,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>18.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -17379,7 +16401,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -17393,7 +16414,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -17409,7 +16429,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -17425,7 +16444,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -17439,7 +16457,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>4</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>28.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -17456,7 +16473,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -17473,7 +16489,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -17492,7 +16507,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -17511,7 +16525,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -17529,7 +16542,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -17544,7 +16556,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>25.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -17560,7 +16571,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>3</td>
   <td>7.5</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>29.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -17574,7 +16584,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5.5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.9</td>
   <td><b>✓</b></td>
 </tr>
@@ -17589,7 +16598,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>8</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -17607,7 +16615,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -17621,7 +16628,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -17636,7 +16642,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>6</td>
   <td>1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -17653,7 +16658,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -17668,7 +16672,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>6</td>
   <td>8.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -17682,7 +16685,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -17698,7 +16700,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>7</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -17714,7 +16715,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -17730,7 +16730,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -17747,7 +16746,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -17763,7 +16761,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -17779,7 +16776,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -17795,7 +16791,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -17809,7 +16804,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>6</td>
   <td>7.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -17826,7 +16820,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>6</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -17840,7 +16833,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>4</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✓</b></td>
 </tr>
@@ -17855,7 +16847,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5.5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -17872,7 +16863,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -17887,7 +16877,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>6.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -17901,8 +16890,7 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>-</td>
   <td>5</td>
   <td>8</td>
-  <td>1.00x</td>
-  <td>-</td>
+  <td>1x</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -17917,7 +16905,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>7.5</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -17932,7 +16919,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>3</td>
   <td>8</td>
   <td>1.03x</td>
-  <td>-</td>
   <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -17947,7 +16933,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -17962,7 +16947,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -17977,7 +16961,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -17992,7 +16975,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -18007,7 +16989,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -18022,7 +17003,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -18036,7 +17016,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -18050,7 +17029,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>5.5</td>
   <td>8.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -18064,7 +17042,6 @@ For more in-depth info about the weapon class, see [Swords](Swords.md).
   <td>6</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -18089,7 +17066,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -18103,7 +17079,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -18117,7 +17092,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -18132,7 +17106,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -18148,7 +17121,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -18164,7 +17136,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -18178,7 +17149,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -18200,7 +17170,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -18213,14 +17182,13 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   LVL 10</td>
   <td>16.5</td>
   <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
+  MND: 3<br>
+  SDW: 4.5</td>
   <td>15%</td>
   <td>-</td>
   <td>6</td>
   <td>9.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -18237,7 +17205,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -18253,7 +17220,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -18270,7 +17236,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>7</td>
   <td>8.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -18284,7 +17249,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -18299,7 +17263,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -18316,7 +17279,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -18331,7 +17293,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -18345,7 +17306,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>28.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -18361,7 +17321,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>7.5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -18379,7 +17338,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>7</td>
   <td>11</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -18395,7 +17353,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -18410,7 +17367,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -18418,8 +17374,7 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -18429,7 +17384,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -18444,7 +17398,6 @@ For more in-depth info about the weapon class, see [Spears](Spears.md).
   <td>5</td>
   <td>10</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -18467,7 +17420,6 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -18481,9 +17433,8 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>6</td>
   <td>6</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>22</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -18496,7 +17447,6 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>6</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -18512,7 +17462,6 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>6.5</td>
   <td>8</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -18527,7 +17476,6 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
   <td>5</td>
   <td>8</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -18552,7 +17500,6 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -18566,7 +17513,6 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -18580,7 +17526,6 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>6</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -18597,7 +17542,6 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>7.5</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -18616,7 +17560,6 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -18632,7 +17575,6 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>5</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -18647,7 +17589,6 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>6</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -18658,7 +17599,6 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>18</td>
   <td>MED: 5<br>
   MND: 3</td>
-  <td>-</td>
   <td>-</td>
   <td>7</td>
   <td>7.5</td>
@@ -18677,7 +17617,6 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>7</td>
   <td>8</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -18692,7 +17631,6 @@ For more in-depth info about the weapon class, see [Clubs](Clubs.md).
   <td>4</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -18716,7 +17654,6 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -18730,7 +17667,6 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -18744,7 +17680,6 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>22</td>
   <td><b>✓</b></td>
 </tr>
@@ -18760,7 +17695,6 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -18776,7 +17710,6 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -18791,7 +17724,6 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -18805,7 +17737,6 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -18819,7 +17750,6 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>5</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -18837,7 +17767,6 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -18862,7 +17791,6 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -18876,7 +17804,6 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>4</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>19.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -18892,7 +17819,6 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -18909,7 +17835,6 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -18926,7 +17851,6 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -18940,7 +17864,6 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>6</td>
   <td>8.4</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>29.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -18954,7 +17877,6 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>7.5</td>
   <td>8</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -18969,7 +17891,6 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>6</td>
   <td>7.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -18983,7 +17904,6 @@ For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -19012,7 +17932,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -19026,7 +17945,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>12.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>22.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -19040,7 +17958,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -19056,7 +17973,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4.5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -19072,7 +17988,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -19093,12 +18008,11 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><a href="Swords.md">Swords</a></td>
+  <td colspan="11"><a href="Swords.md">Swords</a></td>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -19110,7 +18024,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -19124,7 +18037,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>7.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -19140,7 +18052,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -19157,7 +18068,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -19171,7 +18081,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>18.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -19187,7 +18096,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -19201,7 +18109,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -19217,7 +18124,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -19233,7 +18139,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -19247,7 +18152,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>28.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -19264,7 +18168,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -19281,7 +18184,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -19300,7 +18202,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -19319,7 +18220,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -19337,7 +18237,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -19352,7 +18251,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>25.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -19368,7 +18266,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>3</td>
   <td>7.5</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>29.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -19382,7 +18279,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5.5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.9</td>
   <td><b>✓</b></td>
 </tr>
@@ -19397,7 +18293,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>8</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -19415,7 +18310,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -19429,7 +18323,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -19444,7 +18337,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>6</td>
   <td>1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -19461,7 +18353,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -19476,7 +18367,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>8.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -19490,7 +18380,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -19506,7 +18395,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>7</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -19522,7 +18410,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -19538,7 +18425,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -19555,7 +18441,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -19571,7 +18456,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -19587,7 +18471,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -19603,7 +18486,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -19617,7 +18499,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>7.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -19634,7 +18515,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -19648,7 +18528,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✓</b></td>
 </tr>
@@ -19663,7 +18542,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5.5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -19680,7 +18558,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -19695,7 +18572,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>6.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -19709,8 +18585,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>-</td>
   <td>5</td>
   <td>8</td>
-  <td>1.00x</td>
-  <td>-</td>
+  <td>1x</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -19725,7 +18600,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>7.5</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -19740,7 +18614,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>3</td>
   <td>8</td>
   <td>1.03x</td>
-  <td>-</td>
   <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -19755,7 +18628,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -19770,7 +18642,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -19785,7 +18656,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -19800,7 +18670,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -19815,7 +18684,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -19830,7 +18698,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -19844,7 +18711,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -19858,7 +18724,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5.5</td>
   <td>8.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -19872,12 +18737,11 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Clubs.md">Clubs</a></td>
+  <td colspan="11"><a href="Clubs.md">Clubs</a></td>
 </tr>
 <tr>
   <td><b><a href="Mace.md">Mace</a></b></td>
@@ -19889,7 +18753,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -19903,7 +18766,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -19920,7 +18782,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>7.5</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -19939,7 +18800,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -19955,7 +18815,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -19970,7 +18829,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -19981,7 +18839,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>18</td>
   <td>MED: 5<br>
   MND: 3</td>
-  <td>-</td>
   <td>-</td>
   <td>7</td>
   <td>7.5</td>
@@ -20000,7 +18857,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>7</td>
   <td>8</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -20015,13 +18871,12 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Spears.md">Spears</a></td>
+  <td colspan="11"><a href="Spears.md">Spears</a></td>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -20033,7 +18888,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -20047,7 +18901,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -20062,7 +18915,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -20078,7 +18930,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -20094,7 +18945,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -20108,7 +18958,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -20130,7 +18979,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -20143,14 +18991,13 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   LVL 10</td>
   <td>16.5</td>
   <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
+  MND: 3<br>
+  SDW: 4.5</td>
   <td>15%</td>
   <td>-</td>
   <td>6</td>
   <td>9.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -20167,7 +19014,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -20183,7 +19029,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -20200,7 +19045,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>7</td>
   <td>8.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -20214,7 +19058,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -20229,7 +19072,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -20246,7 +19088,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -20261,7 +19102,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -20275,7 +19115,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>28.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -20291,7 +19130,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>7.5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -20309,7 +19147,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>7</td>
   <td>11</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -20325,7 +19162,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -20340,7 +19176,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -20348,8 +19183,7 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -20359,7 +19193,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -20374,12 +19207,11 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>10</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Staves.md">Staves</a></td>
+  <td colspan="11"><a href="Staves.md">Staves</a></td>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -20391,9 +19223,8 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>6</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>22</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -20406,7 +19237,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -20422,7 +19252,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6.5</td>
   <td>8</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -20437,12 +19266,11 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12">Rifles</td>
+  <td colspan="11">Rifles</td>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -20454,7 +19282,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -20468,7 +19295,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>22</td>
   <td><b>✓</b></td>
 </tr>
@@ -20484,7 +19310,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -20500,7 +19325,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -20515,7 +19339,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -20529,7 +19352,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -20543,7 +19365,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -20561,12 +19382,11 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Twinblades.md">Twinblades</a></td>
+  <td colspan="11"><a href="Twinblades.md">Twinblades</a></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -20578,7 +19398,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>19.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -20594,7 +19413,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -20611,7 +19429,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -20628,7 +19445,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -20642,7 +19458,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>8.4</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>29.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -20656,7 +19471,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>7.5</td>
   <td>8</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -20671,7 +19485,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>6</td>
   <td>7.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -20685,12 +19498,11 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12">Bows</td>
+  <td colspan="11">Bows</td>
 </tr>
 <tr>
   <td><b><a href="Ironcry.md">Ironcry</a></b></td>
@@ -20702,7 +19514,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>12.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>22.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -20716,7 +19527,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -20732,7 +19542,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>4.5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -20748,7 +19557,6 @@ Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, whil
   <td>5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -20777,7 +19585,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -20791,7 +19598,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -20808,7 +19614,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -20825,7 +19630,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>5</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -20841,7 +19645,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -20858,7 +19661,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -20872,7 +19674,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>4</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -20886,7 +19687,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>8</td>
   <td>8.5</td>
   <td>0.73x</td>
-  <td>-</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -20901,7 +19701,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -20915,7 +19714,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -20929,7 +19727,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>7</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -20943,7 +19740,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>7.5</td>
   <td>8.5</td>
   <td>0.91x</td>
-  <td>-</td>
   <td>35.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -20957,7 +19753,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>8</td>
   <td>8.5</td>
   <td>0.76x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -20973,7 +19768,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>7</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -20989,7 +19783,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -21006,7 +19799,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -21022,7 +19814,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>9</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -21036,7 +19827,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>10</td>
   <td>8.5</td>
   <td>0.77x</td>
-  <td>-</td>
   <td>36.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -21050,8 +19840,8 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>10%</td>
   <td>7</td>
   <td>10</td>
-  <td>0.81x</td>
-  <td>0.05s</td>
+  <td>0.81x<br>
+  0.05s end.</td>
   <td>35.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -21066,15 +19856,14 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>25%</td>
   <td>10</td>
   <td>10</td>
-  <td>0.7x</td>
-  <td>0.05s</td>
+  <td>0.7x<br>
+  0.05s end.</td>
   <td>49.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -21084,7 +19873,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -21097,8 +19885,8 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>-</td>
   <td>8</td>
   <td>10</td>
-  <td>0.8x</td>
-  <td>0.05s</td>
+  <td>0.8x<br>
+  0.05s end.</td>
   <td>51.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -21112,7 +19900,6 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long handl
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>32.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -21135,7 +19922,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -21149,7 +19935,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -21167,7 +19952,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -21184,7 +19968,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>35.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -21202,7 +19985,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -21219,7 +20001,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -21234,7 +20015,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>9</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -21251,7 +20031,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -21268,7 +20047,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -21285,7 +20063,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -21302,7 +20079,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -21319,7 +20095,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>9.5</td>
   <td>0.86x</td>
-  <td>-</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -21338,7 +20113,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -21355,7 +20129,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -21371,7 +20144,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8</td>
   <td>10</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -21386,7 +20158,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8</td>
   <td>8</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>43.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -21401,7 +20172,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -21419,7 +20189,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>7</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -21436,7 +20205,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -21454,7 +20222,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -21471,7 +20238,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -21485,7 +20251,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -21501,7 +20266,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -21519,7 +20283,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9(FULL)<br>
   7(BRKN)</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
@@ -21536,7 +20299,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>10</td>
   <td>8.5</td>
   <td>0.79x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -21551,7 +20313,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -21567,8 +20328,8 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.66x</td>
-  <td>0.1s</td>
+  <td>0.66x<br>
+  0.1s end.</td>
   <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -21582,7 +20343,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>45</td>
   <td><b>✓</b></td>
 </tr>
@@ -21595,8 +20355,8 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
-  <td>0.84x</td>
-  <td>0.1s</td>
+  <td>0.84x<br>
+  0.1s end.</td>
   <td>57</td>
   <td><b>✗</b></td>
 </tr>
@@ -21610,7 +20370,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -21624,8 +20383,8 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>10%</td>
   <td>12</td>
   <td>13</td>
-  <td>0.75x</td>
-  <td>0.15s</td>
+  <td>0.75x<br>
+  0.15s end.</td>
   <td>45.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -21648,7 +20407,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -21666,7 +20424,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -21683,7 +20440,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -21698,7 +20454,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>39.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -21714,8 +20469,8 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.82x</td>
-  <td>0.05s</td>
+  <td>0.82x<br>
+  0.05s end.</td>
   <td>42.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -21733,7 +20488,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>47.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -21748,7 +20502,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -21762,7 +20515,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -21780,7 +20532,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>7</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -21797,7 +20548,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9.5</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -21813,7 +20563,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -21829,7 +20578,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -21844,8 +20592,8 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10%</td>
   <td>13</td>
   <td>9</td>
-  <td>0.73x</td>
-  <td>0.05s</td>
+  <td>0.73x<br>
+  0.05s end.</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -21861,7 +20609,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -21875,7 +20622,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>9</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>42.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -21890,7 +20636,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -21905,7 +20650,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -21921,7 +20665,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -21935,8 +20678,8 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>-</td>
   <td>9</td>
   <td>10</td>
-  <td>0.62x</td>
-  <td>0.05s</td>
+  <td>0.62x<br>
+  0.05s end.</td>
   <td>49</td>
   <td><b>✗</b></td>
 </tr>
@@ -21951,7 +20694,6 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -21974,7 +20716,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -21989,7 +20730,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>8.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>39.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -22004,7 +20744,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>41.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -22019,7 +20758,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>7.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -22034,7 +20772,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -22055,12 +20792,11 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greataxes.md">Greataxes</a></td>
+  <td colspan="11"><a href="Greataxes.md">Greataxes</a></td>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -22072,7 +20808,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -22089,7 +20824,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -22106,7 +20840,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>5</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -22122,7 +20855,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -22139,7 +20871,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -22153,7 +20884,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>4</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -22167,7 +20897,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>8.5</td>
   <td>0.73x</td>
-  <td>-</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -22182,7 +20911,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -22196,7 +20924,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -22210,7 +20937,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -22224,7 +20950,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7.5</td>
   <td>8.5</td>
   <td>0.91x</td>
-  <td>-</td>
   <td>35.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -22238,7 +20963,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>8.5</td>
   <td>0.76x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -22254,7 +20978,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -22270,7 +20993,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -22287,7 +21009,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -22303,7 +21024,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -22317,7 +21037,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10</td>
   <td>8.5</td>
   <td>0.77x</td>
-  <td>-</td>
   <td>36.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -22331,8 +21050,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10%</td>
   <td>7</td>
   <td>10</td>
-  <td>0.81x</td>
-  <td>0.05s</td>
+  <td>0.81x<br>
+  0.05s end.</td>
   <td>35.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -22347,15 +21066,14 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>25%</td>
   <td>10</td>
   <td>10</td>
-  <td>0.7x</td>
-  <td>0.05s</td>
+  <td>0.7x<br>
+  0.05s end.</td>
   <td>49.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -22365,7 +21083,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -22378,8 +21095,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>-</td>
   <td>8</td>
   <td>10</td>
-  <td>0.8x</td>
-  <td>0.05s</td>
+  <td>0.8x<br>
+  0.05s end.</td>
   <td>51.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -22393,12 +21110,11 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>32.5</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greatswords.md">Greatswords</a></td>
+  <td colspan="11"><a href="Greatswords.md">Greatswords</a></td>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -22410,7 +21126,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -22428,7 +21143,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -22445,7 +21159,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>35.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -22463,7 +21176,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -22480,7 +21192,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -22495,7 +21206,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -22512,7 +21222,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -22529,7 +21238,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -22546,7 +21254,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -22563,7 +21270,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -22580,7 +21286,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8.5</td>
   <td>9.5</td>
   <td>0.86x</td>
-  <td>-</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -22599,7 +21304,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -22616,7 +21320,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -22632,7 +21335,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>10</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -22647,7 +21349,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>8</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>43.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -22662,7 +21363,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -22680,7 +21380,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -22697,7 +21396,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -22715,7 +21413,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -22732,7 +21429,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -22746,7 +21442,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -22762,7 +21457,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -22780,7 +21474,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9(FULL)<br>
   7(BRKN)</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
@@ -22797,7 +21490,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10</td>
   <td>8.5</td>
   <td>0.79x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -22812,7 +21504,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -22828,8 +21519,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.66x</td>
-  <td>0.1s</td>
+  <td>0.66x<br>
+  0.1s end.</td>
   <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -22843,7 +21534,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>45</td>
   <td><b>✓</b></td>
 </tr>
@@ -22856,8 +21546,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
-  <td>0.84x</td>
-  <td>0.1s</td>
+  <td>0.84x<br>
+  0.1s end.</td>
   <td>57</td>
   <td><b>✗</b></td>
 </tr>
@@ -22871,7 +21561,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -22885,13 +21574,13 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10%</td>
   <td>12</td>
   <td>13</td>
-  <td>0.75x</td>
-  <td>0.15s</td>
+  <td>0.75x<br>
+  0.15s end.</td>
   <td>45.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greathammers.md">Greathammers</a></td>
+  <td colspan="11"><a href="Greathammers.md">Greathammers</a></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -22907,7 +21596,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -22924,7 +21612,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -22939,7 +21626,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>39.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -22955,8 +21641,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.82x</td>
-  <td>0.05s</td>
+  <td>0.82x<br>
+  0.05s end.</td>
   <td>42.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -22974,7 +21660,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>47.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -22989,7 +21674,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -23003,7 +21687,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -23021,7 +21704,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -23038,7 +21720,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9.5</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -23054,7 +21735,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -23070,7 +21750,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -23085,8 +21764,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10%</td>
   <td>13</td>
   <td>9</td>
-  <td>0.73x</td>
-  <td>0.05s</td>
+  <td>0.73x<br>
+  0.05s end.</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -23102,7 +21781,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -23116,7 +21794,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>42.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -23131,7 +21808,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -23146,7 +21822,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -23162,7 +21837,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -23176,8 +21850,8 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>-</td>
   <td>9</td>
   <td>10</td>
-  <td>0.62x</td>
-  <td>0.05s</td>
+  <td>0.62x<br>
+  0.05s end.</td>
   <td>49</td>
   <td><b>✗</b></td>
 </tr>
@@ -23192,12 +21866,11 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greatcannons.md">Greatcannons</a></td>
+  <td colspan="11"><a href="Greatcannons.md">Greatcannons</a></td>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -23210,7 +21883,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>8.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>39.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -23225,7 +21897,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>41.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -23240,7 +21911,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>9</td>
   <td>7.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -23255,7 +21925,6 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -23266,18 +21935,18 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 
 Hybrid Weapons are weapons that require and scale on two or more different weapon or attunement stats, such as requiring Medium and Heavy stats. This weapon class is too diverse to be explained simply, with each weapon being uniquely itself.
 
-| Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage | Provides Talent(s)? |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Scaled Damage | Provides Talent(s)? |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Hybrid Weapons
 
 | **[Wyrmtooth](Wyrmtooth.md)** | Sword & Greatsword | 60 MED  
 40 HVY  
 LVL 10 | 20 | MED: 6.5  
-HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | \- | 36.5 | **✓** |
+HVY: 4.5 | 25% | \- | 7 | 9 | 0.93x | 36.5 | **✓** |
 | **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** | Light & Heavy | 25 HVY  
 75 FIR  
 10 LHT | 21 | HVY/LHT: 5  
-FIR: 4 | 15% | \- | 5 | 8 | 0.89x | \- | 35.2 | **✓** |
+FIR: 4 | 15% | \- | 5 | 8 | 0.89x | 35.2 | **✓** |
 | **[Red Death](Red_Death.md)  
 ([Bleed](Status_Effects.md#bleed))** | Shadowcast & Bloodrend | 30 MED  
 25 MND  
@@ -23286,52 +21955,49 @@ FIR: 4 | 15% | \- | 5 | 8 | 0.89x | \- | 35.2 | **✓** |
 LVL 8 | 16 | MED: 2.5  
 MND: 2  
 SDW: 3  
-BLD: 3 | 25% | \- | 6 | 9.5 | 0.92x | \- | 26.9  
+BLD: 3 | 25% | \- | 6 | 9.5 | 0.92x | 26.9  
 ([+4 BLD](Status_Effects.md#bleed)) | **✓** |
 | **[Eyes of Ethiron](Eyes_of_Ethiron.md)** | Shadowcast & Galebreathe | 40 MED  
 40 SDW  
 40 WND  
 LVL 10 | 16.5 | MED: 4  
 SDW: 4.5  
-WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | \- | 32.6 | **✓** |
+WND: 4.5 | 15% | 5% | 5 | 8 | 1.04x | 32.6 | **✓** |
 | **[Ignition Deepcrusher](Ignition_Deepcrusher.md) ([1H Bleed](Status_Effects.md#bleed))** | Sword & Club | 75 MTL  
 40 MED | 20 (2H)  
 18 (1H) | MTL: 4  
 MED: 3 | 20% | \- | 8 (2H)  
 4 (1H) | 8 | 1x (2H)  
-1.05x (1H) | \- | 30.5 (2H)  
+1.05x (1H) | 30.5 (2H)  
 27.5 (1H)  
 ([+4.1 BLD](Status_Effects.md#bleed)) (1H) | **✓** |
 | **[Rimebreakers](Rimebreakers.md)** | Frostdraw & Galebreathe | 50 ICE  
 50 LHT  
 50 WND | 16.5 | WND: 3.5  
 LHT: 5  
-ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 | **✓** |
+ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | 31.4 | **✓** |
 | **[Corvidirge Severants](Corvidirge_Severants.md)  
 ([Bleed](Status_Effects.md#bleed))** | Dagger & Twinblade | LHT: 55  
 MED: 55 | 13.5 | LHT: 5  
-MED: 5 | 15% | \- | 5 | 7 | 1.1x | \- | 23.5  
+MED: 5 | 15% | \- | 5 | 7 | 1.1x | 23.5  
 ([+3.5 BLD](Status_Effects.md#bleed)) | **✗** |
-| **[Alloyblood Axe](Alloyblood_Axe.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
-[Rising Plasma](Hybrid_Abilities.md#rising-plasma) (Mantra) | 24 | HVY: 3  
+| **[Alloyblood Axe](Alloyblood_Axe.md)** | Bloodrend & Ironsing | [Rising Plasma](Hybrid_Abilities.md#rising-plasma) (Mantra) | 24 | HVY: 3  
 BLD: 5  
-MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | \- | 47.4 | **✓** |
-| **[Alloyblood Daggers](Alloyblood_Daggers.md)** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) Talent  
-[Infused Slash](Hybrid_Abilities.md#infused-slash) Mantra | 14.5 | LHT: 3  
+MTL: 5 | 20% | 20% | 7 | 8 | 0.87x | 47.4 | **✓** |
+| **[Alloyblood Daggers](Alloyblood_Daggers.md)** | Bloodrend & Ironsing | [Infused Slash](Hybrid_Abilities.md#infused-slash) (Mantra) | 14.5 | LHT: 3  
 BLD: 5  
-MTL: 5 | 15% | \- | 4 | 6 | 1.2x | \- | 28.6 | **✓** |
+MTL: 5 | 15% | \- | 4 | 6 | 1.2x | 28.6 | **✓** |
 | **[Alloyblood Spear](Alloyblood_Spear.md)  
-([Bleed](Status_Effects.md#bleed))** | Bloodrend & Ironsing | [Composite Path: Alloyblood](Talents.md#composite-path-alloyblood) (Talent)  
-[Spinning Serum](Hybrid_Abilities.md#spinning-serum) (Mantra) | 18 | MED: 3  
+([Bleed](Status_Effects.md#bleed))** | Bloodrend & Ironsing | [Spinning Serum](Hybrid_Abilities.md#spinning-serum) (Mantra) | 18 | MED: 3  
 BLD: 5  
-MTL: 5 | 25% | 10% | 5 | 9 | 0.95x | \- | 35.6  
+MTL: 5 | 25% | 10% | 5 | 9 | 0.95x | 35.6  
 ([+5.3](Status_Effects.md#bleed)) | **✓** |
-| **[Saintsblade](Oath%253A_Saintsworn.md#saintsblade)** | Flamecharm, Frostdraw, Galebreathe, Shadowcast & Thundercall | [Oath: Saintsworn](Oath%253A_Saintsworn.md) | 28 | \- | 10% | \- | 7 | 8.5 | 1.04x | \- | 28 | **✗** |
+| **[Saintsblade](Oath%253A_Saintsworn.md#saintsblade)** | Flamecharm, Frostdraw, Galebreathe, Shadowcast & Thundercall | [Oath: Saintsworn](Oath%253A_Saintsworn.md) | 28 | \- | 10% | \- | 7 | 8.5 | 1.04x | 28 | **✗** |
 | **[Vapormaw Carbine](Vapormaw_Carbine.md)** | Flamecharm & Frostdraw | 50 MED  
 30 FIR  
 30 ICE | 17 | MED: 4  
 FIR: 3  
-ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 | **✗** |
+ICE: 3 | \- | \- | 4 | 8 | 1x | 29.8 | **✗** |
 
 **Elemental:**
 
@@ -23349,12 +22015,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><a href="Flamecharm.md">Flamecharm</a></td>
+  <td colspan="11"><a href="Flamecharm.md">Flamecharm</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -23367,7 +22032,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -23382,7 +22046,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -23399,7 +22062,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>35.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -23415,7 +22077,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7.5</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -23431,7 +22092,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -23446,7 +22106,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -23460,7 +22119,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -23478,12 +22136,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Frostdraw.md">Frostdraw</a></td>
+  <td colspan="11"><a href="Frostdraw.md">Frostdraw</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -23496,7 +22153,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -23513,7 +22169,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -23529,7 +22184,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>9</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -23547,7 +22201,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -23565,7 +22218,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -23581,7 +22233,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>4</td>
   <td>6</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -23596,7 +22247,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -23610,7 +22260,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -23628,12 +22277,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Thundercall.md">Thundercall</a></td>
+  <td colspan="11"><a href="Thundercall.md">Thundercall</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -23646,7 +22294,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -23662,7 +22309,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -23679,7 +22325,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>6</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -23695,8 +22340,8 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.82x</td>
-  <td>0.05s</td>
+  <td>0.82x<br>
+  0.05s end.</td>
   <td>42.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -23710,12 +22355,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Galebreathe.md">Galebreathe</a></td>
+  <td colspan="11"><a href="Galebreathe.md">Galebreathe</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -23728,7 +22372,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -23744,7 +22387,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -23761,7 +22403,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -23780,7 +22421,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -23798,7 +22438,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -23814,7 +22453,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -23828,12 +22466,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Shadowcast.md">Shadowcast</a></td>
+  <td colspan="11"><a href="Shadowcast.md">Shadowcast</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -23846,7 +22483,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -23867,7 +22503,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -23887,7 +22522,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>6</td>
   <td>9.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -23905,7 +22539,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -23924,7 +22557,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -23940,7 +22572,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>4.5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -23956,7 +22587,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -23972,7 +22602,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7.5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -23986,12 +22615,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Ironsing.md">Ironsing</a></td>
+  <td colspan="11"><a href="Ironsing.md">Ironsing</a></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -24008,7 +22636,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -24026,14 +22653,12 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -24043,14 +22668,12 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -24060,15 +22683,13 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -24078,7 +22699,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -24093,7 +22713,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>45</td>
   <td><b>✓</b></td>
 </tr>
@@ -24107,12 +22726,11 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>6</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Bloodrend.md">Bloodrend</a></td>
+  <td colspan="11"><a href="Bloodrend.md">Bloodrend</a></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -24126,7 +22744,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>4.5</td>
   <td>6.5</td>
   <td>1.22x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -24144,7 +22761,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -24162,7 +22778,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>8.5</td>
   <td>9.5</td>
   <td>0.86x</td>
-  <td>-</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -24179,7 +22794,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -24200,15 +22814,13 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -24218,14 +22830,12 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -24235,15 +22845,13 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -24253,7 +22861,6 @@ Elemental weapons scale off a certain element, but that does not mean that all o
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -24781,31 +23388,32 @@ For more in-depth info about the weapon class, see [Pistols](Pistols.md).
 
 Weapons/Weapon Skins that are exclusive for special people.
 
-| Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage | Provides Talent(s)? |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Scaled Damage | Provides Talent(s)? |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 Exclusive Weapons
 
 | **[Calamity Cinnabar](Calamity_Cinnabar.md)** | 75 SDW  
 40 HVY  
 LVL 10 | 22 | SDW: 9  
-HVY: 4 | \- | \- | 9 | 9 | 0.85x | 0.15s | 43.5 | ??? |
-| **[Keyblade](Keyblade.md)** | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
-| **[Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | \- | 36.5 | ??? |
+HVY: 4 | \- | \- | 9 | 9 | 0.85x  
+0.15s end. | 43.5 | ??? |
+| **[Keyblade](Keyblade.md)** | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
+| **[Moonseye Scalpel](<Carrion's_Moonseye_Scalpel.md>)** | 80 MED | 18.5 | INT: 13 | 25% | ??? | 5 | 9 | 0.96x | 36.5 | ??? |
 | **[Moon Blades](Moon_Blades.md) ([Bleed](Status_Effects.md#bleed))** | 60 LHT  
 30 INT | 13 | LHT: 8  
-INT: 2 | 30% | \- | 4 | 6 | 1.25x | \- | 22.8  
+INT: 2 | 30% | \- | 4 | 6 | 1.25x | 22.8  
 ([+3.4 BLD](Status_Effects.md#bleed)) | ??? |
-| **[Soulshot](Soulshot.md)** | 150 LHT | 30 | LHT: 12 | 50% | 10% | 7 | 12.5 | 1.3x | \- | 57 | ??? |
-| **[The Rock](The_Rock.md)** | 200 HVY | 102 | HVY: 12 | 25% | \- | 30 | 8 | 0.25x | \- | 193.8 | **✓** |
+| **[Soulshot](Soulshot.md)** | 150 LHT | 30 | LHT: 12 | 50% | 10% | 7 | 12.5 | 1.3x | 57 | ??? |
+| **[The Rock](The_Rock.md)** | 200 HVY | 102 | HVY: 12 | 25% | \- | 30 | 8 | 0.25x | 193.8 | **✓** |
 | **[Unsung Scythern](Unsung_Scythern.md)** | 75 HVY  
-LVL 10 | 26 | HVY: 9 | 10% | \- | 8 | 8 | 0.8x | \- | 43.6 | ??? |
-| **[Worldpainter Brush](Worldpainter_Brush.md)** | ??? | 23 | HVY: 7 | 20% | \- | 7 | 8.5 | 0.91x | \- | 35.1 | ??? |
+LVL 10 | 26 | HVY: 9 | 10% | 8 | 8 | 0.8x | \- | 43.6 | ??? |
+| **[Worldpainter Brush](Worldpainter_Brush.md)** | ??? | 23 | HVY: 7 | 20% | \- | 7 | 8.5 | 0.91x | 35.1 | ??? |
 | **[The Endless Wave](The_Endless_Wave.md)** | 60 HVY  
 50 STR | 25 | HVY: 8  
-STR: 1 | 50% | \- | 10 | 15 | 0.92x | \- | 41.9 | ??? |
+STR: 1 | 50% | 10 | 15 | 0.92x | \- | 41.9 | ??? |
 | **[Ebonshard Lexicon](Ebonshard_Lexicon.md)** | 200 HVY  
 150 STR | 30 | HVY: 6  
-STR: 10 | \- | 60% | 14 | 11 | 1x | \- | 66 | ??? |
+STR: 10 | 60% | 14 | 11 | 1x | \- | 66 | ??? |
 
 **All:**
 
@@ -24823,12 +23431,11 @@ Every player-obtainable weapon, excluding offhands.
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
 <tr>
-  <td colspan="12"><a href="Daggers.md">Daggers</a></td>
+  <td colspan="11"><a href="Daggers.md">Daggers</a></td>
 </tr>
 <tr>
   <td><b><a href="Formless_Shard.md">Formless Shard</a></b></td>
@@ -24840,7 +23447,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>2</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>5</td>
   <td><b>✗</b></td>
 </tr>
@@ -24854,7 +23460,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>14.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -24870,7 +23475,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -24884,7 +23488,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>2</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>19.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -24900,7 +23503,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>2</td>
   <td>11</td>
   <td>1.3x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -24914,7 +23516,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21</td>
   <td><b>✓</b></td>
 </tr>
@@ -24928,7 +23529,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4.5</td>
   <td>5.8</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -24944,7 +23544,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>21.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -24958,7 +23557,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -24973,7 +23571,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -24989,7 +23586,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -25005,7 +23601,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -25022,7 +23617,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -25037,7 +23631,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -25055,7 +23648,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -25072,7 +23664,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3.5</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -25086,7 +23677,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -25100,7 +23690,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -25114,7 +23703,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6.5</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -25128,7 +23716,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -25144,7 +23731,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -25160,7 +23746,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6.5</td>
   <td>1.15x</td>
-  <td>-</td>
   <td>26.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -25174,7 +23759,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -25189,7 +23773,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -25204,14 +23787,12 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -25221,7 +23802,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -25235,7 +23815,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -25249,15 +23828,14 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>5.8</td>
   <td>1.24x</td>
-  <td>-</td>
   <td>23.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Fists.md">Fists</a></td>
+  <td colspan="11"><a href="Fists.md">Fists</a></td>
 </tr>
 <tr>
-  <td colspan="12"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
+  <td colspan="11"><b><a href="Fists.md#styles"><font>Fighting Styles</font></a></b></td>
 </tr>
 <tr>
   <td><b><a href="Fang_and_Coil.md">Fang and Coil</a></b></td>
@@ -25269,7 +23847,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -25283,7 +23860,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -25297,8 +23873,21 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
+  <td><b>✗</b></td>
+</tr>
+<tr>
+  <td><b><a href="Infected.md">Infected</a></b></td>
+  <td><a href="Hallowtide.md">Hallowtide</a><br>
+  <small>View <a href="Infected.md">Infected</a> for more info.</small></td>
+  <td>10</td>
+  <td>N/A</td>
+  <td>-</td>
+  <td>-</td>
+  <td>9</td>
+  <td>6</td>
+  <td>1.3x</td>
+  <td>10</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
@@ -25311,7 +23900,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -25325,7 +23913,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3 (9.2)</td>
   <td><b>✗</b></td>
 </tr>
@@ -25339,12 +23926,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>6</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><b>Cestus</b></td>
+  <td colspan="11"><b>Cestus</b></td>
 </tr>
 <tr>
   <td><b><a href="Handcuffs.md">Handcuffs</a></b></td>
@@ -25356,7 +23942,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>1</td>
   <td>3</td>
   <td>0.6x</td>
-  <td>-</td>
   <td>1</td>
   <td><b>✗</b></td>
 </tr>
@@ -25370,7 +23955,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>21.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -25385,7 +23969,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>6.5</td>
   <td>1.14x</td>
-  <td>-</td>
   <td>22.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -25399,7 +23982,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -25415,7 +23997,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>25.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -25431,7 +24012,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -25447,7 +24027,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -25465,7 +24044,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -25479,7 +24057,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4.5</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>24.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -25493,7 +24070,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>26.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -25509,7 +24085,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.12x</td>
-  <td>-</td>
   <td>25.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -25525,7 +24100,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -25539,7 +24113,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24<br>
   (<a href="Status_Effects.md#bleed">+3.6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -25555,7 +24128,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>6</td>
   <td>1.11x</td>
-  <td>-</td>
   <td>25.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -25572,7 +24144,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6.5</td>
   <td>1.13x</td>
-  <td>-</td>
   <td>25.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -25587,7 +24158,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>6</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -25603,7 +24173,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5.5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>26</td>
   <td><b>✓</b></td>
 </tr>
@@ -25618,7 +24187,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>6</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30</td>
   <td><b>✗</b></td>
 </tr>
@@ -25632,12 +24200,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Rapiers.md">Rapiers</a></td>
+  <td colspan="11"><a href="Rapiers.md">Rapiers</a></td>
 </tr>
 <tr>
   <td><b><a href="Quickfang.md">Quickfang</a></b></td>
@@ -25649,7 +24216,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>18.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -25663,7 +24229,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -25678,7 +24243,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -25694,7 +24258,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -25710,7 +24273,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -25724,7 +24286,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -25738,7 +24299,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8.1</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -25752,7 +24312,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>27</td>
   <td><b>✗</b></td>
 </tr>
@@ -25767,7 +24326,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>22.4<br>
   (<a href="Status_Effects.md#bleed">+3.4 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -25782,7 +24340,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>24.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -25796,12 +24353,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>19.8</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Pistols.md">Pistols</a></td>
+  <td colspan="11"><a href="Pistols.md">Pistols</a></td>
 </tr>
 <tr>
   <td><b><a href="Silversix.md">Silversix</a></b></td>
@@ -25813,7 +24369,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>19.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -25827,7 +24382,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>20.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -25843,7 +24397,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✗</b></td>
 </tr>
@@ -25859,7 +24412,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -25873,7 +24425,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -25887,7 +24438,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3.5</td>
   <td>11</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -25901,7 +24451,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>11</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>26.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -25917,7 +24466,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>2.5</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -25931,7 +24479,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -25945,12 +24492,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>1</td>
   <td>10.5</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>23.7</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Swords.md">Swords</a></td>
+  <td colspan="11"><a href="Swords.md">Swords</a></td>
 </tr>
 <tr>
   <td><b><a href="Sword_(weapon).md">Sword</a></b></td>
@@ -25962,7 +24508,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -25976,7 +24521,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>7.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -25992,7 +24536,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -26009,7 +24552,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -26023,7 +24565,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>18.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -26039,7 +24580,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -26053,7 +24593,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -26069,7 +24608,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -26085,7 +24623,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -26099,7 +24636,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>28.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -26116,7 +24652,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -26133,7 +24668,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -26152,7 +24686,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -26171,7 +24704,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -26189,7 +24721,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -26204,7 +24735,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>25.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -26220,7 +24750,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>7.5</td>
   <td>1.05x</td>
-  <td>-</td>
   <td>29.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -26234,7 +24763,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5.5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.9</td>
   <td><b>✓</b></td>
 </tr>
@@ -26249,7 +24777,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>28.8<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -26267,7 +24794,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -26281,7 +24807,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -26296,7 +24821,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6</td>
   <td>1x</td>
-  <td>-</td>
   <td>24</td>
   <td><b>✓</b></td>
 </tr>
@@ -26313,7 +24837,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>27.4<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -26328,7 +24851,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -26342,7 +24864,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -26358,7 +24879,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -26374,7 +24894,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -26390,7 +24909,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -26407,7 +24925,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>7.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -26423,7 +24940,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -26439,7 +24955,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -26455,7 +24970,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -26469,7 +24983,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>7.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -26486,7 +24999,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -26500,7 +25012,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✓</b></td>
 </tr>
@@ -26515,7 +25026,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5.5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -26532,7 +25042,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -26547,7 +25056,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -26561,8 +25069,7 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>5</td>
   <td>8</td>
-  <td>1.00x</td>
-  <td>-</td>
+  <td>1x</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -26577,7 +25084,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>7.5</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>30.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -26592,7 +25098,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>8</td>
   <td>1.03x</td>
-  <td>-</td>
   <td>30.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -26607,7 +25112,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -26622,7 +25126,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -26637,7 +25140,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -26652,7 +25154,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -26667,7 +25168,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -26682,7 +25182,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -26696,7 +25195,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -26710,7 +25208,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5.5</td>
   <td>8.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -26724,12 +25221,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Clubs.md">Clubs</a></td>
+  <td colspan="11"><a href="Clubs.md">Clubs</a></td>
 </tr>
 <tr>
   <td><b><a href="Mace.md">Mace</a></b></td>
@@ -26741,7 +25237,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>7.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -26755,7 +25250,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>22<br>
   (<a href="Status_Effects.md#bleed">+3.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -26772,7 +25266,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -26791,7 +25284,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -26807,7 +25299,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>23.2<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -26822,7 +25313,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>7.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -26833,7 +25323,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>18</td>
   <td>MED: 5<br>
   MND: 3</td>
-  <td>-</td>
   <td>-</td>
   <td>7</td>
   <td>7.5</td>
@@ -26852,7 +25341,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>27.6<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -26867,13 +25355,12 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>7.5</td>
   <td>0.98x</td>
-  <td>-</td>
   <td>21.2<br>
   (<a href="Status_Effects.md#bleed">+3.2 BLD</a>)</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Spears.md">Spears</a></td>
+  <td colspan="11"><a href="Spears.md">Spears</a></td>
 </tr>
 <tr>
   <td><b><a href="Irontusk.md">Irontusk</a></b></td>
@@ -26885,7 +25372,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -26899,7 +25385,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>20.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -26914,7 +25399,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>23.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -26930,7 +25414,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>26.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -26946,7 +25429,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -26960,7 +25442,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -26982,7 +25463,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -26995,14 +25475,13 @@ Every player-obtainable weapon, excluding offhands.
   LVL 10</td>
   <td>16.5</td>
   <td>MED: 3<br>
-  SDW: 4.5<br>
-  MND: 3</td>
+  MND: 3<br>
+  SDW: 4.5</td>
   <td>15%</td>
   <td>-</td>
   <td>6</td>
   <td>9.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -27019,7 +25498,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>27.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -27035,7 +25513,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -27052,7 +25529,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8.5</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -27066,7 +25542,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>26.8<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -27081,7 +25556,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -27098,7 +25572,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -27113,7 +25586,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -27127,7 +25599,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>28.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -27143,7 +25614,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -27161,7 +25631,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>11</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -27177,7 +25646,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -27192,7 +25660,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>26.1<br>
   (<a href="Status_Effects.md#bleed">+3.9 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -27200,8 +25667,7 @@ Every player-obtainable weapon, excluding offhands.
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -27211,7 +25677,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -27226,12 +25691,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>10</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Staves.md">Staves</a></td>
+  <td colspan="11"><a href="Staves.md">Staves</a></td>
 </tr>
 <tr>
   <td><b><a href="Wooden_Staff.md">Wooden Staff</a></b></td>
@@ -27243,9 +25707,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>6</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>22</td>
-  <td><b>✗</b></td>
+  <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Duskpole.md">Duskpole</a></b></td>
@@ -27258,7 +25721,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -27274,7 +25736,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6.5</td>
   <td>8</td>
   <td>0.96x</td>
-  <td>-</td>
   <td>33.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -27289,12 +25750,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12">Rifles</td>
+  <td colspan="11">Rifles</td>
 </tr>
 <tr>
   <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
@@ -27306,7 +25766,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>24.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -27320,7 +25779,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>22</td>
   <td><b>✓</b></td>
 </tr>
@@ -27336,7 +25794,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -27352,7 +25809,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -27367,7 +25823,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>32</td>
   <td><b>✗</b></td>
 </tr>
@@ -27381,7 +25836,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>28.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -27395,7 +25849,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -27413,12 +25866,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Twinblades.md">Twinblades</a></td>
+  <td colspan="11"><a href="Twinblades.md">Twinblades</a></td>
 </tr>
 <tr>
   <td><b><a href="Iron_Twinblade.md">Iron Twinblade</a></b></td>
@@ -27430,7 +25882,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>7</td>
   <td>1x</td>
-  <td>-</td>
   <td>19.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -27446,7 +25897,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>24.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -27463,7 +25913,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>7</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>23.5<br>
   (<a href="Status_Effects.md#bleed">+3.5 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -27480,7 +25929,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✗</b></td>
 </tr>
@@ -27494,7 +25942,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8.4</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>29.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -27508,7 +25955,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>8</td>
   <td>1.01x</td>
-  <td>-</td>
   <td>24.8<br>
   (<a href="Status_Effects.md#bleed">+3.7 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -27523,7 +25969,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>7.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>31.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -27537,12 +25982,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>0.9x</td>
-  <td>-</td>
   <td>22.7</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12">Bows</td>
+  <td colspan="11">Bows</td>
 </tr>
 <tr>
   <td><b><a href="Ironcry.md">Ironcry</a></b></td>
@@ -27554,7 +25998,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>12.5</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>22.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -27568,7 +26011,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>21.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -27584,7 +26026,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4.5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -27600,12 +26041,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greataxes.md">Greataxes</a></td>
+  <td colspan="11"><a href="Greataxes.md">Greataxes</a></td>
 </tr>
 <tr>
   <td><b><a href="Battleaxe.md">Battleaxe</a></b></td>
@@ -27617,7 +26057,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✗</b></td>
 </tr>
@@ -27634,7 +26073,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -27651,7 +26089,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -27667,7 +26104,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -27684,7 +26120,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -27698,7 +26133,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -27712,7 +26146,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>8.5</td>
   <td>0.73x</td>
-  <td>-</td>
   <td>41.1<br>
   (<a href="Status_Effects.md#bleed">+6.2 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -27727,7 +26160,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -27741,7 +26173,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -27755,7 +26186,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -27769,7 +26199,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>8.5</td>
   <td>0.91x</td>
-  <td>-</td>
   <td>35.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -27783,7 +26212,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>8.5</td>
   <td>0.76x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -27799,7 +26227,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -27815,7 +26242,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -27832,7 +26258,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -27848,7 +26273,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -27862,7 +26286,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>10</td>
   <td>8.5</td>
   <td>0.77x</td>
-  <td>-</td>
   <td>36.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -27876,8 +26299,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>10%</td>
   <td>7</td>
   <td>10</td>
-  <td>0.81x</td>
-  <td>0.05s</td>
+  <td>0.81x<br>
+  0.05s end.</td>
   <td>35.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -27892,15 +26315,14 @@ Every player-obtainable weapon, excluding offhands.
   <td>25%</td>
   <td>10</td>
   <td>10</td>
-  <td>0.7x</td>
-  <td>0.05s</td>
+  <td>0.7x<br>
+  0.05s end.</td>
   <td>49.3</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -27910,7 +26332,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -27923,8 +26344,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>8</td>
   <td>10</td>
-  <td>0.8x</td>
-  <td>0.05s</td>
+  <td>0.8x<br>
+  0.05s end.</td>
   <td>51.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -27938,12 +26359,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>32.5</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greatswords.md">Greatswords</a></td>
+  <td colspan="11"><a href="Greatswords.md">Greatswords</a></td>
 </tr>
 <tr>
   <td><b><a href="Avenger.md">Avenger</a></b></td>
@@ -27955,7 +26375,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>31.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -27973,7 +26392,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -27990,7 +26408,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>35.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -28008,7 +26425,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>36.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -28025,7 +26441,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -28040,7 +26455,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -28057,7 +26471,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>9</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>36.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -28074,7 +26487,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -28091,7 +26503,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>35.2<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -28108,7 +26519,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -28125,7 +26535,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8.5</td>
   <td>9.5</td>
   <td>0.86x</td>
-  <td>-</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -28144,7 +26553,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -28161,7 +26569,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -28177,7 +26584,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>10</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>35<br>
   (<a href="Status_Effects.md#bleed">+5.3 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -28192,7 +26598,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>8</td>
   <td>0.84x</td>
-  <td>-</td>
   <td>43.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -28207,7 +26612,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -28225,7 +26629,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>9</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -28242,7 +26645,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>39.2<br>
   (<a href="Status_Effects.md#bleed">+5.9 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -28260,7 +26662,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -28277,7 +26678,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -28291,7 +26691,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>38.5<br>
   (<a href="Status_Effects.md#bleed">+5.8 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -28307,7 +26706,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -28325,7 +26723,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9(FULL)<br>
   7(BRKN)</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.2(FULL)<br>
   <abbr>28.1</abbr>(BRKN)<br>
   (<a href="Status_Effects.md#bleed">+4.2 BLD</a>)(BRKN)</td>
@@ -28342,7 +26739,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>10</td>
   <td>8.5</td>
   <td>0.79x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -28357,7 +26753,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>40.2<br>
   (<a href="Status_Effects.md#bleed">+6 BLD</a>)</td>
   <td><b>✗</b></td>
@@ -28373,8 +26768,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>10%</td>
   <td>12</td>
   <td>9.5</td>
-  <td>0.66x</td>
-  <td>0.1s</td>
+  <td>0.66x<br>
+  0.1s end.</td>
   <td>49.4</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
@@ -28388,7 +26783,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>45</td>
   <td><b>✓</b></td>
 </tr>
@@ -28401,8 +26795,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
-  <td>0.84x</td>
-  <td>0.1s</td>
+  <td>0.84x<br>
+  0.1s end.</td>
   <td>57</td>
   <td><b>✗</b></td>
 </tr>
@@ -28416,7 +26810,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>8.5</td>
   <td>0.88x</td>
-  <td>-</td>
   <td>35.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -28430,13 +26823,13 @@ Every player-obtainable weapon, excluding offhands.
   <td>10%</td>
   <td>12</td>
   <td>13</td>
-  <td>0.75x</td>
-  <td>0.15s</td>
+  <td>0.75x<br>
+  0.15s end.</td>
   <td>45.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greathammers.md">Greathammers</a></td>
+  <td colspan="11"><a href="Greathammers.md">Greathammers</a></td>
 </tr>
 <tr>
   <td><b><a href="Steel_Maul.md">Steel Maul</a></b><br>
@@ -28452,7 +26845,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -28469,7 +26861,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -28484,7 +26875,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>39.1</td>
   <td><b>✓</b></td>
 </tr>
@@ -28500,8 +26890,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.82x</td>
-  <td>0.05s</td>
+  <td>0.82x<br>
+  0.05s end.</td>
   <td>42.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -28519,7 +26909,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>47.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -28534,7 +26923,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>10</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -28548,7 +26936,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -28566,7 +26953,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>9</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>38.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -28583,7 +26969,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9.5</td>
   <td>9</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>40.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -28599,7 +26984,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -28615,7 +26999,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -28630,8 +27013,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>10%</td>
   <td>13</td>
   <td>9</td>
-  <td>0.73x</td>
-  <td>0.05s</td>
+  <td>0.73x<br>
+  0.05s end.</td>
   <td>43.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -28647,7 +27030,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -28661,7 +27043,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>42.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -28676,7 +27057,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✗</b></td>
 </tr>
@@ -28691,7 +27071,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>12</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -28707,7 +27086,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -28721,8 +27099,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>-</td>
   <td>9</td>
   <td>10</td>
-  <td>0.62x</td>
-  <td>0.05s</td>
+  <td>0.62x<br>
+  0.05s end.</td>
   <td>49</td>
   <td><b>✗</b></td>
 </tr>
@@ -28737,12 +27115,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>30.5</td>
   <td><b>✓</b> <b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Greatcannons.md">Greatcannons</a></td>
+  <td colspan="11"><a href="Greatcannons.md">Greatcannons</a></td>
 </tr>
 <tr>
   <td><b><a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></b></td>
@@ -28755,7 +27132,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>8.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>39.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -28770,7 +27146,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9.5</td>
   <td>8</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>41.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -28785,7 +27160,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>7.5</td>
   <td>0.81x</td>
-  <td>-</td>
   <td>41.9</td>
   <td><b>✗</b></td>
 </tr>
@@ -28800,12 +27174,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>10</td>
   <td>8.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Flamecharm.md">Flamecharm</a></td>
+  <td colspan="11"><a href="Flamecharm.md">Flamecharm</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Flame.md"><font>Hero's Blade of Flame</font></a></b></td>
@@ -28818,7 +27191,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -28833,7 +27205,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -28850,7 +27221,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>35.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -28866,7 +27236,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>8</td>
   <td>0.94x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✗</b></td>
 </tr>
@@ -28882,7 +27251,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>3</td>
   <td>7</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>29</td>
   <td><b>✓</b></td>
 </tr>
@@ -28897,7 +27265,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>9</td>
   <td>8.5</td>
   <td>0.82x</td>
-  <td>-</td>
   <td>40.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -28911,7 +27278,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -28929,12 +27295,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Frostdraw.md">Frostdraw</a></td>
+  <td colspan="11"><a href="Frostdraw.md">Frostdraw</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Frost.md"><font>Hero's Blade of Frost</font></a></b></td>
@@ -28947,7 +27312,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -28964,7 +27328,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>42</td>
   <td><b>✓</b></td>
 </tr>
@@ -28980,7 +27343,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>28.5<br>
   (<a href="Status_Effects.md#bleed">+4.3 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -28998,7 +27360,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>8.5</td>
   <td>0.85x</td>
-  <td>-</td>
   <td>40.2</td>
   <td><b>✓</b></td>
 </tr>
@@ -29016,7 +27377,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -29032,7 +27392,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -29047,7 +27406,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>24.3</td>
   <td><b>✗</b></td>
 </tr>
@@ -29061,7 +27419,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -29079,12 +27436,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Thundercall.md">Thundercall</a></td>
+  <td colspan="11"><a href="Thundercall.md">Thundercall</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Lightning.md"><font>Hero's Blade of Lightning</font></a></b></td>
@@ -29097,7 +27453,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -29113,7 +27468,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>32.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -29130,7 +27484,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8</td>
   <td>1.02x</td>
-  <td>-</td>
   <td>29.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -29146,8 +27499,8 @@ Every player-obtainable weapon, excluding offhands.
   <td>5%</td>
   <td>8</td>
   <td>8.5</td>
-  <td>0.82x</td>
-  <td>0.05s</td>
+  <td>0.82x<br>
+  0.05s end.</td>
   <td>42.3</td>
   <td><b>✓</b></td>
 </tr>
@@ -29161,12 +27514,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Galebreathe.md">Galebreathe</a></td>
+  <td colspan="11"><a href="Galebreathe.md">Galebreathe</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Wind.md"><font>Hero's Blade of Wind</font></a></b></td>
@@ -29179,7 +27531,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -29195,7 +27546,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6.5</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>27.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -29212,7 +27562,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>7.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>30.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -29231,7 +27580,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -29249,7 +27597,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>6</td>
   <td>1.1x</td>
-  <td>-</td>
   <td>31.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -29265,7 +27612,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>10</td>
   <td>8.5</td>
   <td>0.83x</td>
-  <td>-</td>
   <td>49.4</td>
   <td><b>✓</b></td>
 </tr>
@@ -29279,12 +27625,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Shadowcast.md">Shadowcast</a></td>
+  <td colspan="11"><a href="Shadowcast.md">Shadowcast</a></td>
 </tr>
 <tr>
   <td><b><a href="Hero's_Blade_of_Shadow.md"><font>Hero's Blade of Shadow</font></a></b></td>
@@ -29297,7 +27642,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -29318,7 +27662,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -29338,7 +27681,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>9.5</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>29.5<br>
   (<a href="Status_Effects.md#bleed">+4.4 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -29356,7 +27698,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8.5</td>
   <td>9</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>43.5</td>
   <td><b>✓</b></td>
 </tr>
@@ -29375,7 +27716,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -29391,7 +27731,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4.5</td>
   <td>12</td>
   <td>1x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
@@ -29407,7 +27746,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>8</td>
   <td>1.09x</td>
-  <td>-</td>
   <td>27.7</td>
   <td><b>✓</b></td>
 </tr>
@@ -29423,7 +27761,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>7.5</td>
   <td>9</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>32.6</td>
   <td><b>✓</b></td>
 </tr>
@@ -29437,12 +27774,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8.5</td>
   <td>1.04x</td>
-  <td>-</td>
   <td>28</td>
   <td><b>✗</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Ironsing.md">Ironsing</a></td>
+  <td colspan="11"><a href="Ironsing.md">Ironsing</a></td>
 </tr>
 <tr>
   <td><b><a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a> (<a href="Status_Effects.md#bleed">1H Bleed</a>)</b></td>
@@ -29459,7 +27795,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>1x (2H)<br>
   1.05x (1H)</td>
-  <td>-</td>
   <td>30.5 (2H)<br>
   27.5 (1H)<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>) (1H)</td>
@@ -29477,14 +27812,12 @@ Every player-obtainable weapon, excluding offhands.
   <td>1</td>
   <td>10</td>
   <td>1.17x</td>
-  <td>-</td>
   <td>27.5</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -29494,14 +27827,12 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -29511,15 +27842,13 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -29529,7 +27858,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>
@@ -29544,7 +27872,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8</td>
   <td>12.5</td>
   <td>0.8x</td>
-  <td>-</td>
   <td>45</td>
   <td><b>✓</b></td>
 </tr>
@@ -29558,12 +27885,11 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>8</td>
   <td>0.97x</td>
-  <td>-</td>
   <td>33.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
-  <td colspan="12"><a href="Bloodrend.md">Bloodrend</a></td>
+  <td colspan="11"><a href="Bloodrend.md">Bloodrend</a></td>
 </tr>
 <tr>
   <td><b><a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></b></td>
@@ -29577,7 +27903,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4.5</td>
   <td>6.5</td>
   <td>1.22x</td>
-  <td>-</td>
   <td>23.2</td>
   <td><b>✗</b></td>
 </tr>
@@ -29595,7 +27920,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>27.1<br>
   (<a href="Status_Effects.md#bleed">+4.1 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -29613,7 +27937,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>8.5</td>
   <td>9.5</td>
   <td>0.86x</td>
-  <td>-</td>
   <td>31.8<br>
   (<a href="Status_Effects.md#bleed">+4.8 BLD</a>)</td>
   <td><b>✓</b></td>
@@ -29630,7 +27953,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5.5</td>
   <td>6.5</td>
   <td>1.08x</td>
-  <td>-</td>
   <td>26.8</td>
   <td><b>✓</b></td>
 </tr>
@@ -29651,15 +27973,13 @@ Every player-obtainable weapon, excluding offhands.
   <td>6</td>
   <td>9.5</td>
   <td>0.92x</td>
-  <td>-</td>
   <td>26.9<br>
   (<a href="Status_Effects.md#bleed">+4 BLD</a>)</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Axe.md">Alloyblood Axe</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#rising-plasma">Rising Plasma</a> (Mantra)</td>
   <td>24</td>
   <td>HVY: 3<br>
   BLD: 5<br>
@@ -29669,14 +27989,12 @@ Every player-obtainable weapon, excluding offhands.
   <td>7</td>
   <td>8</td>
   <td>0.87x</td>
-  <td>-</td>
   <td>47.4</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Daggers.md">Alloyblood Daggers</a></b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#infused-slash">Infused Slash</a> (Mantra)</td>
   <td>14.5</td>
   <td>LHT: 3<br>
   BLD: 5<br>
@@ -29686,15 +28004,13 @@ Every player-obtainable weapon, excluding offhands.
   <td>4</td>
   <td>6</td>
   <td>1.2x</td>
-  <td>-</td>
   <td>28.6</td>
   <td><b>✓</b></td>
 </tr>
 <tr>
   <td><b><a href="Alloyblood_Spear.md">Alloyblood Spear</a><br>
   (<a href="Status_Effects.md#bleed">Bleed</a>)</b></td>
-  <td><a href="Talents.md#composite-path-alloyblood">Composite Path: Alloyblood</a> (Talent)<br>
-  <a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
+  <td><a href="Hybrid_Abilities.md#spinning-serum">Spinning Serum</a> (Mantra)</td>
   <td>18</td>
   <td>MED: 3<br>
   BLD: 5<br>
@@ -29704,7 +28020,6 @@ Every player-obtainable weapon, excluding offhands.
   <td>5</td>
   <td>9</td>
   <td>0.95x</td>
-  <td>-</td>
   <td>35.6<br>
   (<a href="Status_Effects.md#bleed">+5.3</a>)</td>
   <td><b>✓</b></td>

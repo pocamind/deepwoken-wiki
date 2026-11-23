@@ -64,7 +64,6 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <th>Posture Damage</th>
   <th>Range</th>
   <th>Swing Speed</th>
-  <th>Endlag</th>
   <th>Scaled Damage</th>
   <th>Provides Talent(s)?</th>
 </tr>
@@ -77,7 +76,6 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>4</td>
   <td>6</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>31.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -90,7 +88,6 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>3</td>
   <td>12</td>
   <td>1.25x</td>
-  <td>-</td>
   <td>29.8</td>
   <td><b>✗</b></td>
 </tr>
@@ -103,7 +100,6 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>5.5</td>
   <td>8.5</td>
   <td>1.06x</td>
-  <td>-</td>
   <td>38.1</td>
   <td><b>✗</b></td>
 </tr>
@@ -116,7 +112,6 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>5</td>
   <td>10</td>
   <td>0.93x</td>
-  <td>-</td>
   <td>37.7</td>
   <td><b>✗</b></td>
 </tr>
@@ -128,8 +123,8 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>-</td>
   <td>8</td>
   <td>10</td>
-  <td>0.8x</td>
-  <td>0.05s</td>
+  <td>0.8x<br>
+  0.05s end.</td>
   <td>51.4</td>
   <td><b>✗</b></td>
 </tr>
@@ -141,8 +136,8 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
   <td>-</td>
   <td>8.5</td>
   <td>9.2</td>
-  <td>0.84x</td>
-  <td>0.1s</td>
+  <td>0.84x<br>
+  0.1s end.</td>
   <td>57</td>
   <td><b>✗</b></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 234721
+revid: 235461
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics, Legendary Weapons, Relic Weapon]
@@ -20,7 +20,7 @@ categories: [Weapons, Weapons with Talents, Swords, Weapons with Unique Critical
 | swing speed | 1.02x |
 | attack duration | 0.6s |
 | chip damage | 20% |
-| special effect | M1s apply 50% of scaled damage as Wither |
+| talent | Wilting Edge - The vile nature of your blade causes opponents to decay on successful swings, inflicting Wither. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -40,21 +40,19 @@ _This might have not been the page you were looking for, if you were looking for
 
 The twisted, awoken form of the [Dormant Splinter](Dormant_Splinter.md) crafted using the soul within [The Cold Forge](The_Cold_Forge.md) with sufficient ores and a vessel.
 
-The weapon has the following passive:
-
--   **Umbrite Infusion** - Basic attacks apply 50% of its scaled damage (before modifiers) as Wither. With the [Darkened Bastion](Darkened_Bastion.md) Outfit equipped, the weapon will apply an additional 25% scaled damage as Wither on M1s. This stacks additively with the innate Wither application.
-
 It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
 -   [Dormant Splinter](Dormant_Splinter.md)
 -   [Razor Cutlass](Razor_Cutlass.md)
 -   3 [Umbrite](Ores.md#umbrite) or 1 [Pure Umbrite](Ores.md#umbrite)
 
-## Talents
+## Talent
 
 Equipping the Umbrite Witherblade grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Wilting Edge**](Talents.md#wilting-edge)
+[**Wilting Edge**](Talents.md#wilting-edge) allows your Basic Attacks to apply 50% of their scaled damage dealt as [Wither](Status_Effects.md#wither).
+
+The [Darkened Bastion](Darkened_Bastion.md)'s Wither application is also doubled on this weapon, from 12.5% of scaled damage to 25%. This stacks additively with the above 50%.
 
 ## Critical
 

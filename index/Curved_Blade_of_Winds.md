@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 235447
+revid: 235453
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -47,6 +47,8 @@ The **Curved Blade of Winds** is a Legendary medium [Sword](Weapons.md) that can
 Equipping the Curved Blade of Winds grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 [**Razor Wind**](Talents.md#razor-wind) ensures M1 attacks now apply Aftercut on hit, dealing 5% of the initial damage of the attack as additional Galebreathe damage. This does not require you to have the [After Cut](Talents.md#after-cut) Talent.
+
+This Talent is shared with the [Wraithclaw](Wraithclaw.md).
 
 ## Critical
 

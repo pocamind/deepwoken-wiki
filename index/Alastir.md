@@ -102,7 +102,7 @@ Alastir is located at the [Pathfinder's Respite](<Pathfinder's_Respite.md>) in [
 
 **Quest:**
 
-The player is tasked with collecting [Forgotten Villagers](Forgotten_Villager.md) around [Erisia](Erisia.md) and bringing them to Alastir.
+The player is tasked with collecting [Forgotten Villagers](A_Vagrant.md) around [Erisia](Erisia.md) and bringing them to Alastir.
 
 <table>
 <tbody>
