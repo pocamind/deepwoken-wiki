@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 235476
+revid: 235501
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -39,7 +39,7 @@ If Portals is corrupted, you move faster and can take objects and _ALLIED_ playe
 When obtained, Portals will spend its points on the following stats:
 
 -   **Dive:** The dive variant will allow you to double tap C to dive into the ground. When ended or cancelled, you are shot back up. Acts as uppercut if an entity is hit.
-    -   Deals around 50 damage, it is unknown whether this is typeless or physical.
+    -   Deals 50 physical damage with x6.48 pve scaling (324 pve damage).
     -   Must be timed accurately in order to activate (requires a slight pause).
     -   Increases the cooldown by 5-10s if used as such.
     -   Landing the kick will lower the cooldown of the bell by 15s.

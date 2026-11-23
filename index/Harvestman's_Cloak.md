@@ -1,9 +1,11 @@
 ---
 title: "Harvestman's Cloak"
-revid: 234518
+revid: 235516
 source: https://deepwoken.fandom.com/wiki/Harvestman's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
+categories: [Event Only Content, Equipment, Torso, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Harvestman's Cloak
@@ -23,7 +25,7 @@ categories: [Equipment, Torso, Hallowtide, Equipment with Exclusive Talents, Equ
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Harvestman |
+| obtainment | Any Blacksmith if you have the Harvestman Hallowtide Medal [5 Crowns], The Harvestman |
 | description | According to the various folk beliefs of Lumen, to ensure a successful harvest, a farmer must offer their prayer to an effigy of the Harvestman. Made from dried straws of Ichorgrass, it is said that on rare occasion, these effigies can come to life - a true blessing from the Harvestman himself. |
 
 Harvestman Set

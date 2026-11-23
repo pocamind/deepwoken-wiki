@@ -1,9 +1,11 @@
 ---
 title: Wreath of the Ardenstar
-revid: 234409
+revid: 235523
 source: https://deepwoken.fandom.com/wiki/Wreath_of_the_Ardenstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Head, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
+categories: [Equipment with Styles, Event Only Content, Equipment, Head, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Wreath of the Ardenstar
@@ -22,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Hallowtide, Equipment with 
 | droppable | No |
 | enchantable | Only on obtainment[1] |
 | pass down | Yes |
-| obtainment | Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [15 Knowledge], Goodie Bag, The Harvestman |
 | description | At Hallow's tide, with reaping blade - o, Ardenstar, we call thy name! |
 
 ## Description

@@ -1,9 +1,11 @@
 ---
 title: "Familiar Prince's Armor"
-revid: 235261
+revid: 235526
 source: https://deepwoken.fandom.com/wiki/Familiar_Prince's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Unique Outfits, Event Only Content, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Familiar Prince's Armor
@@ -20,7 +22,7 @@ categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talen
 | durability | 3250 |
 | resistances | +35% Physical Armor , +35% Elemental Armor |
 | talents | Light Piercer |
-| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [3 Knowledge], Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [1 Crown], Goodie Bag, The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 

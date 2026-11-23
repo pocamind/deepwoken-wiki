@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 233677
+revid: 235531
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -414,8 +414,8 @@ Sold Items
     <li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Egg.md">Egg</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Terrapod_Shell.md">Terrapod Shell</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a></li>
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a> (<a href="Hallowtide.md">Hallowtide</a> only)</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
-    <li><b>For 5 </b>: <a href="Dread_Serpent's_Mane.md">Dread Serpent's Mane</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>
+    <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
+    <li><b>For 5 </b>: <a href="Dread_Serpent's_Mane.md">Dread Serpent's Mane</a>, <a href="Gilded_Needle.md">Gilded Needle</a>
   <ul>
     <li><a href="Enchant_Stone.md"><b>Enchant Stones</b></a> &amp; <a href="Enchant_Grease.md"><b>Enchant Grease</b></a>: <a href="Allure.md">Allure</a>, <a href="Bluster.md">Bluster</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a>, <a href="Drowned.md">Drowned</a>, <a href="Stench.md">Stench</a>, <a href="Stone.md">Stone</a>, <a href="Vampirism.md">Vampirism</a></li>
   </ul></li>

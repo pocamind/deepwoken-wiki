@@ -1,11 +1,11 @@
 ---
 title: Mask of Phantoms
-revid: 235071
+revid: 235520
 source: https://deepwoken.fandom.com/wiki/Mask_of_Phantoms
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Event Only Content, Equipment, Face, Masks, Hallowtide, Event Item]
 notices:
-  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Mask of Phantoms
@@ -22,7 +22,7 @@ notices:
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Goodie Bag |
+| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [15 Knowledge], Goodie Bag |
 | description | Masquerade! Paper faces on parade! |
 
 Phantom Set

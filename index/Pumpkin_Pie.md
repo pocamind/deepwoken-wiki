@@ -1,9 +1,11 @@
 ---
 title: Pumpkin Pie
-revid: 214988
+revid: 235533
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food]
+categories: [Event Only Content, Food, Event Item, Hallowtide]
+notices:
+  - "This page contains Event Exclusive Content This item requires Pumpkins to make, which are exclusive to the Hallowtide event."
 ---
 
 # Pumpkin Pie

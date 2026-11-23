@@ -1,9 +1,11 @@
 ---
 title: Corvidirge Severants
-revid: 233358
+revid: 235504
 source: https://deepwoken.fandom.com/wiki/Corvidirge_Severants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Medium Weapons, Light Weapons, Daggers, Twinblades, Hallowtide, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with Multiple Classes]
+categories: [Event Only Content, Weapons, Medium Weapons, Light Weapons, Daggers, Twinblades, Hallowtide, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with Multiple Classes]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Corvidirge Severants
@@ -17,7 +19,7 @@ categories: [Weapons, Medium Weapons, Light Weapons, Daggers, Twinblades, Hallow
 | scaling | LHT: 5, MED: 5 |
 | posture damage | 5 |
 | range | 7 Sweep |
-| swing speed | 1.1X |
+| swing speed | 1.1x |
 | attack duration | 0.5s |
 | penetration | 15% |
 | special effect | This weapon can proc both Twinblade and Dagger Talents, as well as general Medium and Light ones. This includes light and medium Silentheart abilities. |
@@ -31,7 +33,7 @@ categories: [Weapons, Medium Weapons, Light Weapons, Daggers, Twinblades, Hallow
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [7 Knowledge], Glaive Spellhardt [100 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [1 Crown], Glaive Spellhardt [100 Joy], Trial of The Gourdskipper, Goodie Bag, The Harvestman |
 | description | Twin scythes wrought from a combination of the metallic claws and voidborne feathers of a Harrow, a dread creature of the Boundary. Melding dark metals and plumage into a pair of elegant, otherworldly blades, their edge seems to never dull. |
 
 ## Description

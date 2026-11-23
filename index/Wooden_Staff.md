@@ -1,6 +1,6 @@
 ---
 title: Wooden Staff
-revid: 235434
+revid: 235491
 source: https://deepwoken.fandom.com/wiki/Wooden_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons]
@@ -38,7 +38,7 @@ categories: [Weapons, Weapons with Talents, Criticals with M1 tag, "Weapons with
 
 ## Description
 
-The Wooden Staff is a [Staff](Staves.md) weapon in the Medium category.
+The Wooden Staff is a [Staff](Staves.md) weapon in the Medium category. It is a wooden pole used chiefly for combat training.
 
 ## Talent
 

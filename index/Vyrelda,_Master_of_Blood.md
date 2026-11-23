@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 225859
+revid: 235551
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with She/her pronouns, Stub pages with reason, StubPages, Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
@@ -190,6 +190,7 @@ Vyrelda is first found inside an igloo in [Firfire](Firfire.md), located in the 
 ## Trivia
 
 -   Vyrelda's racial variant appears to be the 'Mamba' variant of an Etrean, with deep red scleras instead of the faint yellow. She is also wearing [Sanguine Finery](Sanguine_Finery.md).
+-   Her encounter in [Derelict Highchurch](Derelict_Highchurch.md) has the layer 2 loot pool
 -   Her hair IDs are the following:
     -   Hairbun - `13558390420`
     -   Straight Hair - `13154889638`

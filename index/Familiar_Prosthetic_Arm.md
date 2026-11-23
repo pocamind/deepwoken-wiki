@@ -1,9 +1,11 @@
 ---
 title: Familiar Prosthetic Arm
-revid: 233622
+revid: 235514
 source: https://deepwoken.fandom.com/wiki/Familiar_Prosthetic_Arm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Braces, Hallowtide]
+categories: [Event Only Content, Equipment, Arms, Braces, Hallowtide]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Familiar Prosthetic Arm
@@ -21,7 +23,7 @@ categories: [Equipment, Arms, Braces, Hallowtide]
 | droppable | No |
 | enchantable | Only on obtainment[1] |
 | pass down | Yes |
-| obtainment | Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [15 Knowledge], Goodie Bag, The Harvestman |
 | description | ... |
 
 ## Description

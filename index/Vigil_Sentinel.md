@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 228955
+revid: 235493
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents, Outfits of Etrea]
@@ -20,7 +20,7 @@ categories: [Unique Outfits, Outfits, Outfits with Talents, "Outfits with Non-ex
 | resistances | +30% Physical Armor , +30% Elemental Armor , +25% Wind Armor , +10% Shadow Armor , +10% Fire Armor |
 | buffs | +25% Ether Regen |
 | talents | Vigil's Grace, Action Surge |
-| obtainment | Interluminary Parasol, Carnival of Hearts |
+| obtainment | Interluminary Parasol, Carnival of Hearts, The Doom of Caeranthil |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

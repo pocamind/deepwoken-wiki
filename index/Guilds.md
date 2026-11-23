@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 232514
+revid: 235492
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -102,7 +102,7 @@ The following ways to obtain guild score and the amount earned is listed below:
 | **PvP** | 
 
 -   15 (Overworld)
--   40 (Depths)
+-   20 (Depths)
 
  | \-5 | 
 

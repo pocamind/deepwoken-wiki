@@ -1,9 +1,11 @@
 ---
 title: "Familiar Arachnid's Cloak"
-revid: 234077
+revid: 235524
 source: https://deepwoken.fandom.com/wiki/Familiar_Arachnid's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Unique Outfits]
+categories: [Unique Outfits, Event Only Content]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Familiar Arachnid's Cloak
@@ -21,7 +23,7 @@ categories: [Unique Outfits]
 | resistances | +20% Physical Armor , +15% Elemental Armor , +10% Shadow Armor |
 | buffs | +40% Ether Regen |
 | talents | Arachnid Surge |
-| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [3 Knowledge], Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [2 Crowns], Goodie Bag, The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 

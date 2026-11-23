@@ -1,9 +1,11 @@
 ---
 title: "Familiar Sage's Armor"
-revid: 234395
+revid: 235528
 source: https://deepwoken.fandom.com/wiki/Familiar_Sage's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Unique Outfits, Event Only Content, Outfits, Hallowtide, Event Item, Outfits with Talents, Outfits with Exclusive Talents]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Familiar Sage's Armor
@@ -21,7 +23,7 @@ categories: [Unique Outfits, Outfits, Hallowtide, Event Item, Outfits with Talen
 | resistances | +25% Physical Armor , +25% Elemental Armor , +10% Lightning Armor |
 | buffs | +50% Ether Regen |
 | talents | Lightning Drop |
-| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [3 Knowledge], Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the '26 Hallowtide Medal [1 Crown], Goodie Bag, The Harvestman |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -41,7 +43,7 @@ This Outfit has 2750 durability and grants +25% Physical resistance ResistancePh
 
 -   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 25% Physical ResistancePhysical, 32.5% Thundercall [ResistanceThundercall](Thundercall.md), 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
-The [Lightning Drop](Talents.md#lightning-drop) Talent grants a Talent tool that upon activation and being airborne (studs distance unknown), you quickly drop down and strike opponents near where you land with lightning. This deals damage scaling per stud fell by 0.54 capping at 66.08 typeless damage with a cooldown of 10 seconds, the PVE multiplier on this attack is 6.4x.
+The [Lightning Drop](Talents.md#lightning-drop) Talent grants a Talent tool that upon activation and being airborne (studs distance unknown), you quickly drop down and strike opponents near where you land with lightning. This deals damage scaling per stud fell by 0.54 capping at 66.08 typeless damage with a cooldown of 10 seconds. This ability has a PvE damage multiplier of 6x (up to 6.48x with the Mob Damage [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)) at Power 20.
 
 Some abilities can give you enough altitude required for [Lightning Drop](Talents.md#lightning-drop) to be usable, such as:
 
@@ -53,8 +55,6 @@ Some abilities can give you enough altitude required for [Lightning Drop](Talent
 -   Feinted [**Heavenly Wind**](Galebreathe.md#heavenly-wind) mantra
 -   Being hit by Updraft and Rising Wind
 -   TBA
-
-  
 
 ## Trivia
 

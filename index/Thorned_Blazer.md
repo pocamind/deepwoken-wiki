@@ -1,9 +1,11 @@
 ---
 title: Thorned Blazer
-revid: 233978
+revid: 235521
 source: https://deepwoken.fandom.com/wiki/Thorned_Blazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment with Styles, Equipment, Arms, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
+categories: [Equipment with Styles, Event Only Content, Equipment, Arms, Hallowtide, Equipment with Exclusive Talents, Equipment with Talents, Event Item]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Thorned Blazer
@@ -22,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Hallowtide, Equipment with 
 | droppable | No |
 | enchantable | Only on obtainment[1] |
 | pass down | Yes |
-| obtainment | Goodie Bag, The Harvestman |
+| obtainment | Any Blacksmith if you have the Harvestman Hallowtide Medal [5 Crowns], Goodie Bag, The Harvestman |
 | description | The formal ensemble of Silas, a former Lightborn patriarch of the Ardenstar family of nobles. In life, Silas was envious of the true immortality of his Celestial forefathers. Seeing his humanity as an impurity, he sought to transcend his own limits by splitting his ancestries in twain. Through secretive methods, he successfully distilled true Ichor from his own veins - his first step towards true immortality... |
 
 ## Description
