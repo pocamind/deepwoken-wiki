@@ -1,14 +1,14 @@
 ---
-title: Account Tier
-revid: 234067
-source: https://deepwoken.fandom.com/wiki/Account_Tier
+title: Experience Tier
+revid: 235559
+source: https://deepwoken.fandom.com/wiki/Experience_Tier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
 notices:
   - "This page is currently being worked on. This page is still being worked on, and may contain incomplete/wrong Information."
 ---
 
-# Account Tier
+# Experience Tier
 
 **This section contains subjective information that was last updated on November 11th, 2026.**
 

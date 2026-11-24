@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 235480
+revid: 235555
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -823,3 +823,8 @@ Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 ### True Heart of Enmity
 
 -   Alloy Siphon \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Iron Pull siphons armor from your foes, restoring your posture.
+
+## Trivia
+
+-   Using your critical attack can help restore some posture in a pinch.
+-   It is advised to not buy the **Armored Plating** talent if you wish to defeat [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>), as the reduced movement speed will make it harder to reach him before his final attack finishes charging.

@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 229277
+revid: 235554
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -537,4 +537,5 @@ Blunt ResistanceBlunt
 
 -   Contrary to popular belief, the kills for this Memento's obtainment do not need to be made in [The Depths](<The_Depths_(Vow_of_Iron).md>).
 -   Killing enough players while using Void Glutton will eventually make you move so slowly that the game is borderline unplayable.
+    -   Once you kill enough players, [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>)'s fight will become completely unwinnable since you are too slow to reach him before his final attack finishes charging.
 -   [Trackstar Boots](Trackstar_Boots.md) and other flat increases to your studs per second movement speed are highly recommended if you're planning to use this Memento.

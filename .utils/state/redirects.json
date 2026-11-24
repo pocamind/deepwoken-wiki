@@ -82,6 +82,9 @@
     "to": "Oath: Jetstriker",
     "fragment": "Acceleration Points"
   },
+  "Account Tier": {
+    "to": "Experience Tier"
+  },
   "Ace": {
     "to": "Aces"
   },

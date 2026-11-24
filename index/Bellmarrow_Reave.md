@@ -1,9 +1,9 @@
 ---
 title: Bellmarrow Reave
-revid: 235482
+revid: 235568
 source: https://deepwoken.fandom.com/wiki/Bellmarrow_Reave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Twinblades, Medium Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
+categories: [Pathfinder Exclusive, Weapons, Twinblades, Medium Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Bellmarrow Reave
@@ -32,6 +32,10 @@ categories: [Weapons, Twinblades, Medium Weapons, Weapons with Unique Criticals,
 | pass down | Yes |
 | obtainment | Knell, The Lunatic Resonator, Arkasid |
 | description | Wrought from the hardened inner husks of Simforea's native Arkasids and bound with fragments of local flora, this twinblade bears the unmistakable mark of the resident Anansi Knell. Its paired edges are etched with frantic scrimshaw intricate patterns that seem to depict colliding oscillations, as if capturing sound itself in the act of tearing against its own reflection. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

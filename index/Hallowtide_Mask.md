@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 235549
+revid: 235561
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -115,7 +115,7 @@ Certain special NPCs are unable to be spooked and instead give special dialogue.
     -   "Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain."
 -   [Warden Jericho](Warden_Jericho.md):
     -   "A valiant effort... but no."
--   "...Happy Hallowtide."
+    -   "...Happy Hallowtide."
 
 ## Trivia
 

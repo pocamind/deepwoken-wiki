@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 234305
+revid: 235569
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]
@@ -72,10 +72,31 @@ All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclus
     -   [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) \[3 Knowledge\]
 
 -   **Hallowtide '26 Medal**: Allows you to craft _most_ [Hallowtide](Hallowtide.md)\-exclusive items released during 2026.
-    -   TBA
+    -   [Corvidirge Severants](Corvidirge_Severants.md) \[1 Crowns\]
+    -   [Silas's Cenotaph](<Silas's_Cenotaph.md>) \[1 Crowns\]
+    -   [Wreath of the Ardenstar](Wreath_of_the_Ardenstar.md) \[15 Knowledge\]
+    -   [Familiar Prosthetic Arm](Familiar_Prosthetic_Arm.md) \[15 Knowledge\]
+    -   [Hunter's Chapeau](<Hunter's_Chapeau.md>) \[15 Knowledge\]
+    -   [Wispfire Beacon](Wispfire_Beacon.md) \[15 Knowledge\]
+    -   [Pilferer's Trophy](<Pilferer's_Trophy.md>) \[15 Knowledge\]
+    -   [Eyes of the Moppet](Eyes_of_the_Moppet.md) \[15 Knowledge\]
+    -   [Stitched Effigy](Stitched_Effigy.md) \[15 Knowledge\]
+    -   [Coffin Earrings](Coffin_Earrings.md) \[15 Knowledge\]
+    -   [Pumpkin Earrings](Pumpkin_Earrings.md) \[15 Knowledge\]
+    -   [Crooked Witch Hat](Crooked_Witch_Hat.md) \[15 Knowledge\]
+    -   [Mask of Phantoms](Mask_of_Phantoms.md) \[15 Knowledge\]
+    -   [Cloak of Phantoms](Cloak_of_Phantoms.md) \[15 Knowledge\]
+    -   [Familiar Vagrant's Armor](<Familiar_Vagrant's_Armor.md>) \[1 Crowns\]
+    -   [Familiar Sage's Armor](<Familiar_Sage's_Armor.md>) \[1 Crowns\]
+    -   [Familiar Prince's Armor](<Familiar_Prince's_Armor.md>) \[1 Crowns\]
+    -   [Familiar Arachnid's Cloak](<Familiar_Arachnid's_Cloak.md>) \[2 Crowns\]
+    -   [Arachnid Instrument Set](Instruments.md#arachnid-instruments) \[10 Knowledge\]
 
 -   **The Harvestman**: Allows you to craft [Hallowtide](Hallowtide.md)\-exclusive items obtained exclusively from [The Harvestman](The_Harvestman.md).
-    -   TBA
+    -   [Cursed Flames](Cursed_Flames.md) \[5 Crowns\]
+    -   [Harvestman's Cloak](<Harvestman's_Cloak.md>) \[5 Crowns\]
+    -   [Harvestman's Halo](<Harvestman's_Halo.md>) \[10 Crowns\]
+    -   [Thorned Blazer](Thorned_Blazer.md) \[5 Crowns\]
 
 ### Festival of a Billion Souls
 
