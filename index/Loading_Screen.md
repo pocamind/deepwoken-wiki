@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 235477
+revid: 235610
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -29,9 +29,9 @@ During the loading processes, the resources are rendered in so the player can in
 -   Learning some new tricks... - Entering [Training Mode](Training_Mode.md).
 -   Returning to Menu... - Entering the Main Menu.
 -   Rising in the Depths... - Entering the Surface after escaping the Depths.
--   Sinking deep into the Depths... - Entering the [First Layer](First_Layer.md) via [Whirlpools](Whirlpools.md).
+-   Sinking deep into the Depths... - Entering the [First Layer](First_Layer.md) after being killed.
 -   The City awaits... - Entering [New Kyrsa](Second_Layer/New_Kyrsa.md).
--   The Drowned City of Celtor comes into view once more... - Entering the [First Layer](First_Layer.md).
+-   The Drowned City of Celtor comes into view once more... - Entering the [First Layer](First_Layer.md) via [Whirlpools](Whirlpools.md).
 -   The Eternal Gale coils around you... - Entering [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md).
 -   Travelling... - Entering the Main Menu.
 -   Travelling to the Eastern Luminant... - Entering the Eastern Luminant.

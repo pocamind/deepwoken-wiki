@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 235441
+revid: 235623
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Medium Weapons]
@@ -52,4 +52,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   Might be a reference to Horseman's Blade from Terraria.
-    -   The blade part itself is a copy paste of the base Rogue Lineage [sword design](https://rogue-lineage.fandom.com/wiki/Swords).

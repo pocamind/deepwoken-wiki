@@ -1,6 +1,6 @@
 ---
 title: Withered Death Knell
-revid: 234887
+revid: 235577
 source: https://deepwoken.fandom.com/wiki/Withered_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons, Weapons with Unique Criticals]
@@ -61,3 +61,4 @@ All criticals have a cooldown of **5 seconds**.
 ## Trivia
 
 -   A death knell is the ringing of a church bell to announce the death of a person.
+-   Also referred to as "evil lft" by the community.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 235180
+revid: 235622
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -441,7 +441,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Alloyblood
 
 -   **Composite Path: Alloyblood** \[Common Talent\] - Fuse the Ironsing rods from Ironsing mantras and Blood Poison from Bloodrend mantras into a composite plasma that flows in your opponents blood. Your Bloodrend mantras are now silver.
-    -   Your Metal Rod and Blood Poison buildup is replaced with Composite Alloy buildup. A certain threshold of Composite Alloy must be built up to cast Alloyblood Mantras.  
+    -   Your Metal Rod and Blood Poison buildup is replaced with Composite Alloy buildup. A certain threshold of Composite Alloy must be built up to cast Alloyblood Mantras.
+    -   The built up Composite Alloy amount is displayed in a grey number over your opponent's head.
+    -   Not to be confused with [Iron Veins](#iron-veins), a Talent that used to be called "Alloyblood".  
         
     -   Prerequisites: 50 Bloodrend, 50 Ironsing  
         
@@ -450,14 +452,16 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Attunement Path\] \[Debuff\] \[Mantra\] \[Multi-Attunement\]
 
 -   **Hypoferritinemia** \[Common Talent\] - Using [Rising Plasma](Hybrid_Abilities.md#rising-plasma) now summons your [Metal Greatsword](Metal_Greatsword.md) instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.
-    -   The Rising Plasma Mantra now summons the Metal Greatsword instead of the [Alloyblood Axe](Alloyblood_Axe.md).  
+    -   The Rising Plasma Mantra now summons the Metal Greatsword instead of the [Alloyblood Axe](Alloyblood_Axe.md).
+    -   Keep in mind that Torture Mastery has a limit on the healing it can provide. Chip Damage however, has no cap, and having more than 100% chip makes your attacks deal more\* damage when blocked than landed.  
         
     -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), [Needleblade](#needleblade), [Torture Mastery](#torture-mastery), 30 Bloodrend, 30 Ironsing  
         
     -   Tags: \[Bloodrend\] \[Ironsing\] \[Weapon\] \[Chip Damage\] \[Multi-Attunement\]
 
 -   **Plasma Refresh** \[Common Talent\] - When casting an alloyblood hybrid mantra, refresh your critical attack cooldown. Your critical hits with alloyblood weaponry now add composite plasma to your opponent.
-    -   Keep in mind that all of the Alloyblood weapons ([Alloyblood Axe](Alloyblood_Axe.md), [Alloyblood Daggers](Alloyblood_Daggers.md), and [Alloyblood Spear](Alloyblood_Spear.md) have the default critical attacks of their weapon types.  
+    -   Essentially, this Talent allows you to use your Critical Attack immediately after swapping to an Alloyblood weapon, even if your Critical Attack was on cooldown, by proxy of resetting your Critical cooldownm. Keep in mind that the Alloyblood weapons ([Alloyblood Axe](Alloyblood_Axe.md), [Alloyblood Daggers](Alloyblood_Daggers.md), and [Alloyblood Spear](Alloyblood_Spear.md)), excluding the [Metal Greatsword](Metal_Greatsword.md), have the default critical attacks of their weapon types.
+    -   This Talent procs on Mantra feint, and feinting an Alloyblood Mantra prevents your weapon from being swapped. This allows you to reset the cooldown of your equipped weapon's Critical Attack at any time, as long as your opponent has enough Composite Alloy for you to cast an Alloyblood Mantra.  
         
     -   Prerequisites: [Composite Path: Alloyblood](#composite-path-alloyblood), 40 Bloodrend, 40 Ironsing, 60 Weapon  
         
@@ -2191,7 +2195,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   **Exotherm Path: Sanguine Blaze** \[Common Talent\] - Your blood is thick and oily, clinging to all it touches. Blood mantras leave foes coated in Black Blood, slowing them and stifling their healing, up to 3 stacks. Touch it with flame and it erupts. Your fire burns a searing pink.
     -   Turns your Flamecharm Mantras, status effects, related Enchantments, and weapons pink. Turns your Bloodrend Mantras and Blood Puddles black.
-    -   Bloodrend Mantras apply stacks of Black Blood on top of their previous effects of Blood Poison and blood drain. Black Blood applies a slow and [Anti-Heal](Status_Effects.md#anti-heal) effect.
+    -   Bloodrend Mantras apply stacks of Black Blood on top of their previous effects of Blood Poison and blood drain. Black Blood applies a slow and [Anti-Heal](Status_Effects.md#anti-heal) effect. However, all Blood Poison application is halved with this Attunement path.
     -   Dealing Flamecharm damage, through any source that is not Burn, to a target with Black Blood causes the blood to ignite and explode, dealing damage and knockback while consuming all Black Blood stacks and the burn used to proc it.  
         
     -   Prerequisites: 40 Bloodrend, 40 Flamecharm  
@@ -2214,13 +2218,16 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Bloodrend\] \[Flamecharm\] \[Burn\] \[Critical Attack\] \[Debuff\] \[Multi-Attunement\] \[Weapon Attack\]
 
 -   **Exothermic Finish** \[Common Talent\] - Igniting an enemy with Black Blood now flourishes them instead of knocking them back, inflicting all flourish talents.
-    
+    -   Does not trigger on [Moppet](Moppet.md)'s critical attack with [Critical Mass](#critical-mass).  
+        
     -   Prerequisites: [Exotherm Path: Sanguine Blaze](#exotherm-path-sanguine-blaze), 60 Bloodrend, 80 Flamecharm  
         
     -   Tags: \[Bloodrend\] \[Flamecharm\] \[Flourish\] \[Multi-Attunement\]
 
 -   **Pressure Bleed** \[Common Talent\] - Your [vents](Combat_Mechanics.md#tempo) turn pink, spraying explosive Black Blood puddles that ignite enemies.
-    -   Your Vent sprays multiple small Black Blood puddles in random nearby locations on the floor. After a short delay, these turn pink and explode, applying [Burn](Status_Effects.md#sanguine-burn) to those hit.  
+    -   Your Vent sprays multiple small Black Blood puddles in random nearby locations on the floor. After a short delay, these turn pink and explode, applying [Burn](Status_Effects.md#sanguine-burn) to those hit.
+    -   These will not deal damage if the caster is in hitstun.
+    -   In most cases, the knockback on successful Vents will prevent these from actually landing.  
         
     -   Prerequisites: [Exotherm Path: Sanguine Blaze](#exotherm-path-sanguine-blaze), 50 Bloodrend, 50 Flamecharm  
         
@@ -6764,6 +6771,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Increases _[Katana](Katana.md)_ damage by 25%.
     -   Increases _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), [Palace Tachi](Palace_Tachi.md)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
+    -   Only affects M1s and criticals with the M1 tag.
 
 -   Praise The Sun: [Revitalizing Pendant](Revitalizing_Pendant.md) & [Radial Pendant](Radial_Pendant.md) - When standing in sunlight increase your natural health regen and reduce how long antiheal effects last on you.
 

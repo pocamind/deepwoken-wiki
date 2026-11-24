@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 234867
+revid: 235603
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons, Kyrs series]
@@ -57,6 +57,6 @@ The critical has a cooldown of **15 seconds**.
 -   This weapon is designed noticeably differently from other weapons prefixed "Kyrs." This may be a result of it being more closely tied to the [Scion of Ethiron](Scion_of_Ethiron.md) than the [Kyrsgarde](Kyrsgarde.md).
     -   It shares this property with the [Kyrswynter](Kyrswynter.md), being tied to the Kyrsgarde prior to New Kyrsa's fall.
     -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md), **Kyrsieger**)
--   This critical will trigger a Nautilodaunt to vent. While charging the critical, it will be forced into blocking which will make it easier for other players to land hits on it from behind, or using an instant guardbreak attack on it.
+-   This critical will trigger a [Nautilodaunt](Nautilodaunt.md) to vent. While charging the critical, it will be forced into blocking which will make it easier for other players to land hits on it from behind, or using an instant guardbreak attack on it.
 -   Weapon is soulbound upon being equipped.
--   Speaking to Kaide with the Kyrsieger equipped will unlock special dialogue.
+-   Speaking to [Kaide](Kaide,_the_Drowned_Light.md) with the Kyrsieger equipped will unlock special dialogue.

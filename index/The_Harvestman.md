@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 235538
+revid: 235621
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]
@@ -211,7 +211,7 @@ Crowns and knowledge are also awarded, considering if you dealt the most damage 
   <td>
   <ul>
     <li><b>Light Weapons</b>: <a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a>, <a href="Moppet.md">Moppet</a>, <a href="Skull_Piercer.md">Skull Piercer</a>, <a href="Spectral_Grasp.md">Spectral Grasp</a></li>
-    <li><b>Medium Weapons</b>: <a href="Cursed_Flames.md">Cursed Flames</a>, <a href="Bloodtide_Trident.md">Bloodtide Trident</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, Hallowcleave, <a href="The_Weaving_Web.md">The Weaving Web</a></li>
+    <li><b>Medium Weapons</b>: <a href="Cursed_Flames.md">Cursed Flames</a>, <a href="Bloodtide_Trident.md">Bloodtide Trident</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, <a href="Hallowscleave.md">Hallowscleave</a>, <a href="The_Weaving_Web.md">The Weaving Web</a></li>
     <li><b>Heavy Weapons</b>: <a href="Putrid_Edenstaff.md">Putrid Edenstaff</a>, <a href="Skyreap_Blade.md">Skyreap Blade</a>, <a href="Silas's_Cenotaph.md">Silas's Cenotaph</a>, <a href="Smouldering_Hallow.md">Smouldering Hallow</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a></li>
     <li><b>Hybrid Weapons</b>: <a href="Corvidirge_Severants.md">Corvidirge Severants</a></li>
   </ul></td>

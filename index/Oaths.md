@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 235574
+revid: 235606
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -8,11 +8,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 # Oaths
 
-f
-
-“ i goon to r34 content.
-
-Swear an Oath. An indescribable power emanates from words spoken from the soul. You now wield it. ”
+“ Swear an Oath. An indescribable power emanates from words spoken from the soul. You now wield it. ”
 
 ― Oathsworn badge
 
@@ -48,7 +44,7 @@ No Stat Requirement
 
 [Bladeharper](Oath%253A_Bladeharper.md)
 
-(75 MED or comb. 90 total points into any WEP stat)
+(75 MED or comb. 90 WEP) + (25 STR or AGL)
 
 [Blightsurger](Oath%253A_Blightsurger.md)
 
@@ -135,7 +131,7 @@ comb. 50 WLL, CHA
 ### Upcoming Oaths
 
 -   Warmaster
--   Chef (coming with the Beyond The Boundary update stated by Agamatsu)
+-   Chef
 -   Voidhunter[\[1\]](#cite-note-1)
 
 ## Oath Skipping
