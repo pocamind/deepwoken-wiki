@@ -1,6 +1,6 @@
 ---
 title: Beloved Zofia
-revid: 230816
+revid: 235752
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Voidzones]
@@ -38,7 +38,7 @@ A ghost can appear at the ship's helm. If the player has killed no one, the ghos
 
 ## Location
 
-The Beloved Zofia can be found by hugging the Minityrsa wall and making a left turn at its corner. After turning, keep going straight until the ship is spotted.
+The Beloved Zofia is found by hugging the [Minityrsa](Minityrsa.md) wall and making a left turn at its corner. After turning, keep going straight until the ship is spotted.
 
 ## Trivia
 

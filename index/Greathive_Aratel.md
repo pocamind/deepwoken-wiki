@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 234183
+revid: 235750
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Hive]
@@ -140,7 +140,7 @@ Hidden within the tree is another Heat Stone resting spot and nearbly is a pool 
 <tr>
   <td colspan="4">[Turned the crank anti-clockwise]</td>
   <td colspan="4">[Turned the crank clockwise once]</td>
-  <td colspan="4">[Turned the crank clockwise twice]</td>
+  <td colspan="4">[Turned the crank to the max]</td>
 </tr>
 <tr>
   <td colspan="4"><i>*You look through the telescope... There, above it all, glittering towers of ivory hang suspended from a black sea. Though they glitter, you see the ruin that has run its course.*</i></td>

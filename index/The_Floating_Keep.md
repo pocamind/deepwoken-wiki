@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 235722
+revid: 235724
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide]
@@ -31,7 +31,8 @@ In the Cathedral, you can talk to [Lysander Spellhardt](Lysander_Spellhardt.md) 
 -   [The Gideshu March](The_Gideshu_March.md) \[20 Joy\]
 -   [The Hammer's Call](<The_Hammer's_Call.md>) \[20 Joy\]
 -   [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) \[20 Joy\]
--   [Random Master Schematic](Outfits.md#master) \[20 Joy\]
+-   [Master Schematic](Outfits.md#master) \[20 Joy\]
+    -   Grants a random Master Outfit schematic. Not all Master Outfits are eligible.
 -   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[35 Joy\]
 -   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[35 Joy\]
 -   [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) \[35 Joy\]
@@ -41,7 +42,8 @@ In the Cathedral, you can talk to [Lysander Spellhardt](Lysander_Spellhardt.md) 
 -   [A Light In The Sky](A_Light_In_The_Sky.md) \[50 Joy\]
 -   Hallowtide Variant \[70 Joy\]
     -   This is an account-wide unlock, that affects all [Aspects](Aspects.md). The new variant can be changed into at [Lysander Spellhardt](Lysander_Spellhardt.md), any [Barber](Barber.md), or during [Character Creation](Character_Creation.md).
--   [Random Relic](Relics.md) \[100 Joy\]
+-   [Relic](Relics.md) \[100 Joy\]
+    -   Grants a random Relic. Not all Relics are eligible.
 -   [Gourdguard](Gourdguard.md) (Shield) \[100 Joy\]
 -   [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
     -   Only grants the default Mushroom Costume.
@@ -55,6 +57,8 @@ In the Cathedral, you can talk to [Lysander Spellhardt](Lysander_Spellhardt.md) 
 -   [Death's Reverie](<Death's_Reverie.md>) (Twinblade) \[100 Joy\]
 -   [Spectral Grasp](Spectral_Grasp.md) (Dagger) \[100 Joy\]
 -   [Smouldering Hallow](Smouldering_Hallow.md) (Greatcannon) \[100 Joy\]
+-   [Moppet](Moppet.md) (Dagger) \[100 Joy\]
+-   [The Weaving Web](The_Weaving_Web.md) (Spear) \[100 Joy\]
 -   [Corvidirge Severants](Corvidirge_Severants.md) (Dagger/Twinblade) \[100 Joy\]
 -   [Silas's Cenotaph](<Silas's_Cenotaph.md>) (Greatsword) \[100 Joy\]
 -   [Galpin's Arachnid Instrument Set](Instruments.md#arachnid-instruments) \[135 Joy\]
@@ -128,7 +132,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   The music for this area is [A Light In The Sky](A_Light_In_The_Sky.md) by Naktigonis
 -   The combat music for this area is [A Darkness Beneath](Deepwoken_OST.md#a-darkness-beneath) by Naktigonis
 -   Initially, there was a bug where the Void Feather cost 5 Joy instead of the required 15. This was patched quickly.
--   The Familiar Priest, Heretic and Knight helmet are direct references to their counterparts from _Rogue Lineage_, being the Church Knight Helmet, Dark Sigil Helmet and Sigil Helmet respectively.
+-   All of the "Familiar" equipment and outfit items are taken from, and are direct references to _Rogue Lineage_.
 -   Whenever you try to spook Glaive Spellhardt with a Hallowtide Mask, he doesn't get spooked and instead says: "Oh please."
 -   This location appears in the Battle Royale mode as an "intermission" before the game starts, but there are no Lightborn NPCs
 -   On October 17, 2023 there used to be a floating gate above the castle. However, it was presumably removed during one of the bug fix updates following the release of Hallowtide.

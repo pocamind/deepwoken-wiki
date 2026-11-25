@@ -1,9 +1,11 @@
 ---
 title: Cursed Flames
-revid: 234899
+revid: 235742
 source: https://deepwoken.fandom.com/wiki/Cursed_Flames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
+categories: [Weapons that cannot be equipped on Silentheart, Event Only Content, Weapons, Weapons with Talents, Swords, Medium Weapons, Hallowtide, Event Item, Weapons with Unique Animations, "Attunement-based Weapons", "Core-Attribute based weapons"]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Cursed Flames
@@ -33,7 +35,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Harvestman |
+| obtainment | Any Blacksmith if you have the Harvestman Hallowtide Medal [5 Crowns ], The Harvestman |
 | description | A blade enruined with the words of a Hero, it evokes the overwhelming heat of the geothermal vents. |
 
 ## Description

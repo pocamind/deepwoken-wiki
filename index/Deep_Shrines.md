@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 233223
+revid: 235748
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics, Features absent in Vow of Iron]
@@ -16,11 +16,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Deep Shrines** are a group of 7 shrines sharing identical appearance, scattered across the Lumen. Each bestows different deals in exchange for the client's [knowledge](Knowledge.md). Each Deep Shrine can be found in a unique location in the overworld as well as the [Temple of Hearts](Temple_of_Hearts.md), accessible by Deepbounds and anyone who has obtained their resonance.
+**Deep Shrines** are a group of seven Shrines sharing identical appearance, scattered across the Lumen. Each bestows different deals in exchange for the client's [knowledge](Knowledge.md). Each Deep Shrine can be found in a unique location in the overworld as well as the [Temple of Hearts](Temple_of_Hearts.md), accessible by Deepbounds and anyone who has obtained their resonance.
 
-### Limitations
-
-**Deep Shrines** can only be interacted with after approximately ~10 minutes of spawning, so trying to Deepbound won't work.
+Deep Shrines can only be interacted with after approximately ~10 minutes of spawning, so trying to Deepbound won't work.
 
 ## Shrines
 
@@ -64,7 +62,11 @@ Shrine of Division: For 5 and a Mantra of your choice, obtain a Roll 2.
 -   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
 -   Before Shrine of Ostentation (Now the Shrine of Chance), the only way to obtain more Rare Talents on a fully progressed build was to obtain either [Ardour](Murmur%253A_Ardour.md) or [Rhythm](Murmur%253A_Rhythm.md) and their child Talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new Talent hand that was guaranteed to have a rare Talent in it.
     -   This method was extremely tedious if you were missing more than one rare, very expensive, and not every build could utilize it.
--   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.
+-   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.[\[1\]](#cite-note-1)
 -   The [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) allowed you to transfer Rare Talents into Common/Advanced Talents and vice versa. This effect was merged into the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md), along with Ostentation itself being removed on the September 15th, 2025 update.
 -   The [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) previously allowed players to favor specific Talents and Mantras. This became obsolete after favoring and foretelling were added, leading to the removal of Mystics and, later, the Shrine of Solitude itself.
 -   Deep Shrines models were reworked on the update of **15 September, 2025** to be more performant.
+
+## References
+
+1.  [↑](#cite-ref-1)

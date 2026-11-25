@@ -1,6 +1,6 @@
 ---
 title: Alsin
-revid: 212097
+revid: 235727
 source: https://deepwoken.fandom.com/wiki/Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Stub pages without reason, StubPages, The Heavens, Celestials]
@@ -36,6 +36,7 @@ As [The Justicar](The_Justicar.md) are taught to interpret The Path in their own
 
 -   There might as well be no right path, which makes [the Justicar](The_Justicar.md)'s way of living a lie.
 -   Every path may be the right path, which makes any [Justicar](The_Justicar.md)'s way of living the truth.
+-   Some paths may be the right path, which makes [Justicar](The_Justicar.md)'s way of living occasionally a lie and occasionally the truth.
 
 ## References
 
