@@ -1,9 +1,11 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 233288
+revid: 235702
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Unique Outfits, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
+categories: [Unique Outfits, Event Only Content, Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Familiar Heretic's Armor
@@ -38,7 +40,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 4000 durability and grants +35% Physical resistance ResistancePhysical, +35% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Soul Rip](Talents.md#soul-rip) Talent, but will passively reduce your movement speed by 30% while equipped.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 35% Physical ResistancePhysical, 38.25% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 38.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
+-   Because related resistances from non-[Equipment](Equipment.md) stat sources are combined multiplicatively, and not additively, the total resistances are: 35% Physical ResistancePhysical, 38.25% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 38.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Soul Rip](Talents.md#soul-rip) Talent grants 2 _Runes_ every time you kill a player, then upon using its Talent tool it will consume a Rune to grant a 50% melee damage buff, a 20% defense buff, and infinite Ether for 25 seconds. Once Soul Rip ends, one of your legs will break, removing your ability to sprint for 30 seconds.
 
@@ -55,4 +57,3 @@ The [Soul Rip](Talents.md#soul-rip) Talent grants 2 _Runes_ every time you kill 
 -   The Fire and Shadow resistance granted by this armor is in reference to Wraith Knights using Dark Flames as part of their skillset. Wraith Knight's Dark Flames are also the inspiration for Wraith Path: Twisted Puppets.
 -   The description for this outfit, "Fit only for a traitor" is in reference to how in order to obtain the Wraith Knight class in Rogue Lineage, you have to start out as a Sigil Knight and then betray the order, becoming Chaotic rather than Orderly.
 -   Familiar Heretic's Armor has a unique interaction with [Dye Packets](Dye_Packet.md), where instead of getting tinted, it dyes different parts of the outfit individually.
--   Contrary to popular belief, the melee buff is only ~25%.

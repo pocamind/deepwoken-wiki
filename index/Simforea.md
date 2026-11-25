@@ -1,6 +1,6 @@
 ---
 title: Simforea
-revid: 235490
+revid: 235675
 source: https://deepwoken.fandom.com/wiki/Simforea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -174,9 +174,27 @@ Simforea is scattered with bells and pipes across its landscape.
 </tbody>
 </table>
 
+**Dialogue 8:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">This island's gonna drive me nuts.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
 ### Wildlife
 
 Simforea contains unique wildlife and flowers. You can also find certain [Ingredients](Ingredients.md) called [Grudgeroot](Grudgeroot.md), [Squelcap](Squelcap.md) and [Latchgrain](Latchgrain.md)
+
+  
 
 ### Graffiti
 

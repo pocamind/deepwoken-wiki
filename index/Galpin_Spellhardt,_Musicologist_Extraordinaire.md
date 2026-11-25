@@ -1,9 +1,11 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 235318
+revid: 235721
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family]
+categories: [Lightborn NPCs, Individuals with He/him pronouns, Event Only Content, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Galpin Spellhardt, Musicologist Extraordinaire

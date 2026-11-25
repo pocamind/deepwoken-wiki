@@ -1,11 +1,11 @@
 ---
 title: Corvus Manor
-revid: 235296
+revid: 235705
 source: https://deepwoken.fandom.com/wiki/Corvus_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide]
 notices:
-  - This page contains Event Exclusive Content This gamemode is exclusive to the Hallowtide event.
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Corvus Manor

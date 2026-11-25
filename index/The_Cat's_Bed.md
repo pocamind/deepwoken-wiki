@@ -1,9 +1,9 @@
 ---
 title: "The Cat's Bed"
-revid: 224964
+revid: 235635
 source: https://deepwoken.fandom.com/wiki/The_Cat's_Bed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, NPCs]
+categories: [Individuals with It/its pronouns, Exclusive, NPCs, NPCs located in The Hall of Shattered Wills]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -12,6 +12,7 @@ notices:
 
 | The Cat's Bed | |
 |---|---|
+| pronouns | It/its |
 | location | The Hall of Shattered Wills |
 
 ## Description

@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Unification
-revid: 224725
+revid: 235646
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Unification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Mechanics]
+categories: [Pathfinder Exclusive, NPCs, Mechanics, NPCs located in the Eastern Luminant, NPCs located in the First Layer]
 ---
 
 # Deep Shrines/Shrine of Unification

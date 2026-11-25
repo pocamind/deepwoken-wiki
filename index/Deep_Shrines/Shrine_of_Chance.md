@@ -1,16 +1,16 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 231739
+revid: 235642
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Vendors, NPCs, Mechanics]
+categories: [Pathfinder Exclusive, Vendors, NPCs, Mechanics, NPCs located in the Eastern Luminant, NPCs located in the First Layer]
 ---
 
 # Deep Shrines/Shrine of Chance
 
 | Shrine of Chance | |
 |---|---|
-| location | Temple of Hearts, Meteor Isle, The Depths |
+| location | Temple of Hearts, Meteor Isle |
 
 **[Pathfinder](../Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

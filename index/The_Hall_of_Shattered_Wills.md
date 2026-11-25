@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 205118
+revid: 235637
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Locations]

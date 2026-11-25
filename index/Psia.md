@@ -1,6 +1,6 @@
 ---
 title: Psia
-revid: 230400
+revid: 235699
 source: https://deepwoken.fandom.com/wiki/Psia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Cut Content, NPCs, NPCs located in the Etrean Luminant]
@@ -22,7 +22,7 @@ Psia was a [Khan](Khan.md) NPC. They were believed to be able to increase the pl
 
 ## Location
 
-Psia was located sitting along the cliff side of [Etris](Etris.md) near [Lance](Lance.md)'s food.
+Psia was located sitting along the cliff side of [Etris](Etris.md) near the Guildhall.
 
 ## Dialogue
 

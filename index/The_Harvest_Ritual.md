@@ -1,12 +1,11 @@
 ---
 title: The Harvest Ritual
-revid: 233091
+revid: 235717
 source: https://deepwoken.fandom.com/wiki/The_Harvest_Ritual
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Stub pages without reason, StubPages, Locations, Dungeons]
+categories: [Event Only Content, Locations, Dungeons]
 notices:
-  - This page contains Event Exclusive Content This location is exclusive to the Hallowtide event.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # The Harvest Ritual

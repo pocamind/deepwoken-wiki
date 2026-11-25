@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 232122
+revid: 235627
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Alloyable Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]

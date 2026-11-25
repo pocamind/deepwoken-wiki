@@ -1,9 +1,11 @@
 ---
 title: Brasidas Spellhardt
-revid: 232211
+revid: 235718
 source: https://deepwoken.fandom.com/wiki/Brasidas_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
+categories: [Lightborn NPCs, Event Only Content, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Brasidas Spellhardt
@@ -21,7 +23,7 @@ Brasidas Spellhardt is [Lightborn](Lightborn.md) found within [The Floating Keep
 
 He appears fond of metaphors to do with storms.
 
-He wears a [Red Megalodaunt Coat](Megalodaunt_Coat.md) with the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) [Outfit](Outfits.md) underneath.
+He wears a red [Megalodaunt Coat](Megalodaunt_Coat.md) with the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) [Outfit](Outfits.md) underneath.
 
 ## Dialogue
 

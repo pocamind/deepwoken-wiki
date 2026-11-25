@@ -1,6 +1,6 @@
 ---
 title: Plain Boiled Brined Aged Fermented Hotdog
-revid: 219917
+revid: 235698
 source: https://deepwoken.fandom.com/wiki/Plain_Boiled_Brined_Aged_Fermented_Hotdog
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Food]
@@ -22,9 +22,11 @@ categories: [Vow of Iron Exclusive, Food]
 | desc | It tastes. |
 | obtainment | The Beard (5 ) |
 
+Variants: [Century Finger](Century_Finger.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 
@@ -35,3 +37,7 @@ It is a type of **Generic** food.
 ### Effect
 
 When consumed, it replenishes 10% Stomach, but depletes -85% Water.
+
+## Trivia
+
+-   The Vow of Iron counterpart to the [Century Finger](Century_Finger.md).

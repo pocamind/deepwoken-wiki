@@ -1,6 +1,6 @@
 ---
 title: The Harvestman
-revid: 235621
+revid: 235673
 source: https://deepwoken.fandom.com/wiki/The_Harvestman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Bosses, Hallowtide]

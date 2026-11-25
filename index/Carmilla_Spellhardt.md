@@ -1,9 +1,11 @@
 ---
 title: Carmilla Spellhardt
-revid: 233853
+revid: 235719
 source: https://deepwoken.fandom.com/wiki/Carmilla_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family]
+categories: [Lightborn NPCs, Event Only Content, NPCs, NPCs located in The Floating Keep, Vendors, Hallowtide, Members of the Spellhardt family, Individuals with unspecified pronouns]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Carmilla Spellhardt

@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Ego
-revid: 231160
+revid: 235645
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Ego
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vendors, NPCs, Mechanics]
+categories: [Vendors, NPCs, Mechanics, NPCs located in the Eastern Luminant, NPCs located in the First Layer]
 ---
 
 # Deep Shrines/Shrine of Ego

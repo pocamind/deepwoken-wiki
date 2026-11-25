@@ -1,6 +1,6 @@
 ---
 title: The Complete Map of the Eastern Luminant
-revid: 235620
+revid: 235626
 source: https://deepwoken.fandom.com/wiki/The_Complete_Map_of_the_Eastern_Luminant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content]

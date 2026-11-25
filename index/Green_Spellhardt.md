@@ -1,9 +1,9 @@
 ---
 title: Green Spellhardt
-revid: 224788
+revid: 235654
 source: https://deepwoken.fandom.com/wiki/Green_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
+categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
 ---
 
 # Green Spellhardt
@@ -12,12 +12,15 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of
 |---|---|
 | name | Green Spellhardt |
 | aspect | Lightborn |
+| pronouns | He/him |
 | location | The Floating Keep |
 | family | Spellhardt family |
 
 ## Description
 
-Green is one of many [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md). Despite his name, he appears mostly blue.
+Green is one of many [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md).
+
+Despite his name, he appears mostly blue.
 
 ## Dialogue
 

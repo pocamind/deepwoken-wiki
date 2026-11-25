@@ -1,9 +1,11 @@
 ---
 title: Everis Spellhardt
-revid: 224760
+revid: 235720
 source: https://deepwoken.fandom.com/wiki/Everis_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
+categories: [Lightborn NPCs, Event Only Content, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide, Individuals with unspecified pronouns]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that is only present within, or obtainable from, the Hallowtide Event."
 ---
 
 # Everis Spellhardt

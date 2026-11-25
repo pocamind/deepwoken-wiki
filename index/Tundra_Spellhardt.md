@@ -1,9 +1,9 @@
 ---
 title: Tundra Spellhardt
-revid: 225669
+revid: 235655
 source: https://deepwoken.fandom.com/wiki/Tundra_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, Hallowtide, NPCs located in The Floating Keep, Members of the Spellhardt family]
+categories: [Lightborn NPCs, Individuals with She/her pronouns, NPCs, Hallowtide, NPCs located in The Floating Keep, Members of the Spellhardt family]
 ---
 
 # Tundra Spellhardt
@@ -12,6 +12,7 @@ categories: [Lightborn NPCs, NPCs, Hallowtide, NPCs located in The Floating Keep
 |---|---|
 | name | Tundra Spellhardt |
 | aspect | Lightborn |
+| pronouns | She/her |
 | location | The Floating Keep |
 | family | Spellhardt family |
 

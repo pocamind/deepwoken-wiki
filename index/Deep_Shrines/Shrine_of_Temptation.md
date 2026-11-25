@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Temptation
-revid: 231958
+revid: 235638
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Temptation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Mechanics]
+categories: [Pathfinder Exclusive, NPCs, Mechanics, NPCs located in the Etrean Luminant, NPCs located in the First Layer]
 ---
 
 # Deep Shrines/Shrine of Temptation
