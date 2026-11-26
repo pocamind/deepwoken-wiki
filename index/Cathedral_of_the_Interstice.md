@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 229271
+revid: 235772
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor]
@@ -37,7 +37,7 @@ This is the preffered method of escaping the [First Layer](First_Layer.md)
 
 A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. By interacting with the lever, the sub-elevator will rise to the main elevator. Note that if you drown when your power is lower than 10 you will be spawn right in the West side of the city near the elevator.
 
-**Warning: Directly in front of this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn**, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator. If it is present, your best chances for survival is to simply leave and find a new server. Although due to the elevator's popularity and long spawn cooldown, it is likely that the Nautilodaunt will not be present.
+**Warning: Directly in front of this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn**, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator. If it is present, your best chances for survival is to simply leave and find a new server. Although due to the elevator's popularity and long spawn cooldown, it is likely that the Nautilodaunt will not be present. Despite that, remain prepared as a lot of people simply run past the [Nautilodaunt](Nautilodaunt.md), hiding him inside the elevator, allowing it to get the jump on you and wipe you if you are unprepared.
 
 ### 2: East Entrance: City Bells
 

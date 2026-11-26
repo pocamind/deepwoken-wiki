@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 232901
+revid: 235775
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Saramaed Hollow, War Mode, Heart of Enmity, Purchased from Merchant Ships |
+| obtainment | Chests from:, Depths Island Sea Events, Faction Ambushes (The Divers), Grudge chest, Hell Mode brown chests, Scyphozia, Jobs:, Scyphozia jobs, Derelict Highchurch (Ministry Bloodrender event), New Kyrsa, The Sleeping City, The Eternal Gale, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Saramaed Hollow, War Mode, Purchased from Merchant Ships |
 | description | ... |
 
 ## Description

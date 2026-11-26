@@ -1,6 +1,6 @@
 ---
 title: Weal and Woe
-revid: 235451
+revid: 235757
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Weapons with Unique Animations, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -48,7 +48,7 @@ After you obtain the Umbral Candle, enter [Lost Celtor](Lost_Celtor.md). Inside 
 
 Note: Upon gripping one of the twins, the other will become enraged, getting up if they've been knocked and healing. When the twin becomes enraged a thunder strike sound effect will play, with a darkness forming around the NPC for a brief moment, once this clears, they will grow a second horn that glows; they will also be wielding _both_ Weal and Woe. **Carrying one of the twins while executing the other will prevent them from healing.**
 
-Due to some Hallowtide Weapons having a unique property on executiom, they break the obtainment of the weapon. Do not use Hallowtide Weapons while trying to obtain this weapon.
+Due to some Hallowtide Weapons having a unique property on execution, they break the obtainment of the weapon. Do not use Hallowtide Weapons while trying to obtain this weapon.
 
 ## Talents
 
