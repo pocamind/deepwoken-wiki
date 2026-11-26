@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 235471
+revid: 235784
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency, Mechanics]
@@ -11,7 +11,7 @@ categories: [Currency, Mechanics]
 | Crowns | |
 |---|---|
 | usage | Exchange for Notes and Knowledge, Traded with certain NPCs |
-| obtainment | World Bosses, War Mode, World Events |
+| obtainment | World Bosses, War Mode, World Events, Raudra, the Winged Lion |
 
 “ Awarded for prestigious deeds, or for a prestigious talent for pilfering. Holds tremendous value in all corners of Lumen. ”
 
@@ -23,12 +23,13 @@ Crowns are an end-game currency that can be obtained from completing end game ac
 
 ### **Obtaining**
 
-Crown can be obtained in 3 ways: [World Bosses](Bosses.md#world-bosses), [World Events](World_Events.md) or [War Mode](War_Mode.md).
+Crown can be obtained in 4 ways: [World Bosses](Bosses.md#world-bosses), [World Events](World_Events.md), [War Mode](War_Mode.md) and from [Raudra](Raudra,_the_Winged_Lion.md).
 
 -   **World Bosses,** namely [Heart of Enmity](Heart_of_Enmity.md), [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Interluminary Parasol](Interluminary_Parasol.md), [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), & [The Harvestman](The_Harvestman.md) will reward up to 2 Crowns (based on contribution) when defeated.
     -   [Scion of Ethiron](Scion_of_Ethiron.md) is capped at 1 Crown per kill, based on contribution.
 -   **War Mode** will reward Crowns to the winning guild based on individual contribution and the Warchest score.
--   **World Events** such as **Carnival of Hearts** and **Battle Royale** (may need testing) each reward up to two crowns upon victory.
+-   **World Events** such as **Carnival of Hearts** and **Battle Royale** (may need testing) each reward up to 2 Crowns upon victory.
+-   **Raudra, the Winged Lion** rewards 2 Crowns when completing a daily mission.
 
 ### **Usage**
 

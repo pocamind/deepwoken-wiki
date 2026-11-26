@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 235773
+revid: 235788
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics, Outfits, Skills, Talents]
@@ -2742,8 +2742,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
     -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
         -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
-        -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
-            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
+        -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage. In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
     -   Despite being obtainable on [Greatcannons](Greatcannons.md), this Talent does not function on this weapon type.
     -   **Note**: If you side with [Asius](Asius.md), adding [Bulletproof](#bulletproof) to your Talent pool, then pay [Trig](Trig.md) 2,000 Notes as an apology, it will add [Armor Piercing](#armor-piercing) to your Talent pool as well, allowing you to obtain both Bulletproof and [Armor Piercing](#armor-piercing). This is not possible if you sided with [Trig](Trig.md) initially.  
         
@@ -2783,8 +2782,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Tags: \[Light Weapon\] \[Dual Pistols\] \[Pistol\] \[Posture Damage Buff\]
 
 -   **Hip Shooter** \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
-    -   This requires you to have [bullets](Bullets.md) in your inventory.
-    -   5 second cooldown.  
+    -   5 second cooldown, independent of offhand shot cooldown.  
         
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon, Using a Pistol  
         
@@ -5443,13 +5441,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   **[Flamecharm](Flamecharm.md)**: [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/[spawn Puppets](Status_Effects.md#puppet-burn) (Twisted Puppets)
         -   **[Frostdraw](Frostdraw.md)**: [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
         -   **[Thundercall](Thundercall.md)**: [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
-        -   **[Galebreathe](Galebreathe.md)**: Extremely brief [Winded](Status_Effects.md#winded)
-        -   **[Shadowcast](Shadowcast.md)**: [Blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
-        -   **[Ironsing](Ironsing.md)**: 1 [Metal Rod](Status_Effects.md#metal-rod)
-        -   **[Bloodrend](Bloodrend.md)**: [Blood Poisoning](Status_Effects.md#blood-poisoning) and Blood Loss. Additionally, your basic attacks become eligible to proc [Gruesome Harvest](#gruesome-harvest).
+        -   **[Galebreathe](Galebreathe.md)**: Extremely brief [Winded](Status_Effects.md#winded).
+        -   **[Shadowcast](Shadowcast.md)**: [Obscures](Status_Effects.md#obscured) the enemy's vision/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
+        -   **[Ironsing](Ironsing.md)**: 1 [Metal Rod](Status_Effects.md#metal-rod)/applies [Composite Alloy](Status_Effects.md#composite-alloy) (Alloyblood)
+        -   **[Bloodrend](Bloodrend.md)**: [Blood Poisoning](Status_Effects.md#blood-poisoning)/applies [Composite Alloy](Status_Effects.md#composite-alloy) (Alloyblood). Additionally, your basic attacks become eligible to proc [Gruesome Harvest](#gruesome-harvest) and apply Blood Loss.
         -   If the Overcharmed person has multiple Attunements at the same investment, it will use the leftmost one in this priority list: Thundercall > Bloodrend > Ironsing > Shadowcast > Flamecharm > Galebreathe > Frostdraw.
         -   If the Overcharmed person does not have an Attunement, this Talent **will not work**.
-        -   If the Overcharmed person would already proc an elemental effect on a basic attack, like the using an elemental weapon like the Ignition Deepcrusher, the elemental effect will proc twice in total.
+        -   If the Overcharmed person would already proc an elemental effect on a basic attack, like the using an elemental weapon or Enchantment, the elemental effect will proc twice in total. This is extremely useful for stack-based status effects, but is fairly inconsequential otherwise.
     -   Mutual Exclusives: [Tough Love](#tough-love)
     -   Prerequisites: [Charismatic Cast](#charismatic-cast), 40 Intelligence, 80 Charisma
 
@@ -6030,7 +6028,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This procs on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals.
 
 -   Fondant Delicacy: [Fondant Splitter](Fondant_Splitter.md) - Using your Critical will allow you to eat bits off your weapon, restoring small amounts of health. This is amplified if you possess [Artisan](#artisan-chef)/[Master Chef](#master-chef), or [Umami](#umami).
-    -   Upon using the Fondant Splitter critical, take two bites out of your sword to heal 15 total health (7.5 per tick). This healing can be increased by having the [Tavernkeep](#tavernkeep) Talents, up to 24 total healing (12 per tick) if you have all three Talents.{{ulid})
+    -   Upon using the Fondant Splitter critical, take two bites out of your sword to heal 15 total health (7.5 per tick). This healing can be increased by having the [Tavernkeep](#tavernkeep) Talents, up to 24 total healing (12 per tick) if you have all three Talents.
 
 -   Forced Fulfilment: [Metal Greatsword](Metal_Greatsword.md) - Your Metal Greatsword now has [Metal Fakeout](Ironsing.md#metal-fakeout) as its critical attack. Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them.
     -   The [Metal Fakeout](Ironsing.md#metal-fakeout) critical will only work if your target is within Metal Fakeout's targeting range. Additionally, this critical counts as a weapon attack, and **not** a Mantra. Applies [Bleed](Status_Effects.md#bleed) on hit.

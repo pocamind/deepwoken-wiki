@@ -1,6 +1,6 @@
 ---
 title: "Raudra, the Winged Lion"
-revid: 235649
+revid: 235785
 source: https://deepwoken.fandom.com/wiki/Raudra%2C_the_Winged_Lion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, The Hundred Legions, Humanoids with Unobtainable Outfits, NPCs located in the Eastern Luminant]
@@ -156,19 +156,26 @@ Plundered Haul
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin Dialogue</td>
+  <td colspan="5">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="3">[Mission Incomplete]</td>
+  <td colspan="2">[Mission Complete]</td>
 </tr>
 <tr>
   <td colspan="3">There's a battle to be won, yet.</td>
+  <td colspan="2">Well fought. To the victor, the spoils.</td>
 </tr>
 <tr>
   <td>Is there another way to prove myself?</td>
   <td>What are you doing out here?</td>
   <td>Isn't it usually Khan who wear crowns like that?</td>
+  <td>What are you doing out here?</td>
+  <td>Isn't it usually Khan who wear crowns like that?</td>
 </tr>
 <tr>
   <td>You're eager. That's commendable. But war is not mastered by the reckless. Come back later.</td>
-  <td colspan="2">[See first instance]</td>
+  <td colspan="4">[See first instance]</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

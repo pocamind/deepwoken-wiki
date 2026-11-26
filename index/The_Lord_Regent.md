@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 235602
+revid: 235783
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Humanoids with Unobtainable Outfits, Prophets of The Ministry]
@@ -8,7 +8,7 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive
 
 # The Lord Regent
 
-| The Lord Regent | |
+| Lord Regent | |
 |---|---|
 | name | Zi'eer[1] |
 | alias | The Lord Regent, The 4th Prophet of The Ministry[1], The Calamity[2][3][4] |
