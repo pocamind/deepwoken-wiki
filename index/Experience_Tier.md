@@ -1,6 +1,6 @@
 ---
 title: Experience Tier
-revid: 235559
+revid: 235845
 source: https://deepwoken.fandom.com/wiki/Experience_Tier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Experience Tier
 
-**This section contains subjective information that was last updated on November 11th, 2026.**
+**This section contains subjective information that was last updated on November 27th, 2026.**
 
 ## Description
 
@@ -28,7 +28,7 @@ It is unknown currently if this also affects [Guild Scores](Guilds.md).
 <tbody>
 <tr>
   <th>Tier-1</th>
-  <td>Where every new account that has recently started playing Deepwoken is put into. It is speculated that you stay within this tier until you gain the experience equal to an maxed out slot. (P20, Oath, Murmur, Resonance, etc)<p>This is widely considered the Tier new players are placed into, granting them temporary <a href="Voidwalker.md">Voidwalker</a> Immunity as well until they have gained enough experience.</p></td>
+  <td>Where every new account that has recently started playing Deepwoken is put into. It is speculated that you stay within this tier until you gain the experience equal to an maxed out slot. (P20, Oath, Murmur, Resonance, etc)<p>This is widely considered the Tier new players are placed into, granting them temporary <a href="Voidwalker.md">Voidwalker</a> Immunity as well until they have gained enough experience. Additionally, while at this tier your selections of servers will be limited, the details to this are unknown.</p></td>
 </tr>
 <tr>
   <th>Tier-2</th>
@@ -52,6 +52,7 @@ Account experience is defined as any action an Account takes Ingame that grants 
 -   Unlocking an Attunement ([Ironsing](Ironsing.md) & [Bloodrend](Bloodrend.md))
 -   Completing Permanent-Progression Quests ([Unbounds](Attributes_Unbound.md), [Chain of Perfection](Talent_Quests.md))
 -   Unlocking Special Flaws/Boons ([Sly](Boons_and_Flaws.md), [Fugitive](Boons_and_Flaws.md))
+-   Defeating any [Enemy](Enemies.md) for the first time
 
 ## Trivia
 
