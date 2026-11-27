@@ -1,6 +1,6 @@
 ---
 title: Thula
-revid: 235324
+revid: 235806
 source: https://deepwoken.fandom.com/wiki/Thula
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -111,7 +111,7 @@ This dialogue is unlocked if the player has reached ally [Reputation](Reputation
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*The Celtor lady is looking over the paper on the small table in front of her, muttering.*</i> ...Double-check the measurements, send copies in triplicate, consult Amethyst's findings... <i>*Her gaze briefly slips off the paper, moving towards the entryway of the nearby mineshaft, as she mutters once again.*</i></td>
+  <td><i>*The Celtor lady is looking over the paper on the small table in front of her, muttering.*</i> ...Survey finished, construction completed, final report sent to First Rifle Jura... <i>*Her eyes glance at the candle, lingering, fixating on the flame.*</i> ... About time I got a break.</td>
 </tr>
 <tr>
   <td>Hey there, everything alright?</td>
@@ -169,25 +169,31 @@ This dialogue is unlocked if the player has completed the "[Mineskipper Mayhem](
   <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*The Celtor lady is looking over the paper on the small table in front of her, muttering.*</i> ...Double-check the measurements, send copies in triplicate, consult Amethyst's findings... <i>*Her gaze briefly slips off the paper, moving towards the entryway of the nearby mineshaft, as she mutters once again.*</i></td>
+  <td colspan="2"><i>*The Celtor lady is looking over the paper on the small table in front of her, muttering.*</i> ...Survey finished, construction completed, final report sent to First Rifle Jura... <i>*Her eyes glance at the candle, lingering, fixating on the flame.*</i> ... About time I got a break.</td>
 </tr>
 <tr>
   <td colspan="2">Hey there, everything alright?</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*Your question seems to start her a little.*</i> Oh? Hello. Sorry, just lot in my own work. Don't worry about it... Pondering the history of that mine over there.</td>
+  <td colspan="2"><i>*Her gaze stays fixed on the flame.*</i> Mhm. Don't worry about it. Just wondering where I'd like to go most for a vacation, now that I'm done overseeing this mineshaft malarkey. <i>*She scoffs, chuckling.</i>* Tsch, vacation... Like that's ever gonna happen.</td>
 </tr>
 <tr>
-  <td colspan="2">Is there something special about it?</td>
+  <td colspan="2">Mineshaft malarkey?</td>
 </tr>
 <tr>
-  <td colspan="2">Well, it's abandoned now, but it used to be a bustling Etrean mining outpost, ages and ages ago. Back when the Kingdom of Etrea's influence reached these parts, they had multiple outposts on these isles, digging for a variety of resources. Primarily nitre, but also for other minerals. Most of that has been depleted, though - around the same time that Etrean influences started slipping from this side of the <a href="Glossary.md#the-luminants">Luminant</a>.</td>
+  <td colspan="2">Yeah. Myself and these two chumps here... <i>*She playfully nods towards her colleagues.*</i> We were doing some surveying work in the area recently, drafting up plans for construction, but now we've wrapped up.</td>
 </tr>
 <tr>
-  <td colspan="2">The Etreans sure seem to have left a bunch of their equipment behind.</td>
+  <td colspan="2">Is there something special about the mines here?</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*She nods.*</i> Yes, some of it is decades old... But some of it is new. There's still some <a href="Glossary.md#pathfinders">Pathfinders</a> who mine around these parts, looking for whatever scraps are left in the caves. The less-prepared ones tend to quickly learn one of the <i>other</i> reasons why the Etreans abandoned this place. <i>*Her eyes glance at the entrance of the mines again.*</i></td>
+  <td colspan="2">They used to be abandoned, until we took over recently. But before all of that, this used to be a bustling Etrean mining outpost, ages and ages ago. Back when the Kingdom of Etrea's influence reached these parts, they had multiple outposts on these isles, digging for a variety of resources. Primarily nitre, but also for other minerals. Most of that has been depleted, though - around the same time that Etrean influence started slipping from this side of the <a href="Glossary.md#the-luminants">Luminant</a>.</td>
+</tr>
+<tr>
+  <td colspan="2">So this place used to be an Etrean mining outpost, huh?</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*She nods.*</i> Yes. There used to be some <a href="Glossary.md#pathfinders">Pathfinders</a> who mined around these parts until recently, looking for whatever scraps were left in the caves. The less-prepared ones tended to quickly learn one of the other reasons why the Etreans abandoned this place. <i>*Her eyes return, fixating on the candle.*</i></td>
 </tr>
 <tr>
   <td colspan="2">And why's that?</td>
@@ -202,12 +208,12 @@ This dialogue is unlocked if the player has completed the "[Mineskipper Mayhem](
   <td colspan="2"><i>*The dragoon sighs.*</i> There's still occasional Mudskippers that somehow manage to claw their way past the rubble. Nothing worse than that - but they're still a nuisance. Yet, that can be enough to take out <a href="Glossary.md#pathfinders">Pathfinders</a> who get caught unaware. That one, by the entryway... Lucien, I think was his name? He says he's lost his friends that way.</td>
 </tr>
 <tr>
-  <td colspan="2">Oh, him? Yeah, I helped him avenge them. Went in there and got ride of the Mineskippers.</td>
+  <td colspan="2">Lucien? Yeah, I helped him avenge them. Went in there and got rid of the Mineskippers.</td>
 </tr>
 <tr>
   <td><font>[Unlocked dialogue begins here]</font><br>
-  <i>*She seems surprised.*</i> Oh?.. H-hey wait a moment, you shouldn't have gone in there! That's strictly off-limits, the Company's staked a claim to the mine! <i>*She quickly looks around.*</i> But, I won't tell if you won't tell. You did us a solid for now, anyway. The Mudskippers were a real nuisance... Though, that's not the last of them, I'm sure. There's always more.</td>
-  <td>Ally <a href="The_Summer_Company.md">Summer Company</a> <a href="Reputation.md">Reputation</a></td>
+  <i>*She seems surprised.*</i> Oh?.. H-hey wait a tick, did you get company permission for that?.. <i>*She pauses for a moment.*</i> But, I guess I won't tell if you won't tell. You did us a solid for now, anyway. The Mudskippers were a real nuisance... Though, that's not the last of them, I'm sure. There's always more.</td>
+  <td>[Ally <a href="The_Summer_Company.md">Summer Company</a> <a href="Reputation.md">Reputation</a>]</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

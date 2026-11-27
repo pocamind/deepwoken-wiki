@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 228599
+revid: 235811
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,7 +10,7 @@ categories: [Aspects]
 
 | Chrysid | |
 |---|---|
-| obtained_by | 3.64% Roll Chance (Pathfinder) 1.57 Roll Chance (Vow Of Iron) |
+| obtained_by | 3.64% Roll Chance (Pathfinder) 1.57% Roll Chance (Vow Of Iron) |
 | appearance | Pale, Vibrant Skin, Moth Antennae, Colored Compound Eyes, Shoulder Ruff |
 | traits | Mothwing Dust, +3 Charisma, +2 Agility |
 

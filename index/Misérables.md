@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 224873
+revid: 235803
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -39,7 +39,7 @@ Players can choose any amount of wishes per expedition. Misérables ONLY kills y
 
 ### Wish Knowledge Calculator
 
-If you want to calculate the Knowledge you'd need for a certain amount of wishes, use this [Desmos Calculator](https://www.desmos.com/calculator/mftmw3nwvo). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
+If you want to calculate the Knowledge you'd need for a certain amount of wishes, use this [Desmos Calculator](https://www.desmos.com/calculator/yz7qtdq5gp). Remember, 1 Kyrsan Medallion = 1 Knowledge when exchanging at Klaris.
 
 ## Dialogue
 
@@ -157,4 +157,4 @@ If you want to calculate the Knowledge you'd need for a certain amount of wishes
 -   If you still have your Light Hook active, you can make your deal with Misérables and then Light Hook out. This method will still count your Echo task completed.
 -   You can use the Medallions from your Inventory to Power up against Ethiron.
 -   The maximum amount of Wishes a player can carry at any given time is 197. Due to the price ramp up, Wish 198 would require you to bypass the Knowledge cap.
-    -   This would require a combined total of ~99,485 Knowledge.
+    -   This would require a cumulative total of 99,485 Knowledge. [Demos for Misérables Wish costs](https://www.desmos.com/calculator/yz7qtdq5gp)

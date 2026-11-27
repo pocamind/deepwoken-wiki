@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 234604
+revid: 235797
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -39,13 +39,15 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 
 The Iron Requiem is a Legendary [Ironsing](Ironsing.md)\-Scaling Pistol obtained within Ignition Union territories, most commonly through the [Saramaed Hollow](Saramaed_Hollow.md) dungeon. Unlike other Pistols, it may only be used as a **Main Hand** weapon, but an offhand weapon can still be used alongside it.
 
-The Iron Requiem comes with a passive that applies metal rods onto enemies when struck with an unloaded M1.
-
 The Iron Requiem has a [Bullet](Bullets.md) capacity of 6, meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
 
-## Talents
+## Talent
 
 Equipping the Iron Requiem grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+[**Latching Metal**](Talents.md#latching-metal) allows your Basic Attacks to apply 1 [Metal Rod](Status_Effects.md#metal-rods) while your Iron Requiem is not loaded.
+
+This Talent is exceptionally useful on Dual Guns, as you cannot load rounds manually.
 
 ## Critical
 
@@ -59,5 +61,5 @@ Both criticals have a cooldown of **7 seconds**.
 
 -   The description previously had "print(4\*1) Reverse-engineered..." in it.
 -   The Ironsing icon is engraved on both sides of the gun.
--   The [Sleight of Hand](Talents.md#sleight-of-hand) Talent procs on dual guns, reloading one bullet on flourish, despite stating it's single gun only. Because of this, you can use Iron Requiem's running critical on dual guns.
+-   The [Sleight of Hand](Talents.md#sleight-of-hand) Talent procs on dual guns, reloading one bullet on flourish, despite stating it's single gun only. Because of this, you can use Iron Requiem's running critical on dual guns, although this will work against the Latching Metal Talent.
 -   Along with the [Soulwrought Gun](Crazy_Slots.md#weapons) and [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only three pistols in the game to play a unique sound effect on M1/crit.

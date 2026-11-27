@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 234647
+revid: 235801
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Legendary Weapons, Relics, Relic Weapon]
@@ -22,7 +22,6 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | attack duration | 0.6s |
 | penetration | 5% |
 | talent | Fondant Delicacy - Using your Critical will allow you to eat bits off your weapon, restoring small amounts of health. This is amplified if you possess Artisan/Master Chef, or Umami. |
-| special effect | The critical heals the user. The amount healed can be increased with the Umami and Tavernkeep Talents. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -52,11 +51,11 @@ The Fondant Splitter can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) 
 
 Additionally, the Fondant Splitter's critical is buffed further when the player has all [Chef Talents](Talents.md#tavernkeep).
 
-## Talents
+## Talent
 
 Equipping the Fondant Splitter grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Fondant Delicacy**](Talents.md#fondant-delicacy) lets your critical actually do something. It wouldn't do anything without this Talent.
+[**Fondant Delicacy**](Talents.md#fondant-delicacy) grants healing upon using your Critical Attack. This healing is improved by having the [Taber keep](Talents.md#taber-keep) Talents. See the [Critical Attack](#critical) section below for more info.
 
 ## Critical
 

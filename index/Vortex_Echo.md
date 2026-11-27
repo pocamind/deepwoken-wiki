@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 234706
+revid: 235796
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons, Relic Weapon]
@@ -19,7 +19,7 @@ categories: [Weapons, Weapons with Talents, Fists, Weapons with Unique Criticals
 | range | 6 Sweep |
 | swing speed | 1.12x |
 | attack duration | 0.5s |
-| special effect | Crit lowers all cooldowns by 30 seconds |
+| talent | Time Dialation - When using your Critical, lower your Cooldowns by 30s. Your Critical inflicts yourself with Wither. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -37,11 +37,11 @@ categories: [Weapons, Weapons with Talents, Fists, Weapons with Unique Criticals
 
 The **Vortex Echo** is a [Relic](Relics.md) [Fists](Fists.md) weapon that requires 65 LHT and 65 CHA, being crafted with a [Weathered Timepiece](Weathered_Timepiece.md), [Temporal Crux](Temporal_Crux.md), and [Kyrsan Schematic](Kyrsan_Schematic.md) using a Crafting Table. The weapon harnesses the power of space-time distortions from the [Second Layer](Second_Layer.md), allowing you to use your many abilities again, it **does not** match your current [Fist](Fists.md) style, defaulting to [Legion Kata](Legion_Kata.md).
 
-## Talents
+## Talent
 
 Equipping the Vortex Echo grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Time Dilation**](Talents.md#time-dilation) ensures the critical does something other than applying Wither.
+[**Time Dialation**](Talents.md#time-dialation) reduces all active cooldowns by 30 seconds upon using the Vortex Echo Critical Attack, however it applies self [Wither](Status_Effects.md#wither) on use. See the [Critical Attack](#critical) section for more info.
 
 ## Critical
 
@@ -52,14 +52,6 @@ The Critical attack will reduce almost all active cooldowns by 30 seconds (Mantr
 If you do not meet Vortex Echo's attribute requirements, the cooldown reduction on critical will be halved to 15 seconds.
 
 Note: Mantras that have a cooldown that's longer than 15/30 seconds will not display Vortex Echo's effects correctly on their tooltips. Additionally, Temporal Fatigue IS a critical cooldown, you cannot swap to a different weapon and use their critical while Temporal Fatigue is on cooldown.
-
-| List of unaffected cooldowns: |
-| --- |
-| Windwaker  
-Voideye  
-Buster Call
-
- |
 
 ## Trivia
 

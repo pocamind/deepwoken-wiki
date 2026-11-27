@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 230955
+revid: 235804
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tools, Echo Unlockables]
@@ -19,7 +19,7 @@ categories: [Tools, Echo Unlockables]
 | bankable | No |
 | droppable | No |
 | pass down | No |
-| desc | Drink up. |
+| desc | Fill this up from water sources like wells and rivers. |
 | obtainment | Sold by the Travelling Merchant, x1 Calabash and x1 Beeswax at a Crafting Station |
 
 ## Description

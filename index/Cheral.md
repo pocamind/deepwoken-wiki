@@ -1,6 +1,6 @@
 ---
 title: Cheral
-revid: 230611
+revid: 235809
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
@@ -88,10 +88,14 @@ This dialogue is unlocked if the player is holding a [Navaen Hostage](Navaen_Hos
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Oh, thank Navae you found them! You have given us a great gift, let me bestow upon you the knowledge of our ancestors. <i>(<a href="Glossary.md#talent">Talent</a> Unlocked)</i></td>
+  <td>Oh, thank Navae you found them! You have given us a great gift. Please, allow me to share with you some of the knowledge we carry on our journey...<br>
+  <font>[Way of Navae fist style learned]</font></td>
 </tr>
 <tr>
-  <td>[End Dialogue], <a href="Way_of_Navae.md">Way of Navae</a> fist style learned</td>
+  <td>Is there some kind of arrangement between the Etreans and you?</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>

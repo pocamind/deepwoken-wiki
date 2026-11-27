@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 234614
+revid: 235800
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons with Unique Animations, Weapons of The Ministry]
@@ -41,11 +41,11 @@ Variants: [Black Death](Black_Death.md)
 
 The **Red Death** is a Legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowcast.md) Spear; a vile tool used by [Ministry Heartspillers](Ministry_Heartspiller.md) to aid in ruthless interrogation tactics while also leaving no trace of the target's organic remains and ether. It can be dropped from the [Ministry Heartspiller](Ministry_Heartspiller.md). It is also sold by [Traan Zakshun](Traan_Zakshun.md) in the black market rotation for 4.
 
-## Talents
+## Talent
 
 Equipping the Red Death grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Tainted Blade**](Talents.md#tainted-blade) allows your weapon's critical to apply Blood Poison. Furthermore, after executing humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving no trace behind.
+[**Tainted Blade**](Talents.md#tainted-blade) allows your weapon's critical to apply Blood Poison and Shadowed. Furthermore, after executing humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving no trace behind.
 
 ## Critical
 

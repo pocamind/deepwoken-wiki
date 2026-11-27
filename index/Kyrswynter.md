@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 234627
+revid: 235798
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, Kyrs series]
@@ -49,11 +49,13 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 
 Only one Kyrswynter may be obtained per character).
 
-## Talents
+## Talent
 
 Equipping the Kyrswynter grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-[**Subzero Strike**](Talents.md#subzero-strike) activates on flourish, causing enemies to be blasted away by an explosion, dealing extra damage and proccing Chill or Crystal stacks. This does 10 base damage. ([Dazing Finisher](Talents.md#dazing-finisher) does not proc.)
+[**Subzero Strike**](Talents.md#subzero-strike) activates on flourish, causing enemies to be blasted away by an explosion, dealing 10 extra damage and proccing Chill or detonating applied Crystals. You must land all 3 basic attacks prior to your flourish for this effect to trigger.
+
+[Dazing Finisher](Talents.md#dazing-finisher) does not proc on this unique flourish.
 
 ## Criticals
 

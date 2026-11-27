@@ -1,6 +1,6 @@
 ---
 title: "Raudra, the Winged Lion"
-revid: 235785
+revid: 235795
 source: https://deepwoken.fandom.com/wiki/Raudra%2C_the_Winged_Lion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, The Hundred Legions, Humanoids with Unobtainable Outfits, NPCs located in the Eastern Luminant]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 Raudra, the Winged Lion is a [Felinor](Felinor.md) NPC.
 
-He is warrior from the [Hundred Legions](The_Hundred_Legions.md) who is currently investigating the [Starkindred Church](The_Starkindred_Church.md)'s influence within the East, as well as the art of [Bloodrending](Bloodrend.md). At a young age, he was captured by the Church, forcibly ending up as a [Starkindred](Oath%253A_Starkindred.md) before shaping the Oath into his own will.
+He is a warrior from [The Hundred Legions](The_Hundred_Legions.md) who is currently investigating the [Starkindred Church](The_Starkindred_Church.md)'s influence within the East, as well as the art of [Bloodrending](Bloodrend.md). At a young age, he was captured by the Church, forcibly ending up as a [Starkindred](Oath%253A_Starkindred.md) before shaping the Oath into his own will.
 
 He tasks the player with a PvP-based challenge for 3 [War Spoils](War_Spoils.md) and 2 [Crowns](Crowns.md) once every day.
 
@@ -214,7 +214,7 @@ This dialogue is unlocked if the player is a [Starkindred](Oath%253A_Starkindred
 -   His title of "the [Winged Lion](https://en.wikipedia.org/wiki/Winged_lion)" has biblical origins:
     -   Winged Lions are used as a symbol for courage and resurrection, possibly alluding to how he morphed the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) into his own.
     -   Statues of lions act as a guardian of sorts for cities and temples; this possibly refers to the role he takes in [The Hundred Legions](The_Hundred_Legions.md).
--   Despite his tough appearance, he can be scared using a [Hallowtide Mask](Hallowtide_Mask.md).
+-   Despite his tough appearance, he was able to be scared using a [Hallowtide Mask](Hallowtide_Mask.md).
 
 ## References
 

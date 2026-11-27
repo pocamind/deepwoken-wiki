@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 235341
+revid: 235810
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -960,7 +960,7 @@ Dialogue: [Vesna](Vesna.md) | Books: | Glossary Entries: [Span](#span)
 -   An ability, skill, technique, or feat you learn. On your journey, you may pick up many such talents.
 -   Some are purely products of your own prowess, others are empowered by the [Song](#the-song).
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Eastern Camp Master](Cheral.md) upon returning a hostage | Books: | Glossary Entries:
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Books: | Glossary Entries:
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Astral
-revid: 235597
+revid: 235805
 source: https://deepwoken.fandom.com/wiki/Astral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -24,7 +24,7 @@ Astral is a PvE-based buffing [enchantment](Enchantments.md) that increases your
 
 Astral increases the damage of your M1s by 20% in PvE.
 
-Additionally, upon parrying three times in quick succession or landing a critical attack, a star will rain down, dealing damage in an AoE. This deals 100 PvE damage or 4% of a player's health in PvP.
+Additionally, upon landing a critical attack, or parrying in quick succession (thrice in PvE, or ten times in PvP) a star will rain down, dealing damage in an AoE. This deals 100 PvE damage or 3% of a player's health in PvP.
 
 ### Notes
 
