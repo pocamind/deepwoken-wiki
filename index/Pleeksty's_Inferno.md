@@ -1,9 +1,9 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 234699
+revid: 235854
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals, The Covenant of Flame]
+categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals, The Covenant of Flame]
 ---
 
 # Pleeksty's Inferno
@@ -13,7 +13,6 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, "At
 | type | Club |
 | damage type | Slash |
 | requirements | 40 MED, 80 FIR |
-| oath | Silentheart |
 | damage | 22 |
 | scaling | MED: 3, FIR: 4 |
 | posture damage | 7.5 |

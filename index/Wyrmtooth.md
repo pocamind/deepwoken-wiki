@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 234839
+revid: 235871
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals", Weapons with Multiple Classes]
@@ -40,17 +40,17 @@ The **Wyrmtooth** is a sword that drops from bosses and endgame events like the 
 
 The Wyrmtooth boasts a massive 9 range and an above average weight of 7; it can reliably outrange the majority of light and medium melee weapons and, paired with its decently high swing speed, allows you to maintain pressure on your opponents while remaining relatively safe.
 
-## Talents
+## Talent
 
 Equipping the Wyrmtooth grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 [**Ebb and Flow**](Talents.md#ebb-and-flow) procs when landing a [Medium](Attunement-less.md#medium-weapon-mantras) or [Heavy](Attunement-less.md#heavy-weapon-mantras) weapon Mantra, increasing the Mantra level of your next casted Mantra of the opposing type by +1. This effect **only** applies when alternating weapon Mantras. For example, if you land one heavy Mantra and then follow up with two medium Mantras, the second medium Mantra will **not** receive the buff; your stacks won't be lost, the effect just won't be applied.
 
-This can bypass the level 5 cap, and is stackable, capping at at +5 levels. If one of your Medium or Heavy Mantras get parried, dodged, or blocked, all stacks will be lost. Multi-hits do not grant multiple stacks.
+This can bypass the level 5 cap, and is stackable, capping at at +5 levels. If you take damage or block an attack, all stafks will be lost. Multi-hits do not grant multiple stacks.
 
 For example, if you have a level 5 [Pressure Blast](Attunement-less.md#pressure-blast), landing [Master's Flourish](Attunement-less.md#masters-flourish) before casting Pressure Blast will increase Pressure Blast's level by +1, to 6, and vice versa. You will then need to follow up with a Mantra of the opposing type to stack the buff further and apply its bonuses.
 
-If you take damage or block an attack, all stacks will be lost. This does **not** apply to [Punishment](Attunement-less.md#punishment), presumably for balancing reasons.
+Ebb and Flow does **not** apply to [Punishment](Attunement-less.md#punishment), presumably for balancing reasons.
 
 ## Critical
 

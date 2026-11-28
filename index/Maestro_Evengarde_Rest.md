@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 230934
+revid: 235874
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Humanoid Bosses, Bosses, Etrea]
@@ -224,7 +224,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
  | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
 
--   Triggered by spitting in the dungeon**at any point**. Charisma can not bypass this.
+-   Triggered by spitting in the dungeon **at any point**. Charisma can not bypass this.
 -   Spitting anywhere while in his arena, even if not directly on Maestro himself, will trigger Tempest Eye when the fight starts. If you spit at any point even before interacting with Maestro, the Tempest eye will activate and you will die.
 -   Reduces reputation with Etrea by a great amount.(Currently bugged.)
 

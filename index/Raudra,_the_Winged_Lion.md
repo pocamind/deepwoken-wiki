@@ -1,6 +1,6 @@
 ---
 title: "Raudra, the Winged Lion"
-revid: 235795
+revid: 235853
 source: https://deepwoken.fandom.com/wiki/Raudra%2C_the_Winged_Lion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, The Hundred Legions, Humanoids with Unobtainable Outfits, NPCs located in the Eastern Luminant]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 Raudra, the Winged Lion is a [Felinor](Felinor.md) NPC.
 
-He is a warrior from [The Hundred Legions](The_Hundred_Legions.md) who is currently investigating the [Starkindred Church](The_Starkindred_Church.md)'s influence within the East, as well as the art of [Bloodrending](Bloodrend.md). At a young age, he was captured by the Church, forcibly ending up as a [Starkindred](Oath%253A_Starkindred.md) before shaping the Oath into his own will.
+He is a warrior from [The Hundred Legions](The_Hundred_Legions.md) who is currently investigating [The Starkindred Church](The_Starkindred_Church.md)'s influence within the East, as well as the art of [Bloodrending](Bloodrend.md). At a young age, he was captured by the Church, forcibly ending up as a [Starkindred](Oath%253A_Starkindred.md) before shaping the Oath into his own will.
 
 He tasks the player with a PvP-based challenge for 3 [War Spoils](War_Spoils.md) and 2 [Crowns](Crowns.md) once every day.
 

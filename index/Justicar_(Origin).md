@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 235575
+revid: 235865
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -105,6 +105,8 @@ Players can choose between 2 different paths upon reaching Elder rank before the
 
 Vanguards are focused on combat and are designed to aid you in defending Castaways.
 
+Obtained from [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md).
+
 Upon taking the Vanguard Path, you will automatically be granted [Justicar's Armor.](<Justicar's_Armor.md>)
 
 ### Exclusive Features
@@ -189,6 +191,8 @@ Vanguard Path, given automatically after joining it.
 ## Warder Path
 
 Warders are primarily focused on support and granting buffs to your allies.
+
+Obtained from [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md).
 
 Upon taking the Warder path, you will automatically be granted [Warder's Attire](<Warder's_Attire.md>).
 

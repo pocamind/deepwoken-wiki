@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 232970
+revid: 235859
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, Diver Enemies, NPCs located in the Etrean Luminant]
@@ -336,6 +336,7 @@ Nell executes their opponent after knocking them:
 -   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay and Story Segregation, having it for the games' sake; being so they have a unique, legendary weapon when they're fought.[\[3\]](#cite-note-3)
 -   Nell used to have [Rapid Punches](Attunement-less.md#rapid-punches) before the NPC Mantra changes.
 -   Unlike most [Attunement Trainers](Attunement_Trainers.md), they can be aggroed, seen during the [Etris Raid](Cinders_of_Etris.md) event occasionally fighting off Authority troops if they somehow get to her.
+-   Their hair ID is 398673196
 
 ## References
 

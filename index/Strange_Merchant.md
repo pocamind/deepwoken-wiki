@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 229551
+revid: 235866
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -512,6 +512,10 @@ Oath [ResistanceOath](Oaths.md)
 ### True Heart of Enmity
 
 -   Voice of the Mad God \[Common Talent\] - Any time you apply [charm](Status_Effects.md#charm) it now applies "[Madness](Status_Effects.md#madness)" to enemies directly.
+
+## Trivia
+
+-   Spending up to 16,000 notes to unlock this memento requires opening 7 mystery boxes requiring 25,400 total notes
 
 ## References
 

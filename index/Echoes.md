@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 235045
+revid: 235852
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -183,7 +183,7 @@ You must CHOOSE it. If you attempt to choose in [Fragments of Self](Fragments_of
 
 There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased a maximum of 1 to 6 times, depending on the upgrade. Purchasing the maximum level of all Echo upgrades and all unlocks costs 2695 Echoes.
 
-[Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 40 Echoes per item even if they're Soulbound. This is not renewable.
+[Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 40 Echoes per item even if they're Soulbound. The cost is not one-time and must be paid each time you choose to passdown these items.
 
 **Upgrades:**
 

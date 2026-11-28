@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 224776
+revid: 235857
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -245,6 +245,7 @@ Funke executes their opponent after knocking them:
 -   Funke is the German word for "spark".
 -   They did not wield the [Stormseye](Stormseye.md), after its addition in the 6/5/2023 update, despite both being at Summer Isle and it being a Thundercall based weapon. This was finally corrected in the 11/10/2023 update, a staggering five months later.[\[2\]](#cite-note-2)
     -   Arch\_Mage stated the reason was rifles not being coded for NPCs, but [this was incorrect](<Summer_Dragoon_(NPC).md>).
+-   Their hair ID is 62234425
 
 ## References
 
